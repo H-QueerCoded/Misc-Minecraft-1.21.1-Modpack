@@ -1,0 +1,13 @@
+name = "How to make a new dye"
+filename = "how_to_make_a_new_dye-1.0.0-datapack-1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4kyqJn5j/versions/Ff2XXKlO/how_to_make_a_new_dye-1.0.0-datapack-1.21.1.zip"
+hash-format = "sha512"
+hash = "b601bf920dcb08d75684a0efe223e40d05953f69930c94d655cc97382aff8f3c965d3e47c3109522511d43df55e69876d6ab220d019943957bda746c0f551a79"
+
+[update]
+[update.modrinth]
+mod-id = "4kyqJn5j"
+version = "Ff2XXKlO"

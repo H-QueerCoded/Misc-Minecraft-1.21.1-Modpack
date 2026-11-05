@@ -2296,6 +2296,11 @@ hash = "cdff1d15c3efe4147f9ba4506b8751491605e27b1c06f68b42c636a50c709ff4"
 metafile = true
 
 [[files]]
+file = "moonlight-global-datapacks/how-to-make-a-new-dye.pw.toml"
+hash = "59fac373fca61b2f9b15fa3bdb8f1f35d2cb619028af488bf18dbf9e3afd745a"
+metafile = true
+
+[[files]]
 file = "moonlight-global-datapacks/purpurpack-breed-axolotl-with-tropical-fish-item.pw.toml"
 hash = "f1424c9a7a883604cbc3c4d0b092c66d33ff6d38761a4d6c45c9cd0b56b1b083"
 metafile = true
