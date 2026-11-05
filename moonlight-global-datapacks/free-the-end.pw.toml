@@ -1,0 +1,13 @@
+name = "Free The End"
+filename = "free-the-end-1.20-1.21.11.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ckV6yvaE/versions/WVx1479h/free-the-end-1.20-1.21.11.zip"
+hash-format = "sha512"
+hash = "db0a5b46678e75dbab8ba83fcc024423c27f0d793679482493eaf9975c82bb0d6f3cb210f5bb1df6aae1cf9fd61092c5f0935b947ab6e759411ed6cc23502116"
+
+[update]
+[update.modrinth]
+mod-id = "ckV6yvaE"
+version = "WVx1479h"

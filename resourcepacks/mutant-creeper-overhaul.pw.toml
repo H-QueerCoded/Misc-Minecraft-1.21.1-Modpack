@@ -1,0 +1,13 @@
+name = "Mutant Creeper Overhaul"
+filename = "Mutant_Creeper_Overhaul.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AbvkCtsA/versions/xv8msspd/Mutant_Creeper_Overhaul.zip"
+hash-format = "sha512"
+hash = "ca86acbf58668d41edaf17aef60cb05bc833f0e62722dfb77b95d4ec0f655b7e9d6a44fa6065e4ea36a7c51d9f33603dec5067641021ef6d666b95c8075fcaaa"
+
+[update]
+[update.modrinth]
+mod-id = "AbvkCtsA"
+version = "xv8msspd"
