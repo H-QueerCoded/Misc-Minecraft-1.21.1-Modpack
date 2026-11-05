@@ -995,7 +995,7 @@ hash = "ae5fce361d4adb6d695f92404beb21846ebd81516ce3acabae3d3d61064b23fa"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "fb1add8001f49f719c49a45220868df702aeb14632c08c71e8f0c4f6c3fb406c"
+hash = "b53904b76cfb186005f302bfcc311919655258618d02d1d8232ec8f2556ebae5"
 
 [[files]]
 file = "config/sawmill-common.toml"
@@ -2072,7 +2072,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
-hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
+hash = "08e7625da2ecef8e836652537f2bee175ee332809f235f6d3dece03f97d154bc"
 metafile = true
 
 [[files]]
