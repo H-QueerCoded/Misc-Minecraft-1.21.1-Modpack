@@ -1,0 +1,13 @@
+name = "Equipment Expansion: Silly Style"
+filename = "e2s2-2.3.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aMZRcMnF/versions/PyZ6PEgU/e2s2-2.3.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "6e526f23fb46b64daa770a3590d5532f48ccb5308f927a2a90e2b000df08e1a4ad1d1dfd136c17912ae9b89b1130e2ae6db79742996814e53f5d31bd317e7e6d"
+
+[update]
+[update.modrinth]
+mod-id = "aMZRcMnF"
+version = "PyZ6PEgU"

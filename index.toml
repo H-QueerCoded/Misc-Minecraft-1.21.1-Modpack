@@ -1311,6 +1311,11 @@ hash = "01582be6063d52fe699360fc548a4d823f6e8a7e7acda3571de6c9c060ec34f7"
 metafile = true
 
 [[files]]
+file = "mods/apple-wood-rebarked.pw.toml"
+hash = "6048abf2f4129a1f07350d7256c09808c943366e2485af5951156b06a4ebb1c1"
+metafile = true
+
+[[files]]
 file = "mods/applied-delight.pw.toml"
 hash = "45e0a91d0c573e2f4c3c523d33991f4d547e8d54e34be1521f68a0a2516e4219"
 metafile = true
@@ -1483,6 +1488,11 @@ metafile = true
 [[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "206ca58e8978bb012e8469ea9813c64335984bc7ec93b88bc3f0d573f432ab9c"
+metafile = true
+
+[[files]]
+file = "mods/e2s2.pw.toml"
+hash = "ae58f7ee4d7be432ad2e3dbc98060a3d23253eaaf5f49790ebb8fcb3c5135316"
 metafile = true
 
 [[files]]
@@ -1723,6 +1733,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "b0c37ca9826781a6bf1373ae02a141b4202037515eb071ec2327410771de6ea5"
+metafile = true
+
+[[files]]
+file = "mods/jungle-treehouse-village.pw.toml"
+hash = "b1154303f1513784ec1c482616c8ee5bb05efe996f7bfa29c1cd75277f28a9f3"
 metafile = true
 
 [[files]]
@@ -2121,6 +2136,11 @@ hash = "48a53e4a0b0cbbe286cc2395733d3205b30d63994c76784da234727dcfa5a629"
 metafile = true
 
 [[files]]
+file = "mods/trample-no-more.pw.toml"
+hash = "29befa93c082c808be39f4152f72d2f7c5c7f54072d2282baac45301b818879a"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
 metafile = true
@@ -2272,6 +2292,16 @@ metafile = true
 [[files]]
 file = "moonlight-global-datapacks/green-and-brown-dye-recipes.pw.toml"
 hash = "cdff1d15c3efe4147f9ba4506b8751491605e27b1c06f68b42c636a50c709ff4"
+metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/purpurpack-breed-axolotl-with-tropical-fish-item.pw.toml"
+hash = "fe32b91fb0193627a8e131101d76ed5e90f1e674034e893527fb3f8cce075a08"
+metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/purpurpacks-infinity-on-crossbows.pw.toml"
+hash = "b92125ae4e47bd6f8c7f8765ddc33adbedce735ea216927a7d09fb2c0c438f17"
 metafile = true
 
 [[files]]

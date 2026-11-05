@@ -1,0 +1,13 @@
+name = "Breed Axolotl With Tropical Fish Item [PurpurPack]"
+filename = "purpurpack_breed_axolotl_with_tropical_fish_item_3.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZLRxxRmh/versions/BZCz5RGn/purpurpack_breed_axolotl_with_tropical_fish_item_3.1.zip"
+hash-format = "sha512"
+hash = "b669da57ecb81f6ff65c26126745315a2cb916245df9049a0ecd890188295813d9a6f0fe68fff40c81e9185f4948bdc9bee68698cf06892db6ee11f4cb60c28a"
+
+[update]
+[update.modrinth]
+mod-id = "ZLRxxRmh"
+version = "BZCz5RGn"
