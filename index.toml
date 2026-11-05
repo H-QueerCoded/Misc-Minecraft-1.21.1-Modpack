@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/EasyMSC/biome_bans.json"
+hash = "9c8d2e36c44cf782a7346b25e28f4299f05af81038b896cf89fddef7587daa11"
+
+[[files]]
+file = "config/EasyMSC/dimension_bans.json"
+hash = "9260e97f48aa31f326969296dae20914c6a2657bd70de96f866b85d88546dd5d"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -51,10 +59,6 @@ hash = "15478fc0d78ee4a5c8664c42fa13b55f53abfc30250d165b13f3848eb8253342"
 [[files]]
 file = "config/alltheleaks.json"
 hash = "2437057bda7e53d91e7a8c400da308a8d848fbdcc80ed845a9c8dbdabd071482"
-
-[[files]]
-file = "config/almostunified/debug.json"
-hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
 
 [[files]]
 file = "config/almostunified/duplicates.json"
@@ -750,10 +754,6 @@ file = "config/jei/client/default/jei-colors.ini"
 hash = "1372b094bf8f1d444f04cf4da7f9dc05c445d7ab5b3f73ecd7cfbef79ccad1d7"
 
 [[files]]
-file = "config/jei/client/default/jei-debug.ini"
-hash = "6fbae6db21c604fa008d2e4a696789c1fd2fccdbc741194c8fdfb3f1cd8bdc05"
-
-[[files]]
 file = "config/jei/client/default/jei-mod-id-format.ini"
 hash = "e64349cae34367965848d7fb390dcd6a52d23c012c4711005a70084d958cee67"
 
@@ -1371,6 +1371,11 @@ hash = "fc8954e0d3fa66b917d2c84ee04d07b073a9eb6f719d09e1ff85527c1d61a10e"
 metafile = true
 
 [[files]]
+file = "mods/battlemusic.pw.toml"
+hash = "71b16687a37fde00948ac06957d8105618e02f66f0b61630f7925900890d69a1"
+metafile = true
+
+[[files]]
 file = "mods/bedrockoid.pw.toml"
 hash = "014e212c66f7b0ec3e7ff80d8ebb1806bf70a3d8d080e7987025ed7519d48641"
 metafile = true
@@ -1483,6 +1488,11 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
+metafile = true
+
+[[files]]
+file = "mods/easy-mob-spawn-control.pw.toml"
+hash = "cd218f18cf70575fe8790548c6d4a6e14a41b36daa88bbc1deb2c0ff308b2b44"
 metafile = true
 
 [[files]]
@@ -1831,6 +1841,11 @@ hash = "e5e98cd5b63adeec29a60e22ea5699c28118daef8e69fce99dd7dbe150c48f3b"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "e672245ac368cb42b521a0be668fed61a5b5129d25eec7b8db7722e8f49e2292"
+metafile = true
+
+[[files]]
 file = "mods/mycomancy.pw.toml"
 hash = "6f92567046acca0eff92d6b97c25bc14f3e36c062ba471816efbfffcd3fd1bb0"
 metafile = true
@@ -2136,6 +2151,11 @@ hash = "b288f8bf3f0db0254efb9f2ec8f5a56d090954eceddfec388588919218adf9a4"
 metafile = true
 
 [[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "d00c1b5dc4ccb271b2e75289b8f49be74a0d19c2fad8cb8240c2699ae4f71831"
+metafile = true
+
+[[files]]
 file = "mods/wakes-reforged.pw.toml"
 hash = "8e464c45945b7311b01d0be50a714e8a64d389dc27331f4a27d7981fd29131b9"
 metafile = true
@@ -2235,6 +2255,11 @@ hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
+file = "moonlight-global-datapacks/free-the-end.pw.toml"
+hash = "a45300c5a89f32fc0225f7f99b6e6bfc38ac931f7e5a1410f8b2f4fb6ad09b86"
+metafile = true
+
+[[files]]
 file = "moonlight-global-datapacks/from-the-fog.pw.toml"
 hash = "c3ebeddc793fc8eb36f6668e3d0f9a187fe1134439fb5d70ab58c9fb4d5285db"
 metafile = true
@@ -2242,6 +2267,11 @@ metafile = true
 [[files]]
 file = "moonlight-global-datapacks/geophilic.pw.toml"
 hash = "1aebf34a4105bddbbf33e05a455559eab6ebac6ee5ac89dcfc9a78d54dc9d119"
+metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/true-ending.pw.toml"
+hash = "82ff304ca30f125cc33378ccdc35564941a8910240266ee7107dbfbac428e755"
 metafile = true
 
 [[files]]
@@ -2275,6 +2305,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/king-of-the-nether.pw.toml"
 hash = "78e652a1c53d6c18d80bef1ebc7005583484c1a80cbdd336018c17be76acd0a8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mutant-creeper-overhaul.pw.toml"
+hash = "7f430045401fc8d8a369317b9e33405282f96dc88130bd5c8d3f06c5e57df3a8"
 metafile = true
 
 [[files]]
