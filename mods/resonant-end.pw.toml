@@ -1,0 +1,13 @@
+name = "Resonant End"
+filename = "resonantend-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcef0d74b7cd062e981f7d2f031d8b0e89f41f5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8983514
+project-id = 1589892

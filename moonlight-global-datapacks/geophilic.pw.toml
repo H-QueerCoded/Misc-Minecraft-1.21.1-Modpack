@@ -1,0 +1,13 @@
+name = "Geophilic"
+filename = "Geophilic v3.7.dp.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hl5OLM95/versions/SVRy1ecx/Geophilic%20v3.7.dp.zip"
+hash-format = "sha512"
+hash = "7a361ddcc8d82a3d7a50611a8eb548f88e781fb856097ace222304558ccf06efcf99814872f2af3a0747b105467839ef6c557557c01caece2678ef4cf060161b"
+
+[update]
+[update.modrinth]
+mod-id = "hl5OLM95"
+version = "SVRy1ecx"

@@ -1,0 +1,13 @@
+name = "No Wooden Slots for Immersive Engineering"
+filename = "NoWoodenIEPlusSound.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "643089b253aaf75e059921d3c416fc90b969502b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3631161
+project-id = 574915

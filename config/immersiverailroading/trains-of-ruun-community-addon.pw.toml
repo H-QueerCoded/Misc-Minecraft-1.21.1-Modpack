@@ -1,0 +1,13 @@
+name = "Trains of Ruun: Community Addon"
+filename = "ToR_Community_V0.9.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gVYGR544/versions/ixC9wlzw/ToR_Community_V0.9.1.zip"
+hash-format = "sha512"
+hash = "6e63dfbddffe6b71b92b279844028b70056feeb58bb1287aad622009497761a5baa042741e0bafcbe3895b47d8436c60eb7f893161c4ebde96d18239838094bb"
+
+[update]
+[update.modrinth]
+mod-id = "gVYGR544"
+version = "ixC9wlzw"

@@ -1,0 +1,13 @@
+name = "Immersive Railroading"
+filename = "ImmersiveRailroading-1.21.1-neoforge-1.11.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PVCiYbMM/versions/U9knVEVP/ImmersiveRailroading-1.21.1-neoforge-1.11.0.jar"
+hash-format = "sha512"
+hash = "27553b81f764fbf7b86fafde091cbf65e8d1e98e50192f3b47a3df5298e94f84bff50110168935f2e34e060c285665efd5b510f5e7ff9ce8c1af3e5058f9ead4"
+
+[update]
+[update.modrinth]
+mod-id = "PVCiYbMM"
+version = "U9knVEVP"

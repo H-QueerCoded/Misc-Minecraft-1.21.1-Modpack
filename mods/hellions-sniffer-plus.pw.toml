@@ -1,0 +1,13 @@
+name = "Hellion's Sniffer+"
+filename = "snifferplus-NeoForge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVgHoKxg/versions/T7xi0ukd/snifferplus-NeoForge-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "20898b544e5a6e75d56961240427049ddab6bd7c74faf16843d97a17c2c90fafd5dd12076bbcafae0db1fd00e5393036ca227825ecced1234682d5f9fba4cae4"
+
+[update]
+[update.modrinth]
+mod-id = "BVgHoKxg"
+version = "T7xi0ukd"

@@ -1,0 +1,9 @@
+disabledMods = [
+	"betterdungeons",
+	"betterdeserttemples",
+	"betterjungletemples",
+	"betteroceanmonuments",
+	"expandeddelight",
+	"neoecoae",
+	"corn_delight"
+]

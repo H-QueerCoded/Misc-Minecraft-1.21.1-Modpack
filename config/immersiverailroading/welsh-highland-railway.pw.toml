@@ -1,0 +1,13 @@
+name = "Welsh Highland Railway"
+filename = "Welsh_Highland_Narrow_Gauge_1.6.2_1.14.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "302390a12a55dbf6270cf09d61515c2a8877bb75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3642228
+project-id = 352854

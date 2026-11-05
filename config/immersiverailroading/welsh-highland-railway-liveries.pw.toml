@@ -1,0 +1,13 @@
+name = "Welsh Highland Railway Liveries"
+filename = "Welsh_Highland_Narrow_Gauge_Liveries 1.0 1.14.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43645482464accc3fe94183e2677f168a086df5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2956020
+project-id = 383195

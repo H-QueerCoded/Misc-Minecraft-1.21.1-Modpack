@@ -1,0 +1,13 @@
+name = "[IR] DE_Ket's Global Train Pack For Immersive Railroading"
+filename = "[IR]DE_Ket_TrainPack_V081.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "884a07506269e5dfaae07bca610b49c6ed97fd86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8829433
+project-id = 899470

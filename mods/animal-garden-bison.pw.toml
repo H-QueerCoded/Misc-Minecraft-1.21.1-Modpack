@@ -1,0 +1,13 @@
+name = "Animal Garden - Bison"
+filename = "animalgarden-bison-1.0.0-neoforge-1.21.1.248.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qDwwnqvr/versions/7r8V84OP/animalgarden-bison-1.0.0-neoforge-1.21.1.248.jar"
+hash-format = "sha512"
+hash = "8ca53cc28d8b778022c288b943bdbdc230dac537cd2a36e0d1faf1787bcd10b1e76b42783689e31e3b69d8902f594e4d36e6d856430de64593a9a40895ddb843"
+
+[update]
+[update.modrinth]
+mod-id = "qDwwnqvr"
+version = "7r8V84OP"

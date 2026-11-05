@@ -1,0 +1,13 @@
+[Skybox]
+	#Should the end sky have nebulas?
+	"End Sky Nebulas" = true
+	#Should the end sky have stars?
+	"End Sky Stars" = true
+	#Should the end sky have the dark end_sky tint?
+	"End Sky Dark Tint" = true
+	#Should the end have a custom skybox?
+	"Custom Skybox" = true
+
+[Lighting]
+	#Should the end be darker than vanilla?
+	"End Darkness" = true

@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "tabs": {},
+  "deleted_advancements": {},
+  "derived_presentation": {
+    "farmersdelight:main/root": {
+      "title": "Farmer\u0027s Delight",
+      "icon": "farmersdelight:cooking_pot",
+      "background": "minecraft:textures/block/bricks.png"
+    },
+    "nautec:root": {
+      "title": "NauTec 2",
+      "icon": "nautec:aquatic_catalyst",
+      "background": "nautec:textures/block/polished_prismarine.png"
+    },
+    "neoecoae:eco/root": {
+      "title": "Neo ECO AE Extension",
+      "icon": "neoecoae:energized_crystal",
+      "background": "neoecoae:textures/gui/advancements/background.png"
+    },
+    "vinery:main/root": {
+      "title": "Welcome to Vinery!",
+      "icon": "vinery:wine_bottle",
+      "background": "vinery:textures/block/dark_cherry_planks.png"
+    },
+    "minecraft:story/root": {
+      "title": "Minecraft",
+      "icon": "minecraft:grass_block",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "minecraft:adventure/root": {
+      "title": "Adventure",
+      "icon": "minecraft:map",
+      "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+    },
+    "minecraft:husbandry/root": {
+      "title": "Husbandry",
+      "icon": "minecraft:hay_block",
+      "background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png"
+    },
+    "minecraft:nether/root": {
+      "title": "Nether",
+      "icon": "minecraft:red_nether_bricks",
+      "background": "minecraft:textures/gui/advancements/backgrounds/nether.png"
+    },
+    "minecraft:end/root": {
+      "title": "The End",
+      "icon": "minecraft:end_stone",
+      "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
+    },
+    "ae2:main/root": {
+      "title": "Applied Energistics",
+      "icon": "ae2:certus_quartz_crystal",
+      "background": "ae2:textures/block/sky_stone_brick.png"
+    },
+    "corn_delight:root": {
+      "title": "Kernal of Knowledge",
+      "icon": "corn_delight:corn_seeds",
+      "background": "minecraft:textures/block/bricks.png"
+    },
+    "crossroads:progress/root": {
+      "title": "Crossroads",
+      "icon": "crossroads:omnimeter",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "ends_delight:root": {
+      "title": "End\u0027s Delight",
+      "icon": "ends_delight:bubble_tea",
+      "background": "minecraft:textures/block/end_stone_bricks.png"
+    },
+    "halcyon:halcyon": {
+      "title": "Halcyon",
+      "icon": "halcyon:data_tablet",
+      "background": "halcyon:textures/block/deco/polished_obsidian_bricks.png"
+    },
+    "immersiveengineering:main/main_root": {
+      "title": "Immersive Engineering",
+      "icon": "immersiveengineering:manual",
+      "background": "immersiveengineering:textures/block/wooden_decoration/treated_wood.png"
+    },
+    "immersiveengineering:multiblocks/multiblocks_root": {
+      "title": "Multiblocks",
+      "icon": "immersiveengineering:steel_scaffolding_standard",
+      "background": "immersiveengineering:textures/block/wooden_decoration/treated_wood.png"
+    },
+    "immersiveengineering:tools/tools_root": {
+      "title": "Tools \u0026 Upgrades",
+      "icon": "immersiveengineering:workbench",
+      "background": "immersiveengineering:textures/block/wooden_decoration/treated_wood.png"
+    },
+    "immersivepetroleum:main/root": {
+      "title": "Immersive Petroleum",
+      "icon": "immersivepetroleum:seismic_survey",
+      "background": "immersivepetroleum:textures/block/asphalt.png"
+    },
+    "minecraft:oritech/root": {
+      "title": "Oritech",
+      "icon": "oritech:raw_nickel",
+      "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+    },
+    "mycomancy:story/first_mushroom": {
+      "title": "A Curious Growth",
+      "icon": "minecraft:brown_mushroom",
+      "background": "minecraft:textures/block/mycelium_top.png"
+    },
+    "fieldguide:root": {
+      "title": "Field Guide",
+      "icon": "minecraft:spyglass",
+      "background": "minecraft:textures/block/oak_log.png"
+    },
+    "watching:main/root": {
+      "title": "advancements.ftf.root.title",
+      "icon": "minecraft:disc_fragment_5",
+      "background": "watching:textures/ui/advancement_background.png"
+    },
+    "watching:main/technical/found_any_structure/root": {
+      "title": "",
+      "icon": "minecraft:redstone_torch"
+    },
+    "watching:main/technical/found_leafless_tree/root": {
+      "title": "",
+      "icon": "minecraft:redstone_torch"
+    },
+    "watching:main/technical/found_torch_tunnel/root": {
+      "title": "",
+      "icon": "minecraft:redstone_torch"
+    }
+  }
+}

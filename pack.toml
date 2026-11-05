@@ -1,0 +1,15 @@
+name = "Bingus"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f6ba78a5b175bc703f3e86412e39c153ce81f26dcac6e1c5c63b949a73fa6120"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
+
+[options]
+datapack-folder = "moonlight-global-datapacks"

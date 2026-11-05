@@ -1,0 +1,32 @@
+#Determines whether Nautec's ocean biomes are added to the world's biome layout. Turning this off leaves vanilla oceans untouched
+#This only applies when Lithostitched is absent. With Lithostitched installed, placement comes from the biome injectors in data/nautec/lithostitched/biome_injector, which a datapack can override or empty out
+enableBiomeInjection = true
+#The multi-noise presets Nautec's ocean biomes are added to. Packs using a custom overworld preset should list it here
+#Ignored when Lithostitched is installed, since the biome injectors target the overworld dimension directly and work with Terralith and Tectonic
+injectableWorldPresets = ["minecraft:overworld"]
+#Dimension ids where NauTec's deeper oceans are not used, such as minecraft:overworld. Every other dimension whose terrain reads the vanilla overworld, amplified or large biomes depth and sloped_cheese density functions gets NauTec's deeper versions of them, unless a mod or datapack has already replaced those functions
+#Belongs with monumentLoweringDimensionBlacklist: monuments are lowered to sit on the deeper sea floor, so a dimension listed here should usually be listed there too
+#Read when a dimension is loaded, so a change needs the world to be reloaded
+deeperOceanDimensionBlacklist = []
+#Dimension ids where ocean monuments are not moved 30 blocks down, such as minecraft:overworld. Monuments are lowered to match the deeper oceans, so list every dimension from deeperOceanDimensionBlacklist here as well
+#Only newly generated monuments are affected. A monument that already exists keeps the height it was generated at
+monumentLoweringDimensionBlacklist = []
+
+#Options for skyblock and void-world packs, where NauTec's oceans, structures and ocean mobs do not exist. Every option is off by default and each one can be turned on alone
+#The recipe options take effect on the next world load or /reload. Datapacks can check any of them with the nautec:skyblock_option recipe condition or loot condition
+#The Deep Sea Drain and Tidal Rotor ocean check is a separate per-world setting, drainRequiresOcean in nautec-common.toml
+[skyblock]
+	#Determines whether lucky fishing zones can appear on any open water instead of only in ocean and river biomes. Zones still need a ring of open water around them, so a player-built pool works and a bigger pool gets more zones
+	luckyZonesAnyBiome = false
+	#Determines whether lucky fishing zone catches count as ocean catches in any biome, and adds Prismarine Sand, Prismarine Shards and the Heart of the Sea to the zone loot. Catches from NauTec's own biomes are unchanged
+	skyblockFishingLoot = false
+	#Determines whether the Grafting Tool ignores the biome listed in the nautec:bacteria_obtaining data map. The block and the chance still apply
+	graftingAnyBiome = false
+	#Enables a Mixer recipe that makes Prismarine Sand from sand, a Prismarine Crystal Shard and Salt Water
+	prismarineSandMixing = false
+	#Enables a Mixer recipe that makes Budding Prismarine from Prismarine Bricks, Prismarine Crystals, Prismarine Crystal Shards and Salt Water
+	buddingPrismarineMixing = false
+	#Enables Laser Crafting Matrix recipes that make Resonant Shards and Prismarine Crystal Seeds at purity 2.5, which a Bacterial Fuel Cell can reach without a Prismarine Crystal. The colony needs full mutation resistance to get there
+	fuelCellResonance = false
+	#Enables a Mixer recipe that makes an Eldritch Heart from a Heart of the Sea, Resonant Shards, Prismarine Crystal Shards and EAS
+	eldritchHeartMixing = false

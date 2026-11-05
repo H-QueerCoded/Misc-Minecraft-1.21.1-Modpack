@@ -1,0 +1,13 @@
+name = "Scorching Nether"
+filename = "scorchingnether-1.21.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XhQHHRW3/versions/cGBNsCDq/scorchingnether-1.21.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "9508e34cdcc4ff9a43e465e721d3081e40eddaae9d0d7bcdfeb2e1bcc5f178005f120f76328e333dd6b5d6a4faeea3ed2d3eaffc10d9c6458ed8a2ce340fc205"
+
+[update]
+[update.modrinth]
+mod-id = "XhQHHRW3"
+version = "cGBNsCDq"

@@ -1,0 +1,13 @@
+name = "The Fletching Table"
+filename = "the_fletching_table-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tTNjtcvH/versions/6pWHidAa/the_fletching_table-1.0.1.jar"
+hash-format = "sha512"
+hash = "2d071ed820e589c80bfd02cca5d2c701f933b3d00235c39c6a90c9f588013cfcb4572ff2dc411370b94260d2e32449ded25b75da529345cd1f07d153a8e932c5"
+
+[update]
+[update.modrinth]
+mod-id = "tTNjtcvH"
+version = "6pWHidAa"

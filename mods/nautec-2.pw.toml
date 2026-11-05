@@ -1,0 +1,13 @@
+name = "Nautec 2"
+filename = "nautec-1.21.1-NeoForge-2.0.25.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd6ee1f423392854ea9167b7948ec7bd20e9c18d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9437831
+project-id = 1727082

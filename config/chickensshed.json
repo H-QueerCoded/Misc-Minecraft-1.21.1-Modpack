@@ -1,0 +1,11 @@
+{
+  "mobs": {
+    "minecraft:chicken": {
+      "item": "minecraft:feather",
+      "count": 1,
+      "minSeconds": 900,
+      "maxSeconds": 1500,
+      "babies": true
+    }
+  }
+}

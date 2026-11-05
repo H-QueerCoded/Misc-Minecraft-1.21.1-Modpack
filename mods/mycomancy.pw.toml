@@ -1,0 +1,13 @@
+name = "Mycomancy"
+filename = "mycomancy-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc9bbcfb1a0b4a1ec9defc01ef87aa322185a359"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9355936
+project-id = 1735729

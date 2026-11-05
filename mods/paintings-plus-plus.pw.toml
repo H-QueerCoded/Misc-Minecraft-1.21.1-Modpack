@@ -1,0 +1,13 @@
+name = "Paintings++"
+filename = "paintings-neoforge-1.21.1-14.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9wf81Bma/versions/5DlyLbFo/paintings-neoforge-1.21.1-14.0.1.jar"
+hash-format = "sha512"
+hash = "204b95873ba07025145dac8127465c75c63b2d335112ecaffa8ddb00b20efdd79719b3a596ad04989e862edd616565e4e21d96f3fc3281d5a45caa04091e9e90"
+
+[update]
+[update.modrinth]
+mod-id = "9wf81Bma"
+version = "5DlyLbFo"

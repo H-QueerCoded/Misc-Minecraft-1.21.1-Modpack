@@ -1,0 +1,13 @@
+name = "Applied Enhancements"
+filename = "appliedenhancements-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e3f56e2ac8727f3afb0fcacabc5e4b75fc25ef0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9437521
+project-id = 1665696

@@ -1,0 +1,44 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "file/HumanEraVillagersIllagers[3.91.5].zip",
+    "file/HEVI Iron Golem Remover.zip",
+    "file/HEVI Copper Golem Remover.zip",
+    "file/Updated Mobs 1.21.5 v.2.5.zip",
+    "mod/seamless:resourcepacks/default_seamless",
+    "file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
+    "file/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip",
+    "file/NoWoodenIEPlusSound.zip",
+    "file/King of the Nether.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "mod": [
+      "modularbees:dynamic_assets",
+      "moonlight:merged_pack",
+      "mod/nautec:resourcepacks/fusion_connected",
+      "mod/nautec:resourcepacks/ae2_compat",
+      "ImmersiveRailroading-1.21.1-neoforge-1.11.0.jar",
+      "UMC Generated Resources",
+      "UniversalModCore-1.21.1-neoforge-1.3.1.jar",
+      "Heavy_Industrial_1.6.3.0.zip",
+      "ToR_Community_V0.9.1.zip",
+      "Trains_of_Ruun_V0.9.1.zip",
+      "Welsh_Highland_Narrow_Gauge_1.6.2_1.14.4.zip",
+      "Welsh_Highland_Narrow_Gauge_Liveries 1.0 1.14.4.zip",
+      "[IR]DE_Ket_TrainPack_V081.zip"
+    ],
+    "mod_resources": {
+      "hidden": true
+    },
+    "file/From-The-Fog-1.21-1.21.1-v1.9.4-Data-Resource-Pack.zip":{
+      "required": true,
+      "hidden": true
+    },
+    "$$mod": {
+      "hidden": true
+    }
+  }
+}

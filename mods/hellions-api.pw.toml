@@ -1,0 +1,13 @@
+name = "Hellion's API"
+filename = "hellionsapi-neoforge-1.21.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V5NwX9yP/versions/9dGBZuNM/hellionsapi-neoforge-1.21.1-1.1.4.jar"
+hash-format = "sha512"
+hash = "e6cb6619d9ce964c7b61548875bc0d777ed5921a52be3db20434b9c7af718d5ce8061fb206076f9d0f3d2ffe2b2615e1ade21d0aab27d762828dd8291c45d495"
+
+[update]
+[update.modrinth]
+mod-id = "V5NwX9yP"
+version = "9dGBZuNM"

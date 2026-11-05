@@ -1,0 +1,13 @@
+name = "Animal Garden - Capybara"
+filename = "animalgarden-capybara-1.0.0-neoforge-1.21.1.250.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sgv9MA7q/versions/hJnnshrO/animalgarden-capybara-1.0.0-neoforge-1.21.1.250.jar"
+hash-format = "sha512"
+hash = "40fc3f1239060f82164fec9b4c6544e67e447b71969a3672f6dd2df7bd8a4c833ff1db88a0b244553483b24dd3c680994cd6cf28b819d8e9e9ff9947929060d5"
+
+[update]
+[update.modrinth]
+mod-id = "Sgv9MA7q"
+version = "hJnnshrO"

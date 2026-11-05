@@ -1,0 +1,13 @@
+name = "Experience Obliterator"
+filename = "experience_obliterator-2.1.1+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TmZqgslV/versions/AXdSl8Rw/experience_obliterator-2.1.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "83eae493dbf2028675757ea25376c920a697476bd91f74b17edd43e62b22911999c94cdb5934b2963d62e902608b2dc08df14ef95332519b237c15058c9c565b"
+
+[update]
+[update.modrinth]
+mod-id = "TmZqgslV"
+version = "AXdSl8Rw"

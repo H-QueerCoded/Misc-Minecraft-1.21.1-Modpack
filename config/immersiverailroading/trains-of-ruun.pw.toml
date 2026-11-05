@@ -1,0 +1,13 @@
+name = "Trains of Ruun"
+filename = "Trains_of_Ruun_V0.9.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OG0UIlTV/versions/aBNVOlUA/Trains_of_Ruun_V0.9.1.zip"
+hash-format = "sha512"
+hash = "8fccc0d573c23c48135932a0bed5a4a911e20212ecd18eabe8c39f7af1d0fb81b1c2de4551a6d165eba6e0003bd26db68c48d2b90fabf8e8666d2d76b6ccae8a"
+
+[update]
+[update.modrinth]
+mod-id = "OG0UIlTV"
+version = "aBNVOlUA"
