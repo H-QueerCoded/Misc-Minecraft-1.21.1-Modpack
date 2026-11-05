@@ -70,7 +70,7 @@ hash = "43733b207b9f0238c7a5bec47f19e8fd5bec80499b286e0ac4994671702dfed9"
 
 [[files]]
 file = "config/almostunified/startup.json"
-hash = "37f013c49586db025c17f9fa6657c6f239e0169ebc97ef682ff114a2ede43c5e"
+hash = "2c732058a0f232ab661c21c6a460ed44149a2e8136a0d31c73eb0c855269baa0"
 
 [[files]]
 file = "config/almostunified/tags.json"
@@ -78,7 +78,7 @@ hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "4813a53e6e7660b41f81551e698ee37048b4420d14363dc09375526a1fa7c31a"
+hash = "ab43e15efd05898ac8dc68653661d1e34ca4cf4a83a0d9ccb6138f675c1b86cf"
 
 [[files]]
 file = "config/alternatingflux-server.toml"

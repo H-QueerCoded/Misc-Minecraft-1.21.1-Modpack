@@ -5,9 +5,9 @@
     "oritech"
   ],
   "priority_overrides": {
-      "forge:ingots/uranium" : "oritech",
-      "forge:ores/uranium" : "oritech",
-      "forge:ores/nickel" : "oritech"
+      "c:ingots/uranium" : "oritech",
+      "c:dusts/{material}": "oritech",
+      "c:ores/uranium" : "oritech"
   },
   "stone_variants": [
     "stone",
