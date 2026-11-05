@@ -1,0 +1,13 @@
+name = "Green and Brown Dye Recipes"
+filename = "Green & Brown v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gjkzb7Wr/versions/3mumM487/Green%20%26%20Brown%20v1.0.zip"
+hash-format = "sha512"
+hash = "5072aa46656eb65f097380bcc57f6f145575f37d57f045009446e026a9ad22ea3d2c169915c6be66682a573a5730e00705e58f66d3751aa27a183444ac5e463d"
+
+[update]
+[update.modrinth]
+mod-id = "Gjkzb7Wr"
+version = "3mumM487"

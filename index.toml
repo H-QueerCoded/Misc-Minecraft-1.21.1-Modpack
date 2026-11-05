@@ -2270,6 +2270,11 @@ hash = "1aebf34a4105bddbbf33e05a455559eab6ebac6ee5ac89dcfc9a78d54dc9d119"
 metafile = true
 
 [[files]]
+file = "moonlight-global-datapacks/green-and-brown-dye-recipes.pw.toml"
+hash = "cdff1d15c3efe4147f9ba4506b8751491605e27b1c06f68b42c636a50c709ff4"
+metafile = true
+
+[[files]]
 file = "moonlight-global-datapacks/true-ending.pw.toml"
 hash = "82ff304ca30f125cc33378ccdc35564941a8910240266ee7107dbfbac428e755"
 metafile = true
