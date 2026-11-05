@@ -453,6 +453,10 @@ file = "config/craftingtweaks-common.toml"
 hash = "f8e26cfe44eb0e6d4d084b9a2af90f5028da034becee64b6ddfd50cdfd5c7fe1"
 
 [[files]]
+file = "config/craftingtweaks/grids/ie.json"
+hash = "19f314d04fe55f3b70762ea616f0b19e484ae5fe27c8e0152932008ab57f3dfe"
+
+[[files]]
 file = "config/crossroads-client.toml"
 hash = "111cad6af83eeb4de319e273ff4142b061b2ed05638690a58d9b989fcb7e0bf1"
 
@@ -647,6 +651,10 @@ hash = "8b49e2580966de1a34feda27128a35f8ef48ba6c57bf03f87967351963910f67"
 [[files]]
 file = "config/halcyon.toml"
 hash = "1002bb730eef8fdfdb0a053a2e65de03992d4ca0e18eb58a539c3d278c976ca1"
+
+[[files]]
+file = "config/hephaestusconfig.toml"
+hash = "eaaee8a3af49b1e3af4f05b7b6bc025865438c18fc7eca9f9343b6fd95932ffc"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -2291,11 +2299,6 @@ hash = "5279e7f3bf3a3d027fffbdad8cc9a32248663ef1e2af1857412546a823545dfc"
 metafile = true
 
 [[files]]
-file = "moonlight-global-datapacks/green-and-brown-dye-recipes.pw.toml"
-hash = "cdff1d15c3efe4147f9ba4506b8751491605e27b1c06f68b42c636a50c709ff4"
-metafile = true
-
-[[files]]
 file = "moonlight-global-datapacks/how-to-make-a-new-dye.pw.toml"
 hash = "59fac373fca61b2f9b15fa3bdb8f1f35d2cb619028af488bf18dbf9e3afd745a"
 metafile = true
@@ -2351,11 +2354,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/no-wooden-slots-for-immersive-engineering.pw.toml"
 hash = "3e5dda711668d17b90682ed97de17bb6b5dfd7039b360103199c38a1463ab184"
-metafile = true
-
-[[files]]
-file = "resourcepacks/quark-connected-glass.pw.toml"
-hash = "ac87ffb33afce0fd076a7f204a10a9c00fb6726f0464cac3b53db8eb9d35a183"
 metafile = true
 
 [[files]]
