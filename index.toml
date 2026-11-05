@@ -1651,16 +1651,6 @@ hash = "afbf995d300c4337cc36704087731f5c9a3d7bc49f9110bcfe72b9c345f24bd7"
 metafile = true
 
 [[files]]
-file = "mods/hellions-api.pw.toml"
-hash = "17f2fc1feb12ed8f31f943c45db4f3ef0d8cc0ec6601ab7b56f8131a9ddda974"
-metafile = true
-
-[[files]]
-file = "mods/hellions-sniffer-plus.pw.toml"
-hash = "42c608ec626131d58abd240fb6dda8265b870f648b7da0ae5689c6a5c782a651"
-metafile = true
-
-[[files]]
 file = "mods/hephaestus-forge.pw.toml"
 hash = "b27e8dd552fd5dc2cc4ace6462029bb9da7e49c01c56962349eae7d8661e0314"
 metafile = true
