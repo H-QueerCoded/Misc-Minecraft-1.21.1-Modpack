@@ -951,7 +951,7 @@ hash = "8bddb5b165a483b32ae500bf42501474fd0084115664221c5fb578540b1155ae"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "36dbb6d295ee4d810910b78e58cfe708183fd21f4e3f66dc041104720ca920b8"
+hash = "bdbed40a4381f03061d05990fc570317a32b383e11a75b0724bb9d64cba6ba5c"
 
 [[files]]
 file = "config/quark_ponders-client.toml"
