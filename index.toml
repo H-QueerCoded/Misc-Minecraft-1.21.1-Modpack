@@ -1357,7 +1357,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "13f8a6e3c0af01e8914503c6323c3bce301352b36fe281c41a85a7ddf4ba9f67"
+hash = "b9b2549201a1d0f48c910787d382f20069bc8bae3e55c72f9a023b3a787ff29b"
 metafile = true
 
 [[files]]
@@ -1662,12 +1662,12 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus-forge.pw.toml"
-hash = "3b1e3fb8524e7735cc7c1508f7aab2ae6681f87d31fd48efe3c5922ebfc63d52"
+hash = "b27e8dd552fd5dc2cc4ace6462029bb9da7e49c01c56962349eae7d8661e0314"
 metafile = true
 
 [[files]]
 file = "mods/hephaestus-tools.pw.toml"
-hash = "2d02512a348dbdc69e88180f146f5bca3605791b09f1ccd8eba9ebc3a60a7120"
+hash = "02b47896268d4529397096e9db97d26481947251d6b9fcfdb4e3a5073a5db9d5"
 metafile = true
 
 [[files]]
@@ -1872,7 +1872,7 @@ metafile = true
 
 [[files]]
 file = "mods/neoecoae.pw.toml"
-hash = "901f8d69972bd130012779dfc943d41c70daa816069d2e4b0eff5d5070d51b1a"
+hash = "2774c8f298c0c975789291151896ae14005b42a72e1c736329bae0fec555f8d8"
 metafile = true
 
 [[files]]
@@ -2196,8 +2196,9 @@ hash = "e6add5c438aaf45243f804e0696307b24a185e159da32a1ba4f3865c0de8b6c2"
 metafile = true
 
 [[files]]
-file = "mods/witherplus-1.21.1-neoforge-0.2.1.jar"
-hash = "54a3481cc4d45b38922dfd0584e1dc6341d76435e8654c73940100758c68df27"
+file = "mods/wither-plus-soul-bone-and-black-sun.pw.toml"
+hash = "e3b95ff37850b85458e53d9fcb2b52d9ca769ce67a6930ab3b091e50c8d93684"
+metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
@@ -2276,17 +2277,17 @@ metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/free-the-end.pw.toml"
-hash = "a45300c5a89f32fc0225f7f99b6e6bfc38ac931f7e5a1410f8b2f4fb6ad09b86"
+hash = "37700ad37b83252ccb8b8518f6a8a893e4e51529c3ad6e6403c6c9c5cb1b2c76"
 metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/from-the-fog.pw.toml"
-hash = "c3ebeddc793fc8eb36f6668e3d0f9a187fe1134439fb5d70ab58c9fb4d5285db"
+hash = "7f77463d778abfd02c9d6d23e44af7dff285eb000b12f0f5e4d976345ab2fdbd"
 metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/geophilic.pw.toml"
-hash = "1aebf34a4105bddbbf33e05a455559eab6ebac6ee5ac89dcfc9a78d54dc9d119"
+hash = "5279e7f3bf3a3d027fffbdad8cc9a32248663ef1e2af1857412546a823545dfc"
 metafile = true
 
 [[files]]
@@ -2296,17 +2297,17 @@ metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/purpurpack-breed-axolotl-with-tropical-fish-item.pw.toml"
-hash = "fe32b91fb0193627a8e131101d76ed5e90f1e674034e893527fb3f8cce075a08"
+hash = "f1424c9a7a883604cbc3c4d0b092c66d33ff6d38761a4d6c45c9cd0b56b1b083"
 metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/purpurpacks-infinity-on-crossbows.pw.toml"
-hash = "b92125ae4e47bd6f8c7f8765ddc33adbedce735ea216927a7d09fb2c0c438f17"
+hash = "639d2d0a14c9166d1c36d2d931dc1601b65072a54c297a1dfec7e94e031bde04"
 metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/true-ending.pw.toml"
-hash = "82ff304ca30f125cc33378ccdc35564941a8910240266ee7107dbfbac428e755"
+hash = "ff8453036a1904e86728f938e59c6806c43d988239f8daf2fb6d2928df6a843b"
 metafile = true
 
 [[files]]
@@ -2319,7 +2320,7 @@ hash = "7adf311d0e05ed40ae2e9db4084384ff96c4131108c8b120e4a9d4775b56fbfd"
 
 [[files]]
 file = "resourcepacks/from-the-fog.pw.toml"
-hash = "c3ebeddc793fc8eb36f6668e3d0f9a187fe1134439fb5d70ab58c9fb4d5285db"
+hash = "7f77463d778abfd02c9d6d23e44af7dff285eb000b12f0f5e4d976345ab2fdbd"
 metafile = true
 
 [[files]]
@@ -2350,6 +2351,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/no-wooden-slots-for-immersive-engineering.pw.toml"
 hash = "3e5dda711668d17b90682ed97de17bb6b5dfd7039b360103199c38a1463ab184"
+metafile = true
+
+[[files]]
+file = "resourcepacks/quark-connected-glass.pw.toml"
+hash = "ac87ffb33afce0fd076a7f204a10a9c00fb6726f0464cac3b53db8eb9d35a183"
 metafile = true
 
 [[files]]

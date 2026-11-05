@@ -1,6 +1,7 @@
 name = "Infinity on Crossbows [PurpurPack]"
 filename = "purpurpack_infinity_on_crossbow_1.2.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/rvzRe1CC/versions/Vvrig9uL/purpurpack_infinity_on_crossbow_1.2.zip"

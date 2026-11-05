@@ -1,6 +1,7 @@
 name = "Breed Axolotl With Tropical Fish Item [PurpurPack]"
 filename = "purpurpack_breed_axolotl_with_tropical_fish_item_3.1.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ZLRxxRmh/versions/BZCz5RGn/purpurpack_breed_axolotl_with_tropical_fish_item_3.1.zip"

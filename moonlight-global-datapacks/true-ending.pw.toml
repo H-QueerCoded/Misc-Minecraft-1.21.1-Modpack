@@ -1,6 +1,7 @@
 name = "True Ending - Ender Dragon Overhaul"
 filename = "true-ending-v1.1.2d.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/MCnBYP0b/versions/ynFyyU6J/true-ending-v1.1.2d.zip"

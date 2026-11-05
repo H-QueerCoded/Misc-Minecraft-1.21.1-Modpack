@@ -1,6 +1,7 @@
 name = "Free The End"
 filename = "free-the-end-1.20-1.21.11.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ckV6yvaE/versions/WVx1479h/free-the-end-1.20-1.21.11.zip"

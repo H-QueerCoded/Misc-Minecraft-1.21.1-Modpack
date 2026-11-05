@@ -1,0 +1,13 @@
+name = "Wither Plus: Soul, Bone and Black Sun"
+filename = "witherplus-1.21.1-neoforge-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "485cb4c4b3895e6009c34c2d4fe60cf173a2ba31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9359131
+project-id = 1749910

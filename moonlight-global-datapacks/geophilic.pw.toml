@@ -1,6 +1,7 @@
 name = "Geophilic"
 filename = "Geophilic v3.7.dp.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/hl5OLM95/versions/SVRy1ecx/Geophilic%20v3.7.dp.zip"

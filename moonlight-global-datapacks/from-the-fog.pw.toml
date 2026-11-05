@@ -1,6 +1,7 @@
 name = "From The Fog"
 filename = "From-The-Fog-1.21-1.21.1-v1.9.4-Data-Resource-Pack.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/p1WH6sHr/versions/Txn0qBqn/From-The-Fog-1.21-1.21.1-v1.9.4-Data-Resource-Pack.zip"
