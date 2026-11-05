@@ -30,7 +30,7 @@ hash = "d7671f438b74464538b2fa7402aeb2b6c9aaaf7f29da74ff7d1d3cba281216ab"
 
 [[files]]
 file = "config/accessorify/config.toml"
-hash = "c9b70ffd938461611b7ce0bbd28cda35223694456df988e09b8ccd83c5ad12f2"
+hash = "5f8def033ad9e2a4331898110dfbdf0be2398b6e4b0bb94c1d019f1c1f45cc9a"
 
 [[files]]
 file = "config/accurateblockplacement.properties"
@@ -1461,6 +1461,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/customizable-elytra.pw.toml"
+hash = "fb495270ef1ca9dbbb53b84d4d7306cef03a6334402a9b85a3f72ae4477f7bd6"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
@@ -2072,7 +2077,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
-hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
+hash = "08e7625da2ecef8e836652537f2bee175ee332809f235f6d3dece03f97d154bc"
 metafile = true
 
 [[files]]
