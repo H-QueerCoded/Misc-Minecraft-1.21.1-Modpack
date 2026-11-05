@@ -1,0 +1,20 @@
+{
+  "the_afterdark:afterdark": [
+    "mutantmonsters:mutant_enderman"
+  ],
+  "minecraft:overworld": [
+    "mutantmonsters:mutant_enderman",
+    "mutantmonsters:mutant_creeper",
+    "mutantmonsters:mutant_skeleton",
+    "mutantmonsters:mutant_zombie"
+  ],
+  "halcyon:sanctuary": [
+    "mutantmonsters:mutant_enderman"
+  ],
+  "minecraft:the_nether": [
+    "mutantmonsters:mutant_enderman"
+  ],
+  "halcyon:memorial": [
+    "mutantmonsters:mutant_enderman"
+  ]
+}
