@@ -2191,8 +2191,8 @@ hash = "e6add5c438aaf45243f804e0696307b24a185e159da32a1ba4f3865c0de8b6c2"
 metafile = true
 
 [[files]]
-file = "mods/wither-plus-soul-bone-and-black-sun.pw.toml"
-hash = "e3b95ff37850b85458e53d9fcb2b52d9ca769ce67a6930ab3b091e50c8d93684"
+file = "mods/wither-reincarnated.pw.toml"
+hash = "4c763ea5adfeb8f39d057c499ae5ace236c2e3691e2f48a38461aaf73983ea53"
 metafile = true
 
 [[files]]
@@ -2331,11 +2331,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/human-era-villagers-illagers.pw.toml"
 hash = "83d0136fa52a71e8b1036b5a76236bf28188101f11188fba155e2862de57b1db"
-metafile = true
-
-[[files]]
-file = "resourcepacks/king-of-the-nether.pw.toml"
-hash = "78e652a1c53d6c18d80bef1ebc7005583484c1a80cbdd336018c17be76acd0a8"
 metafile = true
 
 [[files]]
