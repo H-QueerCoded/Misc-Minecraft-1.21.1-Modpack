@@ -1,0 +1,13 @@
+name = "Just Enough Filters (JEF)"
+filename = "justenoughfilters-3.2.1+neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ka9cnIsF/versions/XPkRjdvy/justenoughfilters-3.2.1%2Bneoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "abbc491d4227a58d759e219ac9e20f27517834b3bb003ae644beb2af889ca478480253b27ea3d71294a8c86d6329f625efd82a1dc3653f42d661773a246681ed"
+
+[update]
+[update.modrinth]
+mod-id = "Ka9cnIsF"
+version = "XPkRjdvy"

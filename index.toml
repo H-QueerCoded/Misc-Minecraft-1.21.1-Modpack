@@ -1294,6 +1294,11 @@ hash = "92a2077fb3d27df20550d579d14c43b1feaa605796b217efb7a9d4bdd727f3bf"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "d6c2790cc195eb3620ef71248c0f30b747eb654b24e55ada7eb35af531594c5e"
+metafile = true
+
+[[files]]
 file = "mods/animal-garden-bison.pw.toml"
 hash = "d8da9897157ef8ad8bcf13db652d36a0075cd525246db0476364b1988a396f2e"
 metafile = true
@@ -1749,6 +1754,11 @@ hash = "805a9466a6f78d4d0497c7e8e9acfd3cbce3f5f55d0942dc58e13cd5de6cf76f"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-filters.pw.toml"
+hash = "955c6461c3f51cbbf72197130479b7c922bcc498a15c3caf678a10ceb75ee9ca"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
@@ -1796,6 +1806,11 @@ metafile = true
 [[files]]
 file = "mods/little-logistics.pw.toml"
 hash = "2b3be51fe78d9f8e160e890a738464db3b51653f13bc9efa0f0fe7afe76c2750"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "b54addad8fd6bdd9ee141d740de8c346b1744258cb8c8ab663a61054e48e308e"
 metafile = true
 
 [[files]]
