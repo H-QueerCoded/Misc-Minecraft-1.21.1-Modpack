@@ -1659,6 +1659,11 @@ hash = "afbf995d300c4337cc36704087731f5c9a3d7bc49f9110bcfe72b9c345f24bd7"
 metafile = true
 
 [[files]]
+file = "mods/heartstone.pw.toml"
+hash = "181f76dfb237c56efd138f557ba8bd78220574b2a383955c099bae4e9652ef32"
+metafile = true
+
+[[files]]
 file = "mods/hephaestus-forge.pw.toml"
 hash = "b27e8dd552fd5dc2cc4ace6462029bb9da7e49c01c56962349eae7d8661e0314"
 metafile = true
