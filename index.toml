@@ -1520,7 +1520,7 @@ metafile = true
 
 [[files]]
 file = "mods/e2s2.pw.toml"
-hash = "ae58f7ee4d7be432ad2e3dbc98060a3d23253eaaf5f49790ebb8fcb3c5135316"
+hash = "02d86b92668cd0cf64d85fbfa3cd2691a10e70ac9a0e93ee154e87b9cc5db573"
 metafile = true
 
 [[files]]
@@ -1590,7 +1590,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d173124cbe77b9b97005675ba13ac2868bade78186de21ec2876a6726d5d3f81"
+hash = "da13f3c6f0ae14645c29ee2049304917b77a3f74a26374511ccf3dacfcead254"
 metafile = true
 
 [[files]]
