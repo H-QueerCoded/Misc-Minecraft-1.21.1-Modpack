@@ -1514,6 +1514,11 @@ hash = "c12a627fb7bf649507836e8f5760a781cdaa521649330f976c24b72186720eb9"
 metafile = true
 
 [[files]]
+file = "mods/dracolotl.pw.toml"
+hash = "aa423ce4a03458a31ac8d6e628b940d93bbd4d816144918260f7fbf4660167b7"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "206ca58e8978bb012e8469ea9813c64335984bc7ec93b88bc3f0d573f432ab9c"
 metafile = true
@@ -2216,6 +2221,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "8197c6c0e390369d3e5374692dfa8d2ced62d033538df534ab9d6d08ab5eb82c"
+metafile = true
+
+[[files]]
+file = "mods/unusual-fish.pw.toml"
+hash = "b8b37ae172fcdd377ad422ba1bcadc10e2439ee36f66642d689d4d4b571b0904"
 metafile = true
 
 [[files]]
