@@ -1,0 +1,18 @@
+{
+	"pack": {
+		"description": "Removes recipes",
+		"pack_format": 48
+	},
+	"filter": {
+		"block": [
+			{
+				"namespace": "crossroads",
+				"path": "recipe/base_materials/bronze_alloy_ingot.json"
+			},
+			{
+				"namespace": "oritech",
+				"path": "recipe/crafting/alloy/(steel|electrum|adamant).json"
+			}
+		]
+	}
+}

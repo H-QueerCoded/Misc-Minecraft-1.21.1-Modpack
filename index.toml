@@ -2309,6 +2309,54 @@ hash = "639d2d0a14c9166d1c36d2d931dc1601b65072a54c297a1dfec7e94e031bde04"
 metafile = true
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_fence.json"
+hash = "8b461d05b4807505456e0949e1394486682cd8579ec9149fe62834e6a27e55d7"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_planks_horizontal.json"
+hash = "418582fc3210794fc055b2e3dbbacc67f30c5ee8043f132b97183f57039f75cb"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_planks_packaged.json"
+hash = "2e7774e6f21c057e18b5480237d81111a8af2932924bd3520e2678d008fa7392"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_planks_vertical.json"
+hash = "f3b08b114b00df2f334d5386bab019ebbc91c51f2ab1157f1a9dae3dff989ee1"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_slab_horizontal.json"
+hash = "3788725f792c3c83e193b52541270134240bebedc5b42113a71f16fec56fa965"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_slab_packaged.json"
+hash = "3f87b850e05f1490d0102cd5e6517f6c1f9df65711ad6e33021ca81ffa0e27ec"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_slab_vertical.json"
+hash = "b2aedd29345577d9f8805e377993605ca00fb6322fe247791368b655030de576"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_stairs_horizontal.json"
+hash = "9eb20892bf38f520c61909b3d221697ff4d6d20fa2411a42c5b4bc1886c74915"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_stairs_packaged.json"
+hash = "c808fbe5f10206309e63a5f188b0baef45a2b6c046991b883a19e45ec922fc1d"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_stairs_vertical.json"
+hash = "373f8178943f1f70ab12dcaa8bcb3ee097f89a2f8f64db3636c67036c1fb4a9f"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_stick.json"
+hash = "55695e5775f47de10ceb2e3e0742edd27f55fc51de4cac8c33e7aa50fd60f58c"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/pack.mcmeta"
+hash = "b4041db6f7ae870e79f0da245c7049a6d6457ed17ca3a19b2b63f163473bff18"
+
+[[files]]
 file = "moonlight-global-datapacks/true-ending.pw.toml"
 hash = "ff8453036a1904e86728f938e59c6806c43d988239f8daf2fb6d2928df6a843b"
 metafile = true

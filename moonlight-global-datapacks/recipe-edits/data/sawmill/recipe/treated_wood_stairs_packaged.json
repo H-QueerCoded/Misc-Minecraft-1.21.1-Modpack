@@ -1,0 +1,20 @@
+{
+  "group": "planks",
+  "ingredient": [
+    {
+      "item": "immersiveengineering:treated_wood_horizontal"
+    },
+    {
+      "item": "immersiveengineering:treated_wood_vertical"
+    },
+    {
+      "item": "immersiveengineering:treated_wood_packaged"
+    }
+  ],
+  "result": {
+    "id": "immersiveengineering:stairs_treated_wood_packaged",
+    "count": 1
+  },
+  "ingredient_count": 1,
+  "type": "sawmill:woodcutting"
+}
