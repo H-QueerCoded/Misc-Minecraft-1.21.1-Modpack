@@ -1,0 +1,13 @@
+name = "EMI - Hide Enchantment Books"
+filename = "emihideenchantmentfromrepairtab-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6EJdcSHo/versions/BQwuuKO5/emihideenchantmentfromrepairtab-1.0.0.jar"
+hash-format = "sha512"
+hash = "46d8969fb7ca9e438b52e988faf171e80eb57c3b8fe1a703c1ba4649ef21cf7fb654010f8b7948285014071142cae0c33352f8e5ec4312e12bfabf9831a1099e"
+
+[update]
+[update.modrinth]
+mod-id = "6EJdcSHo"
+version = "BQwuuKO5"

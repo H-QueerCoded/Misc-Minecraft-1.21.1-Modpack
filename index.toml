@@ -1554,6 +1554,11 @@ hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
 metafile = true
 
 [[files]]
+file = "mods/emi-hide-enchantment-books.pw.toml"
+hash = "2bca19682e66a03c726f9a9994f176338edf75e1ed9f0aff02838e71f7d53cab"
+metafile = true
+
+[[files]]
 file = "mods/emi-patternizer.pw.toml"
 hash = "d80e811774e8a7ce54650d2aaa68aee7588ef3ae746d3165f6c33e9e220a9138"
 metafile = true
@@ -1776,11 +1781,6 @@ metafile = true
 [[files]]
 file = "mods/jei-multiblocks.pw.toml"
 hash = "2649d9273df4a10cceeec5ca5d051a929df04f13d46d5418e8c2f226628219bb"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "b0c37ca9826781a6bf1373ae02a141b4202037515eb071ec2327410771de6ea5"
 metafile = true
 
 [[files]]
@@ -2196,6 +2196,11 @@ metafile = true
 [[files]]
 file = "mods/theurgy.pw.toml"
 hash = "e0d7481ad08c0dc89c822c42f49261e7c8e42db0b1eadb46f2eda3e79b8d91a8"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "40f7d1c072b54e11492e7774835901d4f5d757b01cac54947657695f580afd3a"
 metafile = true
 
 [[files]]
