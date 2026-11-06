@@ -606,7 +606,7 @@ hash = "e2fd6c232ba9351aea69c984a6990d9c6881cae43b9d4aa9b205ea8f8f4ac144"
 
 [[files]]
 file = "config/fml.toml"
-hash = "cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5"
+hash = "00aae8df2b5079ecff248097e409a6457b082a9e405abedc2afc4afc690ca390"
 
 [[files]]
 file = "config/friendsandfoes.json"
@@ -975,7 +975,7 @@ hash = "6eb82ddff4f940703b4c9a6d65ab226ccfefb92f108cd4d1c4b06faf10b0681c"
 
 [[files]]
 file = "config/reliable_advancements.json"
-hash = "73db847c4b588f66d124eaccff740029d5d2531f088e065bf8005f51402a6e2a"
+hash = "8246147b9a38490fb34f4dc1e6ebe82b07d5bb49707294afcbe79e389a70eabd"
 
 [[files]]
 file = "config/reliable_advancements_edits/tabs.json"
