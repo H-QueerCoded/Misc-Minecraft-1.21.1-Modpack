@@ -1284,6 +1284,11 @@ hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
+metafile = true
+
+[[files]]
 file = "mods/alternating-flux-neoforge.pw.toml"
 hash = "73eb1b11f9d84863c4b2b1c90114a9693b43ef26c3a0cf5b998022144f13557b"
 metafile = true
@@ -1369,6 +1374,11 @@ hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
 
 [[files]]
+file = "mods/autochefs-delight.pw.toml"
+hash = "c493259c25b99cafb6ad8c3f76fe0373984924035f1e014f5978bf3dcf853e03"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "b9b2549201a1d0f48c910787d382f20069bc8bae3e55c72f9a023b3a787ff29b"
 metafile = true
@@ -1441,6 +1451,11 @@ metafile = true
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "3f6e74711a0c2677548ec3a5ef36a3fbf79b5a9f2b406aab73b1ca678fc518f9"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "a9fd327bb8855bdf68fbe88e17936ba866ea608bf2def5154fc52e0c1fe9514b"
 metafile = true
 
 [[files]]
@@ -1766,6 +1781,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-filters.pw.toml"
 hash = "955c6461c3f51cbbf72197130479b7c922bcc498a15c3caf678a10ceb75ee9ca"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
 metafile = true
 
 [[files]]
