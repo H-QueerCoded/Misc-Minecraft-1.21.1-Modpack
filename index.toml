@@ -1934,11 +1934,6 @@ hash = "c5266d3f8e6bb8b1eaa3d45d8cd574d2cfba3b4d1a6295cb5134fcaa36050a10"
 metafile = true
 
 [[files]]
-file = "mods/no-friendly-fire.pw.toml"
-hash = "25509ee49f22159c77948f4bf7a1b120cc1ac8a48fbdd997d054bce29202a934"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "fd84fcf376910b659fdfbcc2401aa545400b0d7c65834eb2fe22bae3a3c921c2"
 metafile = true
