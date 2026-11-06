@@ -2169,6 +2169,11 @@ hash = "7eb4975c58555111a7ddbc2d01b5d55a51585bf55b0145a6de1b6d90ef1a056c"
 metafile = true
 
 [[files]]
+file = "mods/sussy-sniffers.pw.toml"
+hash = "76138bba78a2e3753a7088b2fd0b9b11606307f941fc6b4e8f8bbd1516256ca6"
+metafile = true
+
+[[files]]
 file = "mods/thaumon.pw.toml"
 hash = "1f6514189ad1e70bd5ea8702d78d27f54e1d682d5644b0b9187e9830f7a8ac7b"
 metafile = true
