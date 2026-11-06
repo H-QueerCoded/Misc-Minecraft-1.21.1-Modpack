@@ -1380,7 +1380,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "b9b2549201a1d0f48c910787d382f20069bc8bae3e55c72f9a023b3a787ff29b"
+hash = "d56a7451770324070ea46face3a48e3ff9e19a438be0a3df60ef595502bbd9ae"
 metafile = true
 
 [[files]]
@@ -1885,7 +1885,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "368d2e5c2facad617995d85e71f136ef676e21067e8cfaf748d0943cb1ebf049"
+hash = "e3003f83463910a682f3ea1c419f850fed7bc2c6ff4831144db11228b98e2fb4"
 metafile = true
 
 [[files]]
