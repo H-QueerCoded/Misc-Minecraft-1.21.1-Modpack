@@ -1,0 +1,13 @@
+name = "Cathedral [Ported]"
+filename = "cathedral-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f9015bfea1ab4b67d6cd3f6e26ad6b7b6a8d40e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9195000
+project-id = 1746787

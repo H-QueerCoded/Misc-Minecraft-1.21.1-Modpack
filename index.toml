@@ -1439,6 +1439,11 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
+file = "mods/cathedral-ported.pw.toml"
+hash = "bb77b9b3abbcc5e322ad3d3cb1b851a7f172b2c6c5119012659e8a783c8ef8a0"
+metafile = true
+
+[[files]]
 file = "mods/chickensshed.pw.toml"
 hash = "8f88eb95fa761145f8116cda7529086b8c0593aeb419432dd2ad0f9a5b6c21b5"
 metafile = true
