@@ -1194,7 +1194,7 @@
 	[world.new_stone_types]
 		"Enable Limestone" = true
 		"Enable Jasper" = true
-		"Enable Shale" = true
+		"Enable Shale" = false
 		"Enable Myalite" = true
 		"Add New Stones To Mason Trades" = true
 
