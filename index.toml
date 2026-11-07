@@ -18,19 +18,11 @@ hash = "60c7cc95b2f9def18ebeb8668724ba71c8786bd8d612e6adc3449dc30253e552"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "1ab7c0b080e51fee3c9fefe557de5b68a68b66de6076c13b58bb56008f055747"
+hash = "9d49c93f92f26d2c2c82c13d53fc85761cd172ff2d428ccfc72c4100deec936a"
 
 [[files]]
 file = "config/accessories_compat.json5"
 hash = "f121e63f366d1aaa0f2a7bbe030d9f9e5473aeaa72eb2898493fd0292703f233"
-
-[[files]]
-file = "config/accessorify/client_config.toml"
-hash = "d7671f438b74464538b2fa7402aeb2b6c9aaaf7f29da74ff7d1d3cba281216ab"
-
-[[files]]
-file = "config/accessorify/config.toml"
-hash = "0803213ccf64fb940133b4925fc0065e9629af1f43bd5b8a7ef27ababf7ac227"
 
 [[files]]
 file = "config/accurateblockplacement.properties"
@@ -1248,13 +1240,13 @@ hash = "b77da93300cfb9a239aa33ad731f9672ae3c74d3218aa149df89449962cb8594"
 metafile = true
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "2017362c793d95887d38b3353abb7c77f212175e82ed848296575ea0e466b7d7"
+file = "mods/accessories-compat-vanilla.pw.toml"
+hash = "64711fc9f441a46a265d20931ab2afc8855e3f6b521db100a31d1e0666ea0d33"
 metafile = true
 
 [[files]]
-file = "mods/accessorify.pw.toml"
-hash = "69377da3eb02f91ca12ded74b9b7c10dee102635cf8b093fd30af992a208be0a"
+file = "mods/accessories.pw.toml"
+hash = "2017362c793d95887d38b3353abb7c77f212175e82ed848296575ea0e466b7d7"
 metafile = true
 
 [[files]]
@@ -1670,11 +1662,6 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "108739f2fdaa6a885a3217ae692b2521ab10b8e71fa1222c67274ea0562649a5"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "f2849c357f9c82d017ff71c6d5e91ac8e51d6b0f2de9e7ae8d95bfb81759cd63"
 metafile = true
 
 [[files]]

@@ -41,10 +41,6 @@
 		{
 			"slotType": "shoes",
 			"amount": -1
-		},
-		{
-			"slotType": "arrow",
-			"amount": -2
 		}
 	]
 }

@@ -1,0 +1,13 @@
+name = "Accessories Compat: Elytra & Totem"
+filename = "AccessoriesCompatVanilla-1.0.3+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qWoiYCbs/versions/8LVOhBr9/AccessoriesCompatVanilla-1.0.3%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "44364fdf1e2fe71693f9f39044c6187b329612df487748b74361225911324abfae8899188581b13652608f79ef9cfcf0fb82924d5c17bf66c51911cd1d9fb7ce"
+
+[update]
+[update.modrinth]
+mod-id = "qWoiYCbs"
+version = "8LVOhBr9"
