@@ -1,0 +1,17 @@
+{
+
+  "type": "hephaestus:melting",
+  "fuel": {
+    "amount": 50,
+    "id": "hephaestus:molten_blaze"
+  },
+  "ingredient": {
+    "tag": "c:dusts/uranium"
+  },
+  "result": {
+    "amount": 90,
+    "id": "hephaestus:molten_uranium"
+  },
+  "temperature": 1130,
+  "time": 100
+}

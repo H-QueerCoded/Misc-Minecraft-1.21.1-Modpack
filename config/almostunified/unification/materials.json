@@ -2,12 +2,11 @@
   "mod_priorities": [
     "minecraft",
     "immersiveengineering",
-    "oritech"
+    "oritech",
+    "crossroads"
   ],
   "priority_overrides": {
-      "c:ingots/uranium" : "oritech",
-      "c:dusts/{material}": "oritech",
-      "c:ores/uranium" : "oritech"
+      "c:ingots/uranium" : "oritech"
   },
   "stone_variants": [
     "stone",

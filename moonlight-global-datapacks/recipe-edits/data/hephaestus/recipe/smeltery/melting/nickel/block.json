@@ -1,0 +1,17 @@
+{
+
+  "type": "hephaestus:melting",
+  "fuel": {
+    "amount": 50,
+    "id": "hephaestus:molten_blaze"
+  },
+  "ingredient": {
+    "tag": "c:storage_blocks/nickel"
+  },
+  "result": {
+    "amount": 810,
+    "id": "hephaestus:molten_nickel"
+  },
+  "temperature": 1450,
+  "time": 200
+}

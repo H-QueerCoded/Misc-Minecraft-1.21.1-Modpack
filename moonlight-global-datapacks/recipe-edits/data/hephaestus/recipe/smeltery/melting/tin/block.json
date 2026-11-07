@@ -1,0 +1,17 @@
+{
+
+  "type": "hephaestus:melting",
+  "fuel": {
+    "amount": 50,
+    "id": "minecraft:lava"
+  },
+  "ingredient": {
+    "tag": "c:storage_blocks/tin"
+  },
+  "result": {
+    "amount": 810,
+    "id": "hephaestus:molten_tin"
+  },
+  "temperature": 230,
+  "time": 200
+}
