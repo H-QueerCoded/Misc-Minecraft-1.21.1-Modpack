@@ -959,7 +959,7 @@ hash = "8bddb5b165a483b32ae500bf42501474fd0084115664221c5fb578540b1155ae"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "bdbed40a4381f03061d05990fc570317a32b383e11a75b0724bb9d64cba6ba5c"
+hash = "500be9cda3995a0201a78a4f767696e0135bbc528e6a798a6c0eefb19f10a194"
 
 [[files]]
 file = "config/quark_ponders-client.toml"
@@ -1116,6 +1116,10 @@ hash = "c6ede2c7db6d6e47591d8d6b10186adc74d65d212ead1a2b0ad7f00d7bd039c8"
 [[files]]
 file = "config/usefulspyglass-common.toml"
 hash = "159406be0151e15909b6d0b3b8a59cc13b25465b8001e6fba920f5d1f843b667"
+
+[[files]]
+file = "config/variantsandventures.json"
+hash = "7bc031c317ad4e1215de5aabf0acbc9c7d99387e58e82e9ac1d25992bb2f4dbd"
 
 [[files]]
 file = "config/vinery-common.toml"
@@ -2111,6 +2115,11 @@ metafile = true
 [[files]]
 file = "mods/scorching-nether.pw.toml"
 hash = "149c9b82e4d41c4ae40487286bff7999a8d2b5c2938bfc8b4647319b157b4267"
+metafile = true
+
+[[files]]
+file = "mods/se-leafculling.pw.toml"
+hash = "5451c8d11a270d771344adaf02fabe90585040d83212eb99f156216c4cd88ce4"
 metafile = true
 
 [[files]]

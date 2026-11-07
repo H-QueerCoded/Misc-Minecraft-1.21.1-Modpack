@@ -1,0 +1,13 @@
+name = "Sodium/Embeddium Leaf Culling"
+filename = "seleafculling-neoforge-4.1.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xtym7fz7/versions/Hcq2tviE/seleafculling-neoforge-4.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "a1689ad301c0b9f6b747724490cb2379a7903bf98841099ee1336905d4f20692ffdaca19b812b615f1e99ec8219c0d9cc889edb257274f1418516362b3a0383e"
+
+[update]
+[update.modrinth]
+mod-id = "xtym7fz7"
+version = "Hcq2tviE"
