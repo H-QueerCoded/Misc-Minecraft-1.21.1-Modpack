@@ -30,7 +30,7 @@ hash = "d7671f438b74464538b2fa7402aeb2b6c9aaaf7f29da74ff7d1d3cba281216ab"
 
 [[files]]
 file = "config/accessorify/config.toml"
-hash = "5f8def033ad9e2a4331898110dfbdf0be2398b6e4b0bb94c1d019f1c1f45cc9a"
+hash = "0803213ccf64fb940133b4925fc0065e9629af1f43bd5b8a7ef27ababf7ac227"
 
 [[files]]
 file = "config/accurateblockplacement.properties"
@@ -2229,7 +2229,7 @@ metafile = true
 
 [[files]]
 file = "mods/traveler-tool-belt.pw.toml"
-hash = "738b26f9df9c5cce2b20f031f7fac8888f0f489035cc785edf0358c7232af458"
+hash = "0021a91da4e647dbad281ac71b9da02ce25e69b97a9aa66b5e117d4425c6425e"
 metafile = true
 
 [[files]]
