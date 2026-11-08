@@ -398,7 +398,7 @@ hash = "5c5a6e7ff7b71daecefaaec96e78c323102771201090be3ebd34156ef99ab80d"
 
 [[files]]
 file = "config/bettertridents-common.toml"
-hash = "2732900bfb037c15844b8b4e21644fc0d48f38dbe6add0ee6a43ebd570fe78ba"
+hash = "e58352c94b592ffb7384f797bb78b4f8c0f0ad588b2c0d43c0d0deddaece4c0b"
 
 [[files]]
 file = "config/bettertridents-server.toml"
@@ -558,7 +558,7 @@ hash = "0c9e53beefd9e8f6e081ee7f7283c66a870e0c41e5c4512cd508ae5aa01e5362"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "395fdcd980e52d133496ebd8ad835493da9fe6fa9ab473bb891c01ca4ff7e1bc"
+hash = "8ef89d53cb4d8baa29dcc1f5485c94834c75566821e56160afacd46320419809"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -943,7 +943,7 @@ hash = "8bddb5b165a483b32ae500bf42501474fd0084115664221c5fb578540b1155ae"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "338d6a636954aacb66b0db6a0caf955ee362978a94b9628af6900149fa1a8f10"
+hash = "f2e5030b422fb3665d71eb0a18d19268d452bed0aea68e84e8e2f9b6252af413"
 
 [[files]]
 file = "config/quark_ponders-client.toml"
@@ -1091,7 +1091,7 @@ hash = "58d2977b5fa4d3db0989e96f0ba8664b8bbc520d24646a0649cf25a4ea59518e"
 
 [[files]]
 file = "config/upgrade_aquatic-common.toml"
-hash = "571e1b1491fa4935d9d0cde152491d82b02007df5e60cdc72c8b98a516cf126e"
+hash = "135ffc32779530940076b1f961324a3626e3c44832ea9d77ecd2bd04f4884c9e"
 
 [[files]]
 file = "config/usefulspyglass-client.toml"
