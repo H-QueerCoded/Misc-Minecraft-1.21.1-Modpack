@@ -2527,6 +2527,30 @@ file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/
 hash = "df9f21b8f7c17334b92592e3776fc8290266514296fb17481fd78cdc94187b87"
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/melting/platinum/block.json"
+hash = "cdde4e6fb3293390002e4f609f04865a2ae6f0c9b8aa6e21f00d899397af2aef"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/melting/platinum/dust.json"
+hash = "4081d90815a4e06c52ed8bce264f96db4f24b07d937e5ff32c4e266b3021e227"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/melting/platinum/ingot.json"
+hash = "c8cd58cf1b195dadcf0fa1da66bc0ce3ed43c8d39fd108b9667e8e54edd80bc0"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/melting/platinum/nugget.json"
+hash = "436b20e97ab13563005f20f24699091d4da500e13e21e273a9269875e4037877"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/melting/platinum/raw.json"
+hash = "b99c691abec8369e9de510209edfbc450849a6adea45ebbf8cdd508063417e4a"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/melting/platinum/raw_block.json"
+hash = "3439a16f848534cc49c982602e4540fadeb02ab2711c57e6b2004949a96c53c2"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/melting/silver/block.json"
 hash = "0105a4c19aad5b773d07c689ae14e8141bda50b22c17b4b8684f21108e30f8af"
 
