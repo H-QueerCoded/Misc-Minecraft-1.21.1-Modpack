@@ -1,7 +1,7 @@
 #Server config settings
 [server]
 	#List of items allowed in the tool belt (this overrides the blacklist) (Use registry names or tags, for example: "minecraft:apple", "#minecraft:planks")
-	whitelist = []
+	whitelist = ["#minecraft:lanterns"]
 	#List of items not allowed in the tool belt (the whitelist takes precedence) (Use registry names or tags, for example: "minecraft:apple", "#minecraft:planks")
 	blacklist = []
 	#If true, all non-stackable items can be placed in the tool belt

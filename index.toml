@@ -609,14 +609,6 @@ file = "config/fungidelight-common.toml"
 hash = "71aaf073ca90f2892bac535372384ce8beb10f7555b34ca5e1d0d479b6522db7"
 
 [[files]]
-file = "config/fzzy_config/keybinds.toml"
-hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
-
-[[files]]
-file = "config/fzzy_config/search.toml"
-hash = "103317c4c1c5ae1421946c921428cbfbd9b2a17ee37115d9778d0b22e3b64e19"
-
-[[files]]
 file = "config/gigeresque.json"
 hash = "d777bb8a4e30173aa7fb13ec139ad937e95b0c8dedcb89912d2d1562823beb21"
 
@@ -1083,7 +1075,7 @@ hash = "31b509720a4d2b263cf366680feb1a3779e45a771a9f5e8dad13c663b8791236"
 
 [[files]]
 file = "config/travelertoolbelt-server.toml"
-hash = "acb6013362169982ba28c56972c322c585d70f47ff4f3b4ae5b0d6d6e7b508a5"
+hash = "9b93f74373bae1716c22366f8e4839cea97bb8d05724a35c86e6a42f800c989b"
 
 [[files]]
 file = "config/trender.json"
