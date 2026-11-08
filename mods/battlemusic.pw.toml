@@ -1,13 +1,13 @@
 name = "Battle Music"
-filename = "battlemusic-1.2.2.jar"
+filename = "battlemusic-1.2.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8HFCp5k3/versions/6pnnzMQO/battlemusic-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/8HFCp5k3/versions/zv4BvNml/battlemusic-1.2.3.jar"
 hash-format = "sha512"
-hash = "1c4df462e3b3c5b37a2f9151935ff3d4361c9ed55fcf98a63072f157afcdd5861fd932b172bac59cfd5a3690f3c95dace2c01d34596f6e8e635af8ca2abb8c91"
+hash = "80f4231e433f60380ec2f4cf87efc17389433c82921f4e5c909f534faf9f391db3a7742b534f3ae98cbf9618b24bea474bccdc2ddf56b8d6c64b24dbabe6f89b"
 
 [update]
 [update.modrinth]
 mod-id = "8HFCp5k3"
-version = "6pnnzMQO"
+version = "zv4BvNml"
