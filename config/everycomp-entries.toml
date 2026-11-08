@@ -118,7 +118,7 @@
 			stripped_post = true
 			ladder = true
 			hollow_log = false
-			vertical_slab = true
+			vertical_slab = false
 
 		[entries.wood_type.modestmasonry]
 			pillar = true
@@ -141,9 +141,9 @@
 			leaf_carpet = false
 
 		[entries.stone_type.quark]
-			polished_vertical_slab = true
+			polished_vertical_slab = false
 			pillar = true
-			vertical_slab = true
+			vertical_slab = false
 
 		[entries.stone_type.stoneworks]
 			tile_wall = true
