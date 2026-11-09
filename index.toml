@@ -2366,6 +2366,10 @@ file = "moonlight-global-datapacks/recipe-edits/data/animal_garden_narwhal/tags/
 hash = "bfab17d418624640eb4da49485d392c14481616e45bd0595af8051d6929629a5"
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/c/tags/item/mushrooms.json"
+hash = "1c3cffe2aebf23d6034625c683c5bda6edacde42a6a04d4c363fb4ad7e7b2484"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/melting/aluminum/block.json"
 hash = "adeab1da282a1606687e83ab12ff4b7f7f46ed5c000981e74bb4c317b8fe1e1e"
 
