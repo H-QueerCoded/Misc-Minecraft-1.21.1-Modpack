@@ -2366,8 +2366,8 @@ file = "moonlight-global-datapacks/recipe-edits/data/animal_garden_narwhal/tags/
 hash = "bfab17d418624640eb4da49485d392c14481616e45bd0595af8051d6929629a5"
 
 [[files]]
-file = "moonlight-global-datapacks/recipe-edits/data/c/tags/item/mushrooms.json"
-hash = "1c3cffe2aebf23d6034625c683c5bda6edacde42a6a04d4c363fb4ad7e7b2484"
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/alloying/netherite.json"
+hash = "7ec6b33036b49b8389c8f2ad55fdfe4b8db57da37801a7600b12dab8d0ec5f73"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/melting/aluminum/block.json"
@@ -2642,6 +2642,10 @@ file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/
 hash = "8a406e105b4c5277fc170d980101a309d066a8393f993e3b5f7693b022751ab9"
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/alloysmelter/netherite.json"
+hash = "b370b9b41f279756c4735c48ba9b08eb202a08731c86e74eda2b8fd495f000f3"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_fence.json"
 hash = "8b461d05b4807505456e0949e1394486682cd8579ec9149fe62834e6a27e55d7"
 
@@ -2687,7 +2691,7 @@ hash = "55695e5775f47de10ceb2e3e0742edd27f55fc51de4cac8c33e7aa50fd60f58c"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/pack.mcmeta"
-hash = "b4041db6f7ae870e79f0da245c7049a6d6457ed17ca3a19b2b63f163473bff18"
+hash = "7d0c96703b1fc235bd13a392fa66a9de42fb45027268a97936a0d59de8124694"
 
 [[files]]
 file = "moonlight-global-datapacks/true-ending.pw.toml"

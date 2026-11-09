@@ -12,6 +12,10 @@
 			{
 				"namespace": "oritech",
 				"path": "recipe/crafting/alloy/(steel|electrum|adamant).json"
+			},
+			{
+				"namespace": "minecraft",
+				"path": "recipe/netherite_ingot.json"
 			}
 		]
 	}
