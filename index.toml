@@ -1091,7 +1091,7 @@ hash = "58d2977b5fa4d3db0989e96f0ba8664b8bbc520d24646a0649cf25a4ea59518e"
 
 [[files]]
 file = "config/upgrade_aquatic-common.toml"
-hash = "6e0719d6be0fa070c9215fc6a34badfe2cc50d300862e9e67131341d1ffdbd15"
+hash = "0126d51e84b4e62b13688508fea6319aad27d71ae61e5a306ebef78a557d6ee4"
 
 [[files]]
 file = "config/usefulspyglass-client.toml"
