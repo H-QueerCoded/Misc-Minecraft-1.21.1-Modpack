@@ -18,7 +18,7 @@ hash = "60c7cc95b2f9def18ebeb8668724ba71c8786bd8d612e6adc3449dc30253e552"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "9d49c93f92f26d2c2c82c13d53fc85761cd172ff2d428ccfc72c4100deec936a"
+hash = "79cf562748d43fe12a0c398282d205be42f075fb8c7ed8c83e3f5654c71a5c47"
 
 [[files]]
 file = "config/accessories_compat.json5"
@@ -1075,7 +1075,7 @@ hash = "31b509720a4d2b263cf366680feb1a3779e45a771a9f5e8dad13c663b8791236"
 
 [[files]]
 file = "config/travelertoolbelt-server.toml"
-hash = "9b93f74373bae1716c22366f8e4839cea97bb8d05724a35c86e6a42f800c989b"
+hash = "cdf737c40b7eb2772dae503f50485d627cfeaf2b13decd1dd10577d21866235f"
 
 [[files]]
 file = "config/trender.json"
@@ -1797,6 +1797,11 @@ hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]
+file = "mods/last-world-panorama.pw.toml"
+hash = "a5322fceb24b53e40f33e45763e0c005fd4b7941e55249465c879531cc4988ec"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "5d9ca5a837144d0bc46d7f785372be070fe299488608098783807acfe67167ec"
 metafile = true
@@ -2365,6 +2370,10 @@ metafile = true
 file = "moonlight-global-datapacks/purpurpacks-infinity-on-crossbows.pw.toml"
 hash = "639d2d0a14c9166d1c36d2d931dc1601b65072a54c297a1dfec7e94e031bde04"
 metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/animal_garden_narwhal/tags/worldgen/biome/mob.json"
+hash = "bfab17d418624640eb4da49485d392c14481616e45bd0595af8051d6929629a5"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/melting/aluminum/block.json"
