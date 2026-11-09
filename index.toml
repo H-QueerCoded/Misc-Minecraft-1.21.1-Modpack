@@ -2347,11 +2347,6 @@ hash = "37700ad37b83252ccb8b8518f6a8a893e4e51529c3ad6e6403c6c9c5cb1b2c76"
 metafile = true
 
 [[files]]
-file = "moonlight-global-datapacks/from-the-fog.pw.toml"
-hash = "7f77463d778abfd02c9d6d23e44af7dff285eb000b12f0f5e4d976345ab2fdbd"
-metafile = true
-
-[[files]]
 file = "moonlight-global-datapacks/geophilic.pw.toml"
 hash = "5279e7f3bf3a3d027fffbdad8cc9a32248663ef1e2af1857412546a823545dfc"
 metafile = true
@@ -2707,11 +2702,6 @@ hash = "ceaadfe1d7ecda7e7eeb1334f7de7037f6d89eca317f7cb839ea3c92c1ca163e"
 [[files]]
 file = "resourcepacks/HEVI Iron Golem Remover.zip"
 hash = "7adf311d0e05ed40ae2e9db4084384ff96c4131108c8b120e4a9d4775b56fbfd"
-
-[[files]]
-file = "resourcepacks/from-the-fog.pw.toml"
-hash = "7f77463d778abfd02c9d6d23e44af7dff285eb000b12f0f5e4d976345ab2fdbd"
-metafile = true
 
 [[files]]
 file = "resourcepacks/fusion-block-transitions.pw.toml"
