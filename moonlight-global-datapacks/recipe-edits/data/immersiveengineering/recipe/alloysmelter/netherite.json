@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:alloy",
+  "input0": {
+    "basePredicate": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "count": 4
+  },
+  "input1": {
+    "basePredicate": {
+      "tag": "c:ingots/gold"
+    },
+    "count": 4
+  },
+  "result": {
+    "item": "minecraft:netherite_ingot",
+    "count": 1
+  }
+}

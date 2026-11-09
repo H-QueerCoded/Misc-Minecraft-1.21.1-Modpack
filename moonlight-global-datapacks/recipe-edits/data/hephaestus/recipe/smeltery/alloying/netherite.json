@@ -1,0 +1,18 @@
+{
+  "type": "hephaestus:alloying",
+  "inputs": [
+    {
+      "amount": 360,
+      "id": "hephaestus:molten_ancient_debris"
+    },
+    {
+      "amount": 360,
+      "id": "hephaestus:molten_gold"
+    }
+  ],
+  "output": {
+    "amount": 90,
+    "id": "hephaestus:molten_netherite"
+  },
+  "temperature": 2000
+}
