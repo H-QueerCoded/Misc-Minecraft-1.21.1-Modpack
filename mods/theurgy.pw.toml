@@ -1,13 +1,13 @@
 name = "Theurgy"
-filename = "theurgy-1.21.1-neoforge-1.78.0.jar"
+filename = "theurgy-1.21.1-neoforge-1.79.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uOVMgoil/versions/AZi4xOcw/theurgy-1.21.1-neoforge-1.78.0.jar"
+url = "https://cdn.modrinth.com/data/uOVMgoil/versions/EBO0aQOY/theurgy-1.21.1-neoforge-1.79.0.jar"
 hash-format = "sha512"
-hash = "9adc54b4cf2f0f2901aa2bccf175cfc067337f56573d6fb0060180b1c03e4db518cdf4e45e9cb60387273f00fba0eadbbadbecfea0b2aa2cad10b3a7af0ba841"
+hash = "2e92aa0a3462d400feed398d4a675f9492dab3613ad698f24fcbcce34b565a079a7362fb637c4e268dbb71be5d11fc6630758f149ecccc8d6603f2e9d96f0569"
 
 [update]
 [update.modrinth]
 mod-id = "uOVMgoil"
-version = "AZi4xOcw"
+version = "EBO0aQOY"

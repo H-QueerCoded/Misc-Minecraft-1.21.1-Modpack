@@ -2178,7 +2178,7 @@ metafile = true
 
 [[files]]
 file = "mods/theurgy.pw.toml"
-hash = "e0d7481ad08c0dc89c822c42f49261e7c8e42db0b1eadb46f2eda3e79b8d91a8"
+hash = "793effcf3667ae09d344798a180d819eb25c37bdfbc39be83027fd72ff51a5b0"
 metafile = true
 
 [[files]]
