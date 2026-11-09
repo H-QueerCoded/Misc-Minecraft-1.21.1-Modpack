@@ -1688,7 +1688,7 @@ metafile = true
 
 [[files]]
 file = "mods/heartstone.pw.toml"
-hash = "181f76dfb237c56efd138f557ba8bd78220574b2a383955c099bae4e9652ef32"
+hash = "3c55c3a6cccd345dd0b44f29678fde4a11dd9f7b1f35bae0d9f8e5e54c13a0f3"
 metafile = true
 
 [[files]]
