@@ -2177,6 +2177,11 @@ hash = "793effcf3667ae09d344798a180d819eb25c37bdfbc39be83027fd72ff51a5b0"
 metafile = true
 
 [[files]]
+file = "mods/tip-of-the-loom.pw.toml"
+hash = "5c0d5fcdbf386b63ca7be11e308c5329ff1f1ecb876b94ed267fb5b7bc7e7168"
+metafile = true
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "40f7d1c072b54e11492e7774835901d4f5d757b01cac54947657695f580afd3a"
 metafile = true
