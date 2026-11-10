@@ -943,7 +943,7 @@ hash = "8bddb5b165a483b32ae500bf42501474fd0084115664221c5fb578540b1155ae"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "3179e6052570873239f8ef02ee71ae5084ec5c3c16caea5c5281b520a587b685"
+hash = "f2e5030b422fb3665d71eb0a18d19268d452bed0aea68e84e8e2f9b6252af413"
 
 [[files]]
 file = "config/quark_ponders-client.toml"
@@ -1884,6 +1884,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "e3003f83463910a682f3ea1c419f850fed7bc2c6ff4831144db11228b98e2fb4"
+metafile = true
+
+[[files]]
+file = "mods/more-banner-features.pw.toml"
+hash = "d36131a42582e9a4ca090925470942288508261be4191b865fc3ae70d47108f0"
 metafile = true
 
 [[files]]
