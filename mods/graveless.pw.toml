@@ -1,0 +1,13 @@
+name = "Graveless"
+filename = "graveless-neoforge-1.21.1-1.3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1xX7Y3No/versions/itE261uu/graveless-neoforge-1.21.1-1.3.7.jar"
+hash-format = "sha512"
+hash = "d7556bfea1596e8c4dfe053ae661614039675bdf207fba74af572bf4120aa35568b56c81467f123623a0287d72d7d754437667016041e311044ea2e8c6d567f6"
+
+[update]
+[update.modrinth]
+mod-id = "1xX7Y3No"
+version = "itE261uu"

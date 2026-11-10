@@ -943,7 +943,7 @@ hash = "8bddb5b165a483b32ae500bf42501474fd0084115664221c5fb578540b1155ae"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "f2e5030b422fb3665d71eb0a18d19268d452bed0aea68e84e8e2f9b6252af413"
+hash = "4eb59ffd027d0f9bf949b88c47fbcc57d54eee97c060cc6f5017c0838de5a0ae"
 
 [[files]]
 file = "config/quark_ponders-client.toml"
@@ -1674,6 +1674,11 @@ metafile = true
 [[files]]
 file = "mods/golemsarefriends.pw.toml"
 hash = "ee2a1787a14e5e0e748b8801daede1722c4bf01d99582541c3ea603ed0e429ba"
+metafile = true
+
+[[files]]
+file = "mods/graveless.pw.toml"
+hash = "9cf306f08b8cd212534bf6d4b71133944947b405006b7410dfc1b2ff1b7734db"
 metafile = true
 
 [[files]]
