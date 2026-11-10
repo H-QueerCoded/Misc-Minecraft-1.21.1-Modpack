@@ -1928,7 +1928,7 @@ metafile = true
 
 [[files]]
 file = "mods/nautec-2.pw.toml"
-hash = "59aec2a5a0cc7f28ffcef9cf47afbbdc3a38f48d5083f0484a474145b06c6da4"
+hash = "6d473c0dd0b7b7c836fae4e24dae0782f035688cb3f89dbe93cc4e92913cd60a"
 metafile = true
 
 [[files]]
