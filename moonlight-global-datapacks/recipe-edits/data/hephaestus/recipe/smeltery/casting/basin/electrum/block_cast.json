@@ -1,0 +1,10 @@
+{
+
+  "type": "hephaestus:casting_basin",
+  "input": {
+    "amount": 810,
+    "id": "hephaestus:molten_electrum"
+  },
+  "result": "immersiveengineering:storage_electrum",
+  "time": 200
+}

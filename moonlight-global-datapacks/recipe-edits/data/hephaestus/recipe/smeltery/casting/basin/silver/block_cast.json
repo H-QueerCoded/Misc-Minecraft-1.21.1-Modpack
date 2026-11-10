@@ -1,0 +1,10 @@
+{
+
+  "type": "hephaestus:casting_basin",
+  "input": {
+    "amount": 810,
+    "id": "hephaestus:molten_silver"
+  },
+  "result": "immersiveengineering:storage_silver",
+  "time": 200
+}

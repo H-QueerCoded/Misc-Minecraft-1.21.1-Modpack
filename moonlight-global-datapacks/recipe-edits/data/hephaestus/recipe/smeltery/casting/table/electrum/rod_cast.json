@@ -1,0 +1,13 @@
+{
+
+  "type": "hephaestus:casting_table",
+  "cast": {
+    "item": "hephaestus:rod_cast"
+  },
+  "cooling_time": 50,
+  "fluid": {
+    "amount": 45,
+    "id": "hephaestus:molten_electrum"
+  },
+  "result": "immersiveposts:stick_electrum"
+}

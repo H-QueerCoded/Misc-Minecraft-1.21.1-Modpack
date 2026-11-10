@@ -1,0 +1,10 @@
+{
+
+  "type": "hephaestus:casting_basin",
+  "input": {
+    "amount": 810,
+    "id": "hephaestus:molten_constantan"
+  },
+  "result": "immersiveengineering:storage_constantan",
+  "time": 200
+}

@@ -2374,6 +2374,182 @@ file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/
 hash = "7ec6b33036b49b8389c8f2ad55fdfe4b8db57da37801a7600b12dab8d0ec5f73"
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/basin/aluminum/block_cast.json"
+hash = "2654f956f0da2a2fad792a0a805a2b7555add0f4406b44436292b7b89e30ae96"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/basin/bronze/block_cast.json"
+hash = "5c662e40e0f4eac52f2ec70d91a407097bb52f002999ed2bda966bf2d4a351e7"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/basin/constantan/block_cast.json"
+hash = "1cc99df0c41437147fb99db813bb7720d35e4afd32519412185efa940c87f789"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/basin/electrum/block_cast.json"
+hash = "b45a753946b04274309393cd47585483ce577457ddba04d48dc9f4b88caa1e47"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/basin/lead/block_cast.json"
+hash = "d22653452ba298fef1cd2233e67b31d70253829f49aadbb51528e1aaa9094caa"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/basin/nickel/block_cast.json"
+hash = "baf786e1b545aae1c55cc7c9f2ab4499d96af60318a305ff9decb998f7cca425"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/basin/platinum/block.json"
+hash = "56999759145870590a57fb739b011a116733bb0d89d45db318a2238cefa3f9aa"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/basin/silver/block_cast.json"
+hash = "ab8fd3048a725582ac4834a1d439a014b3228a30f0602d12149c30a968a4bc37"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/basin/tin/block_cast.json"
+hash = "85f2816daea1ac67afdb45865e36013441485451ee65585076d80b925a6a9da3"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/basin/uranium/block_cast.json"
+hash = "85153ec6c29b9a382a13609fac9d631b85e0ed64998933e330b9dc8f91424037"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/aluminum/ingot_cast.json"
+hash = "d54c67cf5868c446cee0f3c976a9b28ce419924f3d686a30cf5d2089c4a39810"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/aluminum/nugget_cast.json"
+hash = "bc56ff205b469e755b3fa97e7fb50bbc16918f982ea6a8eba7c80e607242320a"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/aluminum/plate_cast.json"
+hash = "98108de5287d314da848274303bd3803d9769bb176f0e7919e91bb1d5fe6821b"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/aluminum/rod_cast.json"
+hash = "2f7ac131d1d12ebcfdd19879c2a590fa0ad021301118e4654010a26d9d852705"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/bronze/ingot_cast.json"
+hash = "dbab7b059204af8a81d57e72005a997d23a6dfaa7e2950f6cdf92d0a2fc77c9a"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/bronze/nugget_cast.json"
+hash = "fbaffa714c6a8c5f5fdb04ecb1ed0055375ebb6ad3de9a62f12f84ca88f5f1c3"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/constantan/ingot_cast.json"
+hash = "42163af4aad706549706db0939727d59f00dce1f4d83e9014e03d332622f4f3e"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/constantan/nugget_cast.json"
+hash = "dfd42ccaa8394625dcad4d7f280df517373b635f3f824d7bd366a162ea13aaa6"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/constantan/plate_cast.json"
+hash = "d979b6a1371f8780d013a10543a9bb6c4cce91ce1a484d68e67520efcdd3c7b3"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/constantan/rod_cast.json"
+hash = "7d8349b01c7d8bce23538af4c9084dd8c4cb8eae9fd285d090d94b939655df49"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/electrum/ingot_cast.json"
+hash = "6d384fab1fbf2608082aadc337b6c44c077b72784e5408dbc6e51ee08db6da07"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/electrum/nugget_cast.json"
+hash = "c8d6edeffc81b2c0e8a994761365377fde73211784cf878e6e83123f9d0e81d9"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/electrum/plate_cast.json"
+hash = "f397069a5b3d97e6b39b2b09f2e0f944d74fdc15d315fb0be542361a60117832"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/electrum/rod_cast.json"
+hash = "da9d2e0b462fbd8a41c3b813a6233a99c6d577613c04f72a1fb15d259faddff1"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/lead/ingot_cast.json"
+hash = "3e9f206c0079dae4f54ec557d32b8433946f5b135d922fc4f07c3edfc8c561b6"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/lead/nugget_cast.json"
+hash = "421abf79d2ca6661017527b906a911beb98fb7ebe451afe67f263d414563a9f9"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/lead/plate_cast.json"
+hash = "747d20b1769d621d99824928de449ab4c96f021ae3df20b02c72bc3d2f10b8e8"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/lead/rod_cast.json"
+hash = "205e28145744f9c3b6e4b75b8efed56fc82a69def33f678e4fe0ece8800f5ca6"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/nickel/ingot_cast.json"
+hash = "bf79c1f5ed6f35cc084218b132eb962b49ceb005eaba5771509cc7b656e53339"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/nickel/nugget_cast.json"
+hash = "9045ddcc615e665110de1aa9d8c332cd94d1f95bb1ee64c513396e08cfadab6f"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/nickel/plate_cast.json"
+hash = "ad4af5df695afc0003f0c88b32dc4deb4ec2c789b4f13b9eac3ac1cd984d10cb"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/nickel/rod_cast.json"
+hash = "f855757285fc8a597505d184f16c5071b7720f6fbde74a03c1e56d9f346fac1c"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/platinum/ingot_cast.json"
+hash = "4a59a4b836c172f23daffff8b89343290001952fac829cd0bad3ab5f0df804c2"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/platinum/nugget_cast.json"
+hash = "42e7ae70b877dc65acba0ad23d946b0aea71a74bdbf61319f600ee508855d187"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/silver/ingot_cast.json"
+hash = "900b16f8cb1938b234d0624e664bcefe0495b0052839757438052510e4827414"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/silver/nugget_cast.json"
+hash = "55e7402a14376bca518334ed896ff44025285ab6ffc566f8e485458ab5555f4c"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/silver/plate_cast.json"
+hash = "db4cbc44b6ad38461a071a3d9dcc44b6819d0b188a46c59ef862c83d8a211dfc"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/silver/rod_cast.json"
+hash = "2968b91a37be82c5c7cc11b1dadd7b23ba1139d319780554f0c0b37f8971ca44"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/tin/ingot_cast.json"
+hash = "9d5ef35d845ec828588af2ec31df34935d2c86297d1d0d696dde68702c924f4d"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/tin/nugget_cast.json"
+hash = "c046664c6bae0c778dc57a8e8d4226e28821c6099fad95584395dbe0648f93a5"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/uranium/ingot_cast.json"
+hash = "907814ea0c8291f4f66a14a92c7345fadcd27c8654473603f19f700aa8080d39"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/uranium/nugget_cast.json"
+hash = "7c8360d3f0037ada68fc35ebd168ca0f307ff7fb168fc0d712678f59f5c4ccbe"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/uranium/plate_cast.json"
+hash = "354aee90a4134486621f7ac883c5e3da674f188e28c71b5ff6656214c2b384ad"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/uranium/rod_cast.json"
+hash = "4a15e6e5c4fe218e8cb726332139a093350a6a168def78cf4532d545fc22742f"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/melting/aluminum/block.json"
 hash = "adeab1da282a1606687e83ab12ff4b7f7f46ed5c000981e74bb4c317b8fe1e1e"
 
