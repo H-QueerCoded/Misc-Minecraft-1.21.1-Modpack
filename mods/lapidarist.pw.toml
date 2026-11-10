@@ -1,0 +1,13 @@
+name = "Lapidarist"
+filename = "lapidarist-4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zgzh3qob/versions/3yHe7y5H/lapidarist-4.0.jar"
+hash-format = "sha512"
+hash = "f44d01b741f066c5b72bbf86a43a35a9324a65694ddcb9e905db9ce8c795baa2fdba424dc1fe969e237ff4d5ee3be430ef9a9e83fe1f886550fa873f9da2b89a"
+
+[update]
+[update.modrinth]
+mod-id = "zgzh3qob"
+version = "3yHe7y5H"

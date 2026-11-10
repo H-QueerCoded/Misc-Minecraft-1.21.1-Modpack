@@ -1797,6 +1797,11 @@ hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]
+file = "mods/lapidarist.pw.toml"
+hash = "59ca67d0a164c0f576c5c1e99e62d1df1b60e043bfeba9582c07ca5daf249d9f"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "5d9ca5a837144d0bc46d7f785372be070fe299488608098783807acfe67167ec"
 metafile = true
