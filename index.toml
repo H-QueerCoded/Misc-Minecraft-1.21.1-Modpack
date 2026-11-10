@@ -558,7 +558,7 @@ hash = "0c9e53beefd9e8f6e081ee7f7283c66a870e0c41e5c4512cd508ae5aa01e5362"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "8ef89d53cb4d8baa29dcc1f5485c94834c75566821e56160afacd46320419809"
+hash = "318e1194adc4e529c75bb1c0d86b052f7fd4e366b83360007a7eb2fbcb91170f"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"

@@ -27,7 +27,7 @@
 		[types.wood_type.quark]
 			azalea = true
 			ancient = true
-			blossom = true
+			blossom = false
 
 		[types.leaves_type.expandeddelight]
 			cinnamon = true
@@ -59,11 +59,11 @@
 
 		[types.leaves_type.quark]
 			ancient = true
-			blue_blossom = true
-			lavender_blossom = true
-			orange_blossom = true
-			yellow_blossom = true
-			red_blossom = true
+			blue_blossom = false
+			lavender_blossom = false
+			orange_blossom = false
+			yellow_blossom = false
+			red_blossom = false
 
 		[types.stone_type.ae2]
 			quartz = true
@@ -76,7 +76,7 @@
 			soul_sandstone = true
 			limestone = true
 			jasper = true
-			shale = true
+			shale = false
 			myalite = true
 			permafrost = true
 
