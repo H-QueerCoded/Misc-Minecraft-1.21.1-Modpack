@@ -835,7 +835,7 @@ hash = "6ba27cb06047e62b4feb4c626caf9867fee8a0101e3bb037fe0fb09f4c3cb0f2"
 
 [[files]]
 file = "config/morphtool-common.toml"
-hash = "da89f667102d9723b84ce8c5a8f59861cf6b7ac0515ab4e763b50f3c11564770"
+hash = "6de688e73d8f5d9d6f3b8c93d396c5c0fc9ec9aa52c562a29cad7ce575eaa47c"
 
 [[files]]
 file = "config/mysterious_mountain_lib-common.toml"
@@ -1091,7 +1091,7 @@ hash = "58d2977b5fa4d3db0989e96f0ba8664b8bbc520d24646a0649cf25a4ea59518e"
 
 [[files]]
 file = "config/upgrade_aquatic-common.toml"
-hash = "0126d51e84b4e62b13688508fea6319aad27d71ae61e5a306ebef78a557d6ee4"
+hash = "9430ea26081bfe7588afe47459a646354c2f5605bce4cc7307c6b57dc341ccad"
 
 [[files]]
 file = "config/usefulspyglass-client.toml"
