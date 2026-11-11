@@ -547,7 +547,7 @@ hash = "6ba27cb06047e62b4feb4c626caf9867fee8a0101e3bb037fe0fb09f4c3cb0f2"
 
 [[files]]
 file = "config/morphtool-common.toml"
-hash = "6de688e73d8f5d9d6f3b8c93d396c5c0fc9ec9aa52c562a29cad7ce575eaa47c"
+hash = "8ebe141e01d7b6fb7a405a1d72c0d5727d5037280c58c8206ea2bc549c0557b7"
 
 [[files]]
 file = "config/mysterious_mountain_lib-common.toml"
