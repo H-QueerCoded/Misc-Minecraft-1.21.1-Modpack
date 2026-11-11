@@ -1519,7 +1519,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-trials.pw.toml"
-hash = "26e9ad08c619188468f062786b8b9b20aa00e0501f43e942dd6c2b59414b82d6"
+hash = "dd5f609b21c44691e9dcd1a072223e2cd0990b9f07ec80b37516640bfe6426c5"
 metafile = true
 
 [[files]]
