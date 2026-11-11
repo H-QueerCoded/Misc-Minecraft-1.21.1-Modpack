@@ -2,7 +2,7 @@
 	#Show Patchouli as book list button icon
 	patchouliAsButtonIcon = false
 	#Extra book item ids to treat as books in the open logic.
-	customBookIds = ["mycomancy:derelic_journal"]
+	customBookIds = []
 	#These won't appear in the book list.
 	ignoredBookIds = ["applieddelight:guide"]
 	#Horizontal offset for the books pane, relative to left of inventory panel.

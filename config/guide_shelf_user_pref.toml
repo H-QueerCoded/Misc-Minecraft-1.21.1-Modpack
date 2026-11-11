@@ -1,7 +1,0 @@
-[user_pref]
-	#Pinned book ids.
-	pinnedBooks = ["mycomancy:derelic_journal", "essentials:manual", "theurgy:the_hermetica"]
-	#Whether the books pane is collapsed on the inventory screen.
-	booksPaneCollapsed = true
-	#If true, hides all Guide Shelf elements on the inventory screen.
-	hideMod = false
