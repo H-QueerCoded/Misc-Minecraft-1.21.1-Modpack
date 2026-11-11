@@ -1003,6 +1003,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "1c9f21b7aa723402f2685c0cd531a90316b06bff0e78f20ab0b60712a56cc274"
+metafile = true
+
+[[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "3f6e74711a0c2677548ec3a5ef36a3fbf79b5a9f2b406aab73b1ca678fc518f9"
 metafile = true
@@ -1045,6 +1050,11 @@ metafile = true
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
+metafile = true
+
+[[files]]
+file = "mods/cycle-paintings.pw.toml"
+hash = "08ffcb4a00bfbdddaf9e0ac174a5f6915103429ee62777fa894c3d55e26abed3"
 metafile = true
 
 [[files]]
@@ -1503,6 +1513,16 @@ hash = "fd84fcf376910b659fdfbcc2401aa545400b0d7c65834eb2fe22bae3a3c921c2"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-trials-mod-integrations.pw.toml"
+hash = "8bc6df9e69e8dc7274bef16de99bbdf0c9fe46ffc9c83613f89276bd1be9b17b"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-trials.pw.toml"
+hash = "26e9ad08c619188468f062786b8b9b20aa00e0501f43e942dd6c2b59414b82d6"
+metafile = true
+
+[[files]]
 file = "mods/ocean-lily-pad-village.pw.toml"
 hash = "fe8130b8575cdae42125711e231b551e96475795655817b5dc5ef3d4a5bff2de"
 metafile = true
@@ -1525,11 +1545,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "6514f98b34602b789fc2dbcafe7a67468d1c94d74965a0142a79b7ab23628a9a"
-metafile = true
-
-[[files]]
-file = "mods/paintings-plus-plus.pw.toml"
-hash = "19a52668157b47597a57ad8b21d3a97b6a0a5efccb93472811399aba6d8ae1f0"
 metafile = true
 
 [[files]]
@@ -1748,6 +1763,11 @@ hash = "793effcf3667ae09d344798a180d819eb25c37bdfbc39be83027fd72ff51a5b0"
 metafile = true
 
 [[files]]
+file = "mods/thorny-bush-protection.pw.toml"
+hash = "1d04de3bad423d937c675b71f06ebf18084681f02aea33fbc14585f5c59a877a"
+metafile = true
+
+[[files]]
 file = "mods/tip-of-the-loom.pw.toml"
 hash = "5c0d5fcdbf386b63ca7be11e308c5329ff1f1ecb876b94ed267fb5b7bc7e7168"
 metafile = true
@@ -1818,8 +1838,18 @@ hash = "d00c1b5dc4ccb271b2e75289b8f49be74a0d19c2fad8cb8240c2699ae4f71831"
 metafile = true
 
 [[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "e5b94ac5c57f1a24993ae92a5b918db31eaf0c25009bd7db516f39b67f44c48a"
+metafile = true
+
+[[files]]
 file = "mods/wakes-reforged.pw.toml"
 hash = "8e464c45945b7311b01d0be50a714e8a64d389dc27331f4a27d7981fd29131b9"
+metafile = true
+
+[[files]]
+file = "mods/wandering-trader-may-leave.pw.toml"
+hash = "57c841209a56e53a55c320437d930dfaf6a366f39675c0856a8f50c5db1324ec"
 metafile = true
 
 [[files]]
