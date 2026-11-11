@@ -1514,7 +1514,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-trials-mod-integrations.pw.toml"
-hash = "8bc6df9e69e8dc7274bef16de99bbdf0c9fe46ffc9c83613f89276bd1be9b17b"
+hash = "dd5663873f3d1b34d4442048289b100c1cf2534e52e3968f0dae6cf7c12f0b4f"
 metafile = true
 
 [[files]]
