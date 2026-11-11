@@ -1173,6 +1173,11 @@ hash = "f35b1ab14783111b1aa3ec54cfd3ab3ef01be361612f7073322bed7e0eec7a5a"
 metafile = true
 
 [[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "03494a76b42b1b79e4d36a93317b8e884cafdb7e08f6103ce47ecd4e4df57645"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
@@ -1510,6 +1515,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "fd84fcf376910b659fdfbcc2401aa545400b0d7c65834eb2fe22bae3a3c921c2"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-trials-miscellaneous-compat.pw.toml"
+hash = "48ce5f45964146b6e5cc1f95245f121899304953e3af5939059451d0e908cc66"
 metafile = true
 
 [[files]]
