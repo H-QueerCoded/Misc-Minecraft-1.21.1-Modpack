@@ -1524,7 +1524,7 @@ metafile = true
 
 [[files]]
 file = "mods/neoecoae.pw.toml"
-hash = "0bd475d91c97d98bfb9a5e0bdc3e491120d294816a353f8a5d1712b02d346c13"
+hash = "903e5f61437f94df08360de8a861944257d60501ac61010c86d38be94cb07bf9"
 metafile = true
 
 [[files]]
