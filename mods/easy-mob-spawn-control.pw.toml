@@ -1,13 +1,13 @@
 name = "Easy Mob Spawn Control"
-filename = "easy_mob_spawn_control-1.7.0.jar"
+filename = "easy_mob_spawn_control-1.7.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pTXV6gwq/versions/AgiVroXR/easy_mob_spawn_control-1.7.0.jar"
+url = "https://cdn.modrinth.com/data/pTXV6gwq/versions/marKjTGx/easy_mob_spawn_control-1.7.2.jar"
 hash-format = "sha512"
-hash = "85110d17516d66006264881212438250e39cb4bb2b557da7b681b0038d7ec90cd652fbc67a151d2b8566ead1d9ff1a3f5bbb58e934d802165cbe91c33f16cace"
+hash = "6b2d968030a135287771cbbc6929779bfdfe701cbbdb5f79dc3ec8e3c64cd2346cb0ff383b0d133efa4d1220807c1d32f7406243a2d81fcad006143459644c13"
 
 [update]
 [update.modrinth]
 mod-id = "pTXV6gwq"
-version = "AgiVroXR"
+version = "marKjTGx"

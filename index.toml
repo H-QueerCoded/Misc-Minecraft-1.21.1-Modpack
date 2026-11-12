@@ -1094,7 +1094,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-mob-spawn-control.pw.toml"
-hash = "09c4e839a8bfd76515bb2b9735f2ab9a71effc88a5b7afcaf589135ad55a57b3"
+hash = "cac6a08132384f6d62459e0fe4933f24d874bcb6b04fae43b65a4379f9d9e80b"
 metafile = true
 
 [[files]]
