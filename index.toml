@@ -1518,6 +1518,11 @@ hash = "0bd475d91c97d98bfb9a5e0bdc3e491120d294816a353f8a5d1712b02d346c13"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "fd84fcf376910b659fdfbcc2401aa545400b0d7c65834eb2fe22bae3a3c921c2"
 metafile = true
