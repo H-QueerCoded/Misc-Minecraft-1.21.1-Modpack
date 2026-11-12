@@ -1353,6 +1353,11 @@ hash = "955c6461c3f51cbbf72197130479b7c922bcc498a15c3caf678a10ceb75ee9ca"
 metafile = true
 
 [[files]]
+file = "mods/keybind-atlas.pw.toml"
+hash = "5f48508a9cac7b291600d3b91149911278ccea79b65f7a45aa92e5b06882f8ad"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
 metafile = true
@@ -1505,11 +1510,6 @@ metafile = true
 [[files]]
 file = "mods/neoecoae.pw.toml"
 hash = "2774c8f298c0c975789291151896ae14005b42a72e1c736329bae0fec555f8d8"
-metafile = true
-
-[[files]]
-file = "mods/new-visual-keybing.pw.toml"
-hash = "c5266d3f8e6bb8b1eaa3d45d8cd574d2cfba3b4d1a6295cb5134fcaa36050a10"
 metafile = true
 
 [[files]]
