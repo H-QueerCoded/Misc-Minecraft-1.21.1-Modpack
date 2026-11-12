@@ -374,7 +374,7 @@ hash = "d777bb8a4e30173aa7fb13ec139ad937e95b0c8dedcb89912d2d1562823beb21"
 
 [[files]]
 file = "config/guide_shelf-common.toml"
-hash = "eaabbc1c6438dd9d2fc7402cfd82ae2a615600f809844c76bdfbeff97b9b0a2c"
+hash = "1f8c225193a2a161220b4357041abbb3895df86e60a675fe3ec67f4efb274b93"
 
 [[files]]
 file = "config/guideme.toml"
