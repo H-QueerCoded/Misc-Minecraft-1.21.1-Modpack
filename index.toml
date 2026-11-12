@@ -1423,6 +1423,11 @@ hash = "b54addad8fd6bdd9ee141d740de8c346b1744258cb8c8ab663a61054e48e308e"
 metafile = true
 
 [[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "f16f12f50147b493bc8b321ab26337b78cb892efdcf48cef6ddddefa1d4ea927"
+metafile = true
+
+[[files]]
 file = "mods/merequester.pw.toml"
 hash = "8d38a1e7ef9fdd40670916a816191f4350ed53963b9e41b677bb914268a3f814"
 metafile = true
@@ -1780,6 +1785,11 @@ metafile = true
 [[files]]
 file = "mods/tip-of-the-loom.pw.toml"
 hash = "5c0d5fcdbf386b63ca7be11e308c5329ff1f1ecb876b94ed267fb5b7bc7e7168"
+metafile = true
+
+[[files]]
+file = "mods/tis3d.pw.toml"
+hash = "eef109ca77ccb4a0d3657b5a3510a9e3b43c95e6aff844c45befd5f0738964db"
 metafile = true
 
 [[files]]
