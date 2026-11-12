@@ -778,6 +778,11 @@ file = "config/zfastnoise.mixin.properties"
 hash = "3897b6dfd4c32c63d597ec8631a71db69278f4d474b496e5610a452b9f3357b5"
 
 [[files]]
+file = "mods/abnormals-delight.pw.toml"
+hash = "afe15b7cef01239738641eaddfd0bafb9cd269624b891b39bc05e925a3365506"
+metafile = true
+
+[[files]]
 file = "mods/accessible-step.pw.toml"
 hash = "0a29963989ee266df0d14affbab7b080e48e1d03630c242edd3e32e19ced44eb"
 metafile = true
