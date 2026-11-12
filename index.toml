@@ -1213,6 +1213,11 @@ hash = "981e52e1c4a97465921342f556cced335c6c75cdb050e9fc528d52cf4ff88b79"
 metafile = true
 
 [[files]]
+file = "mods/frame-changer.pw.toml"
+hash = "9a4208ccd7c3b192fcf70dc10d61ed4854f7dd169ab093fc18d9b51af0b91aeb"
+metafile = true
+
+[[files]]
 file = "mods/framedblockslite.pw.toml"
 hash = "831c721e33a1fa2b3c3429a9219c19568d57e1d497327305802226f79f43a59d"
 metafile = true
