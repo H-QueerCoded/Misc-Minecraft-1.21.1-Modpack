@@ -44,7 +44,7 @@ enable_minecart_chaining = true
 #If true, copper rails can be crafted, placed, and shown in creative tabs.
 enable_copper_rails = true
 #If true, rail crossings can be placed and used.
-enable_rail_crossing = true
+enable_rail_crossing = false
 #If true, powered detector rails can be placed and used.
 enable_powered_detector_rail = true
 #If true, directed powered rails can be placed and used.

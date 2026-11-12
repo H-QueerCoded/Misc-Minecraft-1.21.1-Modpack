@@ -527,7 +527,7 @@ hash = "d9abd2849c3a0e83d79adb19ee34ad716e5408e7394c93c576aaab4397152465"
 
 [[files]]
 file = "config/modernminecarts-common.toml"
-hash = "90093da22424f078aee828576322e9991b473bfcc47973a3ce370b32c2261245"
+hash = "fc00eec0fb0394719ccd230bc94ecda4898dd395c5efeb2d99a8a210e54658a2"
 
 [[files]]
 file = "config/modularbees-common.toml"
