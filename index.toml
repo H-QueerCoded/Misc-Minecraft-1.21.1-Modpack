@@ -257,32 +257,12 @@ file = "config/cutthrough-client.toml"
 hash = "16bc1f998738810cae793b1dc272122dde8b246bffa408f227357803e16ba692"
 
 [[files]]
-file = "config/databank-client.toml"
-hash = "f81175924941621df32734377dcf9701d13b0f5b7ef9d86bc5d3b64dc2eaf766"
-
-[[files]]
-file = "config/deeper_oceans.json"
-hash = "f1a9f25c3682c16302bdb40049b2319941c5dffdb8325e62065558a54e66b2e9"
-
-[[files]]
 file = "config/easyanvils-common.toml"
 hash = "643de42a3b9cd02a9c0d82d2b2119daa3373d51b7394baeba6b98332de6ecb8d"
 
 [[files]]
 file = "config/easyanvils-server.toml"
 hash = "61228450bef35c2871f9438b12f4dfba2f52aa740038a8a27ffbf2fc659592a2"
-
-[[files]]
-file = "config/embeddium-fingerprint.json"
-hash = "349ce1aa90aa1de43aab431eac993296877b00f42a47c0c58767c1a8cb5cfc6a"
-
-[[files]]
-file = "config/embeddium-mixins.properties"
-hash = "708750dc530ed52462185c7b1421291db8b292a350e164daaad437ba6f4fe4ef"
-
-[[files]]
-file = "config/embeddium-options.json"
-hash = "950912b248373fd4b761516139be095466fd46630081a5b3c7ab8e254319981a"
 
 [[files]]
 file = "config/emi.css"
@@ -311,10 +291,6 @@ hash = "bd66edf9d1a72cd717bbe9b17b41ffd16963b089493e5ddae3d3ad69153105ba"
 [[files]]
 file = "config/essentials-server.toml"
 hash = "b4ed06783003490d0476f5a80db37f204ecc61e55da3bc0bb02e2e01a3cde0cd"
-
-[[files]]
-file = "config/etf_warnings.json"
-hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/everycomp-common.toml"
@@ -351,10 +327,6 @@ hash = "4d26b4c93838e3e912a8e09f9be0395cd0b7a264f250ea8aa72d68507ce12250"
 [[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "b6c85cb392f799ed932ffe8d6051f48a283a0df3f8674acf4f8d89341836e686"
-
-[[files]]
-file = "config/field.json"
-hash = "e2fd6c232ba9351aea69c984a6990d9c6881cae43b9d4aa9b205ea8f8f4ac144"
 
 [[files]]
 file = "config/fml.toml"
@@ -474,40 +446,12 @@ file = "config/jade/sort-order.json"
 hash = "05311413ae370d9fe6b2b4c9cfe11c4934a1cad2a7e30842d72849b0ea81e7db"
 
 [[files]]
-file = "config/jei/blacklist.json"
-hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
-
-[[files]]
-file = "config/jei/client/default/jei-client.ini"
-hash = "08c99b0664902e0d5e003c1596f756a67da47feb0d0c1dd0d42e2f457061aaf3"
-
-[[files]]
-file = "config/jei/client/default/jei-colors.ini"
-hash = "1372b094bf8f1d444f04cf4da7f9dc05c445d7ab5b3f73ecd7cfbef79ccad1d7"
-
-[[files]]
-file = "config/jei/client/default/jei-mod-id-format.ini"
-hash = "e64349cae34367965848d7fb390dcd6a52d23c012c4711005a70084d958cee67"
-
-[[files]]
-file = "config/jei/client/recipe-category-sort-order.ini"
-hash = "92f1d8eec28f8197fbdca2566b02ba7fd8dba6e777ccc5bc0a608d1b433a703d"
-
-[[files]]
-file = "config/jei/server/world/default/jei-server.ini"
-hash = "729cd9f0817c7870e5c22d77b4db4b5f98d78c86c6f3214dcb777f5e720ee703"
-
-[[files]]
 file = "config/lambdynlights.toml"
 hash = "f5594f107cc37a50cd83d7371d3fb417366e50a2827e20ab0635a4676c924c18"
 
 [[files]]
 file = "config/leavesbegone-server.toml"
 hash = "e41e4f60aa1919d031ef42aa5af412ad8198390c3833cab3f617f6392aaf9cfc"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
 file = "config/lithostitched.json"
@@ -576,18 +520,6 @@ hash = "0f6d56b78517db000f8326f434f10c3c6ebcb5504fe632123e8e740df397805b"
 [[files]]
 file = "config/neoforge-server.toml"
 hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
-
-[[files]]
-file = "config/newvisualkeybing/keybind_viewer.json"
-hash = "617670147c535181f44deb0fe8ac5f5c8aae3875a04563ebe8ab9cde4a3171ae"
-
-[[files]]
-file = "config/newvisualkeybing/ui_textures/README.md"
-hash = "38b1d8712ec169eb2d564df3013d390a07bc428008cf09756c48800f4b45201c"
-
-[[files]]
-file = "config/newvisualkeybing/ui_textures/pack.json"
-hash = "96890913620621d26f7036b15e94a2bf7d62713b186a92adf216029fef51a277"
 
 [[files]]
 file = "config/notenoughanimations.json"
