@@ -1164,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "da13f3c6f0ae14645c29ee2049304917b77a3f74a26374511ccf3dacfcead254"
+hash = "1d219a061f5f85f6a33f009f8095cc4ac2db7cf92cd3be7e1b8bd75e613d82f9"
 metafile = true
 
 [[files]]
@@ -1749,7 +1749,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "167761db9252fcbf08c0889a574cd25bb35e6080742c623c9472d973f679f8fa"
+hash = "92363483e4e1c76454eca8a7d6ac84103295676211e0d1100a949551e72d1003"
 metafile = true
 
 [[files]]
