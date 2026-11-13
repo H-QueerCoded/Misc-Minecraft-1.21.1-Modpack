@@ -1243,6 +1243,11 @@ hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
+file = "mods/gems-realm.pw.toml"
+hash = "e15a2b04d7476dbe45c04929b20a416b5ca2f302161c8c0a2634d092cc3556bf"
+metafile = true
+
+[[files]]
 file = "mods/gigeresque.pw.toml"
 hash = "29b7e184783ef77517e99d665be2d14332491bea31dfca96c6dbc1f761598e27"
 metafile = true
