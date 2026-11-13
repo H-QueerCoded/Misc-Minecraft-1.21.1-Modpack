@@ -1490,6 +1490,11 @@ hash = "dd5f609b21c44691e9dcd1a072223e2cd0990b9f07ec80b37516640bfe6426c5"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "79c3af7dc622ba501f8bd3a1a5ea7d582c62f85edc16c6365cf09ea70e244a28"
+metafile = true
+
+[[files]]
 file = "mods/ocean-lily-pad-village.pw.toml"
 hash = "fe8130b8575cdae42125711e231b551e96475795655817b5dc5ef3d4a5bff2de"
 metafile = true
