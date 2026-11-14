@@ -900,11 +900,6 @@ hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
-metafile = true
-
-[[files]]
 file = "mods/biome-music.pw.toml"
 hash = "573acf7bca6da7a522178c3f3e8a1739a4cf74015c05552cb878b06281c34455"
 metafile = true
@@ -932,11 +927,6 @@ metafile = true
 [[files]]
 file = "mods/chisel-chipped-integration.pw.toml"
 hash = "befe0dcd8d227d3a18f07a89c66f9af0e8e9e74af8566966d2f642689f332b16"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
