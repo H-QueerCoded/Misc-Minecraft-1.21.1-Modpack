@@ -1060,6 +1060,11 @@ hash = "88b9e727611f06350c407aeb4ccb41207b5058fef127abe0ff24c13505618aaf"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-library-standalone.pw.toml"
+hash = "dba50a64df0a868a2795df0a0617daf0b2c5fe1204e681cee8d85ff9d8052dd2"
+metafile = true
+
+[[files]]
 file = "mods/enderdrives.pw.toml"
 hash = "b87fc85aeba034f880cd7f175a1e31b06b7e740e1f981fd1c89068298191fb61"
 metafile = true
