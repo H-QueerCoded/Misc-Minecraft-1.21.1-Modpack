@@ -470,10 +470,6 @@ file = "config/merequester-common.toml"
 hash = "d9abd2849c3a0e83d79adb19ee34ad716e5408e7394c93c576aaab4397152465"
 
 [[files]]
-file = "config/modernminecarts-common.toml"
-hash = "fc00eec0fb0394719ccd230bc94ecda4898dd395c5efeb2d99a8a210e54658a2"
-
-[[files]]
 file = "config/modularbees-common.toml"
 hash = "e727fda5090617e459dd0275fbc56492f67f224d60df9dad4cff0e4a81d5cd3b"
 
@@ -1397,11 +1393,6 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
-metafile = true
-
-[[files]]
-file = "mods/modern-minecarts.pw.toml"
-hash = "9199a9627b7079a69a36bb997e2a08bbec0965b4cd516c6df15862d995cc7a91"
 metafile = true
 
 [[files]]
