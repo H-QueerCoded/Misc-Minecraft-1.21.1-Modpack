@@ -1860,11 +1860,6 @@ hash = "57c841209a56e53a55c320437d930dfaf6a366f39675c0856a8f50c5db1324ec"
 metafile = true
 
 [[files]]
-file = "mods/wandrous.pw.toml"
-hash = "af4ede7c2152c0adf6983ef3d465ffa1f95e1a94f5dc969ab99c7c9bccf9ac78"
-metafile = true
-
-[[files]]
 file = "mods/windswept-delights.pw.toml"
 hash = "145a4af54f438c9b7b79fbee35969e2440e33cb497fdbc83b510ebd31b131edc"
 metafile = true
