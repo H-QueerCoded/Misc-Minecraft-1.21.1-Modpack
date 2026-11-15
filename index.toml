@@ -66,7 +66,7 @@ hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "e401b2a06aa797a7f36df2402595b3f1f63a2ccc609ffbaa18622e604176bc93"
+hash = "c2e0f309e660d5691db3d6bb82313a45306b147a9df0e03aa88c1f2b49d0691b"
 
 [[files]]
 file = "config/alternatingflux-server.toml"

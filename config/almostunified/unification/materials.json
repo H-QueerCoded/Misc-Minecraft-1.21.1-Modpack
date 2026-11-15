@@ -6,7 +6,6 @@
     "crossroads"
   ],
   "priority_overrides": {
-      "c:ingots/uranium" : "oritech"
   },
   "stone_variants": [
     "stone",
