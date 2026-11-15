@@ -1365,6 +1365,11 @@ hash = "9ea5eb69af8278115237331a30c9692f338c614d4f09479581fc4eaf28312150"
 metafile = true
 
 [[files]]
+file = "mods/lingua-mundi.pw.toml"
+hash = "1ae6a1156fddc3be0e9f38531b19b7b802416f005fef04046876f86558eb2879"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
