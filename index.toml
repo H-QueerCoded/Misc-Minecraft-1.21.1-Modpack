@@ -955,6 +955,11 @@ hash = "a9fd327bb8855bdf68fbe88e17936ba866ea608bf2def5154fc52e0c1fe9514b"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "c7d7ee14a057fc2c5b1e36af8da13f4e702f15109d5bc247daa4246ca8302dc3"
 metafile = true
@@ -1310,6 +1315,11 @@ hash = "5f48508a9cac7b291600d3b91149911278ccea79b65f7a45aa92e5b06882f8ad"
 metafile = true
 
 [[files]]
+file = "mods/keybindspurger.pw.toml"
+hash = "deb411274d906a168676c9d5e382171a7d285ebd65471fd4bf7a768171f6a2e0"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
 metafile = true
@@ -1662,6 +1672,11 @@ metafile = true
 [[files]]
 file = "mods/seamless.pw.toml"
 hash = "9d6127eef738ef427935b2011e08618184ec6d197d25e3a999ac772c0a0733b4"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
