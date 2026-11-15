@@ -2,7 +2,7 @@
   "enableBeekeeperVillagerProfession": true,
   "generateBeekeeperAreaStructureInVillages": true,
   "beekeeperAreaStructureWeight": 2,
-  "enableBarnacle": true,
+  "enableBarnacle": false,
   "enableBarnacleSpawn": true,
   "barnacleSpawnWeight": 4,
   "barnacleSpawnMinGroupSize": 1,
