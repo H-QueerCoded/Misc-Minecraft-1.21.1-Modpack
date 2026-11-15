@@ -8,7 +8,8 @@
     "mod/seamless:resourcepacks/default_seamless",
     "file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
     "file/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip",
-    "file/NoWoodenIEPlusSound.zip"
+    "file/NoWoodenIEPlusSound.zip",
+    "file/Mutant_Creeper_Overhaul.zip"
   ],
   "default_overrides": {
     "force_compatible": true
@@ -27,7 +28,10 @@
       "Trains_of_Ruun_V0.9.1.zip",
       "Welsh_Highland_Narrow_Gauge_1.6.2_1.14.4.zip",
       "Welsh_Highland_Narrow_Gauge_Liveries 1.0 1.14.4.zip",
-      "[IR]DE_Ket_TrainPack_V081.zip"
+      "[IR]DE_Ket_TrainPack_V081.zip",
+      "fabric",
+      "mod/cathedral:resourcepacks/fusion_connected_textures",
+      "applewoodrebarked:resourcepacks/vinery_overrides"
     ],
     "mod_resources": {
       "hidden": true

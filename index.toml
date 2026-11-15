@@ -583,7 +583,7 @@ hash = "38ad6465608dd577493c081be47417a9d491be67cfd1e8cfeaa0ac4694d533bd"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "b53904b76cfb186005f302bfcc311919655258618d02d1d8232ec8f2556ebae5"
+hash = "260b688e674014f84b9d919085798952bfa60dde4908511a96d0c235f40f9fd5"
 
 [[files]]
 file = "config/sawmill-common.toml"
