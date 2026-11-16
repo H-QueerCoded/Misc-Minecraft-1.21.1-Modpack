@@ -1,0 +1,13 @@
+name = "Bare Bones - Boss Bars"
+filename = "Bare Bones Boss Bars (v 1.0.1).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tm3mWS34/versions/QfmndJ4F/Bare%20Bones%20Boss%20Bars%20%28v%201.0.1%29.zip"
+hash-format = "sha512"
+hash = "068218c68354db36b714f71a6bb2ef72cdca507f52da266e00e3d03c5868d364c65c91b25c90865f68b5fba94aecaea3bf3cbc58df8c4c2780b6c3e14e1d02bb"
+
+[update]
+[update.modrinth]
+mod-id = "tm3mWS34"
+version = "QfmndJ4F"
