@@ -1325,11 +1325,6 @@ hash = "583a335211bc3a21bb379394344b67d64bffea421e7f7942c254903e1d607814"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-emi-compat.pw.toml"
-hash = "a3290784b22069ccc1936eb2b0408ae6ecea4b5e58bc972cff35cd078df46aec"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "9ea5eb69af8278115237331a30c9692f338c614d4f09479581fc4eaf28312150"
 metafile = true
