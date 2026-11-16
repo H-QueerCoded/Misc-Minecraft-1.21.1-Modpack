@@ -466,6 +466,10 @@ file = "config/littlelogistics-server.toml"
 hash = "e82ad307865300f603cf8c7bcb04cf251ad3cb00bb148a9b18412fd4a365238c"
 
 [[files]]
+file = "config/map_atlases-common.toml"
+hash = "41ef27a0466bdd2adef4d09e3e6c0f9986285e441b46239784a962d3ab7cb319"
+
+[[files]]
 file = "config/merequester-common.toml"
 hash = "d9abd2849c3a0e83d79adb19ee34ad716e5408e7394c93c576aaab4397152465"
 
