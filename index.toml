@@ -1295,11 +1295,6 @@ hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
-metafile = true
-
-[[files]]
 file = "mods/labels.pw.toml"
 hash = "457684159486fddf4466a106290ebe2c4a3d32023535312a25f09bfa7f9a8994"
 metafile = true
