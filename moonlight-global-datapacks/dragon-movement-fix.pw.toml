@@ -1,0 +1,13 @@
+name = "Dragon Movement Fix"
+filename = "DMF.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6E5wF2bY/versions/Uy7JraQo/DMF.zip"
+hash-format = "sha512"
+hash = "a15c7734d7323245927054c5b78a28ae21b9a2002cee45a3fae88acd36d49cc4adc2f553036278a8750abed65e3b29d299109a3e4adb5467212e8c7e194540e2"
+
+[update]
+[update.modrinth]
+mod-id = "6E5wF2bY"
+version = "Uy7JraQo"

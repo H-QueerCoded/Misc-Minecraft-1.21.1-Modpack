@@ -1639,6 +1639,11 @@ hash = "3e88d197a1ef48696cee4a7691155b50c27b8dd3bf14a1872780918e2362a4be"
 metafile = true
 
 [[files]]
+file = "mods/savage-ender-dragon.pw.toml"
+hash = "8976e8d4e21594aee48e6a0205f7938ae05767704ecf98dd5fb884abd46a371f"
+metafile = true
+
+[[files]]
 file = "mods/scorching-nether.pw.toml"
 hash = "149c9b82e4d41c4ae40487286bff7999a8d2b5c2938bfc8b4647319b157b4267"
 metafile = true
@@ -1901,6 +1906,11 @@ metafile = true
 [[files]]
 file = "mods/zfastnoise.pw.toml"
 hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
+metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/dragon-movement-fix.pw.toml"
+hash = "8bb8dfcca17941a6da7b297ac175649a653eee9b5d822e1f12c1c266454234f5"
 metafile = true
 
 [[files]]
@@ -2439,11 +2449,6 @@ hash = "55695e5775f47de10ceb2e3e0742edd27f55fc51de4cac8c33e7aa50fd60f58c"
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/pack.mcmeta"
 hash = "7d0c96703b1fc235bd13a392fa66a9de42fb45027268a97936a0d59de8124694"
-
-[[files]]
-file = "moonlight-global-datapacks/true-ending.pw.toml"
-hash = "ff8453036a1904e86728f938e59c6806c43d988239f8daf2fb6d2928df6a843b"
-metafile = true
 
 [[files]]
 file = "resourcepacks/HEVI Copper Golem Remover.zip"
