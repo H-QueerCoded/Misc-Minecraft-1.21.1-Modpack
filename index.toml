@@ -1145,11 +1145,6 @@ hash = "9a4208ccd7c3b192fcf70dc10d61ed4854f7dd169ab093fc18d9b51af0b91aeb"
 metafile = true
 
 [[files]]
-file = "mods/framedblockslite.pw.toml"
-hash = "831c721e33a1fa2b3c3429a9219c19568d57e1d497327305802226f79f43a59d"
-metafile = true
-
-[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "dd747d8f87a5cbff501a4c59f5ac06faec2cc03c416cbff5dc3b920157552dc0"
 metafile = true
