@@ -1,0 +1,13 @@
+name = "Tag Localization Fixes"
+filename = "taglocalizations-1.2.0-universal-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dJZCkoBx/versions/WM4f5A3q/taglocalizations-1.2.0-universal-1.21.1.jar"
+hash-format = "sha512"
+hash = "f9fc7575a4d7be78a33afc8e75de745893ab719af925d7d67344fd49491c4ea7667129c1643467e328abe250e28e6f1aca1c792c7a4bbb09d97a9c1dcf08a554"
+
+[update]
+[update.modrinth]
+mod-id = "dJZCkoBx"
+version = "WM4f5A3q"

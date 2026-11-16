@@ -1714,6 +1714,11 @@ hash = "76138bba78a2e3753a7088b2fd0b9b11606307f941fc6b4e8f8bbd1516256ca6"
 metafile = true
 
 [[files]]
+file = "mods/tag-localizations.pw.toml"
+hash = "45c8a115d9458f8b7564f9f24aaf9d9e49b94e25366591b72de583da917b6aea"
+metafile = true
+
+[[files]]
 file = "mods/thaumon.pw.toml"
 hash = "1f6514189ad1e70bd5ea8702d78d27f54e1d682d5644b0b9187e9830f7a8ac7b"
 metafile = true
