@@ -1614,6 +1614,11 @@ hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
 metafile = true
 
 [[files]]
+file = "mods/resource-trimmer.pw.toml"
+hash = "32d6432934e1db8ba0f8d3212b42fe8cf11651c0cc9872ca2e8f8ac96d6559c0"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
