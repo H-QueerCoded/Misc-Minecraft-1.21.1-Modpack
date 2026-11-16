@@ -1369,6 +1369,11 @@ hash = "8d38a1e7ef9fdd40670916a816191f4350ed53963b9e41b677bb914268a3f814"
 metafile = true
 
 [[files]]
+file = "mods/mini-boss-boss-bars.pw.toml"
+hash = "a28f2c74954df344af085c32fe9a71c7fe07c836b733b6c006a8c9883749391c"
+metafile = true
+
+[[files]]
 file = "mods/mmlib.pw.toml"
 hash = "65db1262f3d0823a0795b8b38328c0eceeb4632892f7c168e3c8e6abf4638735"
 metafile = true
