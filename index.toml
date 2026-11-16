@@ -257,6 +257,10 @@ file = "config/cutthrough-client.toml"
 hash = "16bc1f998738810cae793b1dc272122dde8b246bffa408f227357803e16ba692"
 
 [[files]]
+file = "config/dragonfight.json"
+hash = "b43505f2bd11c17f5a23eebd8947a5e0ee73630162c1aeca732b51040b5fe4e6"
+
+[[files]]
 file = "config/easyanvils-common.toml"
 hash = "643de42a3b9cd02a9c0d82d2b2119daa3373d51b7394baeba6b98332de6ecb8d"
 
