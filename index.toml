@@ -1374,6 +1374,11 @@ hash = "65db1262f3d0823a0795b8b38328c0eceeb4632892f7c168e3c8e6abf4638735"
 metafile = true
 
 [[files]]
+file = "mods/mob-tag-fixes.pw.toml"
+hash = "e3e20c54470c8554d37cc794df12ecf4fd4090d4f843785a408f3912d0840847"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
