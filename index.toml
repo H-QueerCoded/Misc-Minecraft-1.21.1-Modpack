@@ -1838,6 +1838,11 @@ hash = "b288f8bf3f0db0254efb9f2ec8f5a56d090954eceddfec388588919218adf9a4"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-delights.pw.toml"
+hash = "d463850c893eab9fc815eef6b6e60fc239a88d8887ec3ca9a7e43a2fadddfd8a"
+metafile = true
+
+[[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "d00c1b5dc4ccb271b2e75289b8f49be74a0d19c2fad8cb8240c2699ae4f71831"
 metafile = true
