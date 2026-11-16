@@ -963,6 +963,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "7c5d1fb47ffd309dc332ad2011e2e392b54d74dc49607872af01222a1df24186"
+metafile = true
+
+[[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "c7d7ee14a057fc2c5b1e36af8da13f4e702f15109d5bc247daa4246ca8302dc3"
 metafile = true
@@ -1735,11 +1740,6 @@ metafile = true
 [[files]]
 file = "mods/the-afterdark.pw.toml"
 hash = "79c500952f474fcba455c37f9ec62f4ed2f8222de607c8269c0fef50f4b54ad6"
-metafile = true
-
-[[files]]
-file = "mods/the-sound-of-rain.pw.toml"
-hash = "f1a9a23af739b025dd9499ba41d3b9484c8b2031a6e1118fc6eb493845548532"
 metafile = true
 
 [[files]]
