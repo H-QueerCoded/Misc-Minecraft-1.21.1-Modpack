@@ -366,7 +366,7 @@ hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
 
 [[files]]
 file = "config/immersiveengineering-server.toml"
-hash = "f603300bac7ce94a118afbcb5da2e35f65789cc607b8e0c72aaae5ecb856b6d8"
+hash = "f7cfb9224bb6ac49989017855f402d4045fcdf349f90c5598ed060d55a424946"
 
 [[files]]
 file = "config/immersiveengineering-startup.toml"
