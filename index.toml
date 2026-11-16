@@ -1085,11 +1085,6 @@ hash = "15315946f77f959d5e0162eb850d6109e3e0c7fee7f4d0b93c198ea22e6596a1"
 metafile = true
 
 [[files]]
-file = "mods/engineers-delight.pw.toml"
-hash = "73b721552a6a02f26a0bf93e0ce5a5d4ca1e355eb0822159e759361220a0101c"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "c875585a3269432ba23b379665cb287bd88517c7dbc1a22d0b5df9294f0a2ba4"
 metafile = true

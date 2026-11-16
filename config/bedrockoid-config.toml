@@ -3,11 +3,11 @@
 
 	[flags.bedrockoid]
 		entitySharesFire = true
-		fallenTrees = true
+		fallenTrees = false
 		armorStandArms = true
 		frostwalkerBoost = true
 		canPlantsBeBonemeal = true
-		reachAroundPlacement = true
+		reachAroundPlacement = false
 		snowSpawnsUnderTrees = true
 		cauldronNaturalFilling = true
 		wetSpongesDryOut = true
