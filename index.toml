@@ -919,6 +919,11 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
+file = "mods/buttonfix.pw.toml"
+hash = "7b0e48024eb04666d074f993dd97893fa3f5eb244e63e516ebf5ad2047454b8a"
+metafile = true
+
+[[files]]
 file = "mods/chickensshed.pw.toml"
 hash = "8f88eb95fa761145f8116cda7529086b8c0593aeb419432dd2ad0f9a5b6c21b5"
 metafile = true
