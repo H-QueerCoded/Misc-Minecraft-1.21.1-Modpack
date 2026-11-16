@@ -1135,11 +1135,6 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "981e52e1c4a97465921342f556cced335c6c75cdb050e9fc528d52cf4ff88b79"
-metafile = true
-
-[[files]]
 file = "mods/frame-changer.pw.toml"
 hash = "9a4208ccd7c3b192fcf70dc10d61ed4854f7dd169ab093fc18d9b51af0b91aeb"
 metafile = true
@@ -1372,11 +1367,6 @@ metafile = true
 [[files]]
 file = "mods/merequester.pw.toml"
 hash = "8d38a1e7ef9fdd40670916a816191f4350ed53963b9e41b677bb914268a3f814"
-metafile = true
-
-[[files]]
-file = "mods/mining-speed-tooltips.pw.toml"
-hash = "62c114c1153099ee8d04653c5beed7444abc01ae9c4e40c3472fabe58928cc9b"
 metafile = true
 
 [[files]]
@@ -1782,11 +1772,6 @@ metafile = true
 [[files]]
 file = "mods/traveler-tool-belt.pw.toml"
 hash = "0021a91da4e647dbad281ac71b9da02ce25e69b97a9aa66b5e117d4425c6425e"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
