@@ -888,6 +888,11 @@ hash = "fc8954e0d3fa66b917d2c84ee04d07b073a9eb6f719d09e1ff85527c1d61a10e"
 metafile = true
 
 [[files]]
+file = "mods/bathymetry.pw.toml"
+hash = "bae8c7a2dd7cce43aaac1f5ae3a57bc93d1a323752be5d5e92bceb3a133cd23e"
+metafile = true
+
+[[files]]
 file = "mods/battlemusic.pw.toml"
 hash = "673e9e605c61ca11045578bc749b9c81f06117db0951b21ca4feb4dc3b88e911"
 metafile = true
@@ -1438,6 +1443,11 @@ hash = "b8a046a7b5873a1f26101e0195e3f3c0dc8561b9c80ce52c9194e65b91eedb9f"
 metafile = true
 
 [[files]]
+file = "mods/mossylib.pw.toml"
+hash = "ef8e9f48c234fbdadc2bb011ea670248688dda9730f30f13ff5a52fb8a04fb76"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
@@ -1455,6 +1465,11 @@ metafile = true
 [[files]]
 file = "mods/mycomancy.pw.toml"
 hash = "6f92567046acca0eff92d6b97c25bc14f3e36c062ba471816efbfffcd3fd1bb0"
+metafile = true
+
+[[files]]
+file = "mods/natural-waters.pw.toml"
+hash = "1157507323276831aedd133e382bd5c1498568afb4b5dbf0956b438d678787e5"
 metafile = true
 
 [[files]]
