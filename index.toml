@@ -106,7 +106,7 @@ hash = "9f136b36f13fb0f7d0de277ecf6d933914c7dcc3f646136cd09a68e904659109"
 
 [[files]]
 file = "config/bedrockoid-config.toml"
-hash = "e84e34c5b6be1c573203620cddc77a3fa4bfd4dd98e39a14ca16c241f9fda4ab"
+hash = "6cf4617296b254a76e84d533ff4f922f8ee48669f351fafcff5eab8821622c2d"
 
 [[files]]
 file = "config/betterdeserttemples-neoforge-1_21.toml"
