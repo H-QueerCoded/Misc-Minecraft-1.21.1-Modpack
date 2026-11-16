@@ -1285,11 +1285,6 @@ hash = "805a9466a6f78d4d0497c7e8e9acfd3cbce3f5f55d0942dc58e13cd5de6cf76f"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-filters.pw.toml"
-hash = "955c6461c3f51cbbf72197130479b7c922bcc498a15c3caf678a10ceb75ee9ca"
-metafile = true
-
-[[files]]
 file = "mods/keybind-atlas.pw.toml"
 hash = "5f48508a9cac7b291600d3b91149911278ccea79b65f7a45aa92e5b06882f8ad"
 metafile = true
