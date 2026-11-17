@@ -490,6 +490,10 @@ file = "config/modularbees-common.toml"
 hash = "e727fda5090617e459dd0275fbc56492f67f224d60df9dad4cff0e4a81d5cd3b"
 
 [[files]]
+file = "config/modulation.json"
+hash = "b8584815104b8f985e58fbe343e6053f2cfdafb2240298db2d60075567902912"
+
+[[files]]
 file = "config/moonlight-common.toml"
 hash = "ce17e22174f8d796e792c87dbe7c2cff8360686edfb59080adf905e26df144ea"
 
