@@ -932,11 +932,6 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
-file = "mods/buttonfix.pw.toml"
-hash = "7b0e48024eb04666d074f993dd97893fa3f5eb244e63e516ebf5ad2047454b8a"
-metafile = true
-
-[[files]]
 file = "mods/chickensshed.pw.toml"
 hash = "8f88eb95fa761145f8116cda7529086b8c0593aeb419432dd2ad0f9a5b6c21b5"
 metafile = true
@@ -1429,6 +1424,11 @@ metafile = true
 [[files]]
 file = "mods/modular-bees.pw.toml"
 hash = "005b6b7f6a70abc5b3ce6cb0afe46fca187ce2eb36915cbacf18fb93e841bda4"
+metafile = true
+
+[[files]]
+file = "mods/modulation.pw.toml"
+hash = "b7ec553200d1db7f7c5e2d6b9c7639969e0b90308f393db546791a05a32e25c8"
 metafile = true
 
 [[files]]
