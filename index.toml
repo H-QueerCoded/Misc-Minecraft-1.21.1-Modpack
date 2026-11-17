@@ -921,11 +921,6 @@ hash = "573acf7bca6da7a522178c3f3e8a1739a4cf74015c05552cb878b06281c34455"
 metafile = true
 
 [[files]]
-file = "mods/blocks-previewer.pw.toml"
-hash = "e9c3b686c80d2d3833f86eb351295e54dbe4ee7b7806875c173f4f86f481369f"
-metafile = true
-
-[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "932b1f0df544525e277b4f75fc47dc9c01d0481d773f026082f1cae5c4afdb69"
 metafile = true
