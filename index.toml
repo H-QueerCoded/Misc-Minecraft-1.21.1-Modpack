@@ -1087,6 +1087,11 @@ hash = "dba50a64df0a868a2795df0a0617daf0b2c5fe1204e681cee8d85ff9d8052dd2"
 metafile = true
 
 [[files]]
+file = "mods/end-villager-trader.pw.toml"
+hash = "712741c29da5627204d618afc5d53e5d03e5df4330c09052430a01c990cd0580"
+metafile = true
+
+[[files]]
 file = "mods/enderdrives.pw.toml"
 hash = "b87fc85aeba034f880cd7f175a1e31b06b7e740e1f981fd1c89068298191fb61"
 metafile = true
