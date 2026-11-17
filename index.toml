@@ -1990,6 +1990,16 @@ hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
+file = "moonlight-global-datapacks/better-end-cities-vanilla.pw.toml"
+hash = "2ff2d6f3da174f091458237889646eb35821a5d751c5a750eaf9b689671d722f"
+metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "6d200086781bc160a088b6806f058d04971911329555aa4b281f399722172f07"
+metafile = true
+
+[[files]]
 file = "moonlight-global-datapacks/free-the-end.pw.toml"
 hash = "37700ad37b83252ccb8b8518f6a8a893e4e51529c3ad6e6403c6c9c5cb1b2c76"
 metafile = true
