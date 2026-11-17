@@ -595,7 +595,7 @@ hash = "38ad6465608dd577493c081be47417a9d491be67cfd1e8cfeaa0ac4694d533bd"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "309d4eb7f9e7ebf95753412e58d312e3ff1f8a2b2efe2f82da40c6df1534bba0"
+hash = "05d6db7e7377ae5cf303229cb54cc596a050b75e8b41b5d1cd98d55036e14b22"
 
 [[files]]
 file = "config/sawmill-common.toml"
@@ -1329,6 +1329,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "52be2f8af37fa9a10f817b3a676e56c9cdf33a3632048d8e922312878244b794"
 metafile = true
 
 [[files]]
