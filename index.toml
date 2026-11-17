@@ -567,7 +567,7 @@ hash = "8bddb5b165a483b32ae500bf42501474fd0084115664221c5fb578540b1155ae"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "76f12b08b74e350dacde6a5478dce29bab1d34dafd19cc06a6d2d92cfd490cd0"
+hash = "457a23dc3d4de952a66e7be3c3d3c55c6071ea0381a807ae8c08701d1610f17f"
 
 [[files]]
 file = "config/reachbehind-server.toml"
