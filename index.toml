@@ -805,6 +805,11 @@ hash = "d6c2790cc195eb3620ef71248c0f30b747eb654b24e55ada7eb35af531594c5e"
 metafile = true
 
 [[files]]
+file = "mods/ancient-city-maps.pw.toml"
+hash = "4195acd6b49ba08e5a2dccafae7993a35abad4f88db0bcbc85ec2320efa24653"
+metafile = true
+
+[[files]]
 file = "mods/animal-garden-bison.pw.toml"
 hash = "d8da9897157ef8ad8bcf13db652d36a0075cd525246db0476364b1988a396f2e"
 metafile = true

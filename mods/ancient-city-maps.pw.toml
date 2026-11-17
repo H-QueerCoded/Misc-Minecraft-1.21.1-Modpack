@@ -1,0 +1,13 @@
+name = "Ancient City Maps"
+filename = "ancientcitymaps-1.0.1-1.21.1-4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/syS9iXPw/versions/aTzFLvwF/ancientcitymaps-1.0.1-1.21.1-4.jar"
+hash-format = "sha512"
+hash = "2967d52897932cd93972efdf6903791899b95fd4627012fa712e26c585036c2bdcf67d7f96b84bb5a5f61095fcbbfb0c8ac956cf4179f58a9421962d910613c2"
+
+[update]
+[update.modrinth]
+mod-id = "syS9iXPw"
+version = "aTzFLvwF"
