@@ -1177,6 +1177,11 @@ hash = "108739f2fdaa6a885a3217ae692b2521ab10b8e71fa1222c67274ea0562649a5"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f2849c357f9c82d017ff71c6d5e91ac8e51d6b0f2de9e7ae8d95bfb81759cd63"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -1622,6 +1627,11 @@ hash = "1c142a704ecd35eebbe2873e44b9ca962e322f77b53845ff704a4e573472af0d"
 metafile = true
 
 [[files]]
+file = "mods/rearm.pw.toml"
+hash = "0f164f1c656e9f21011b794d2d984f1c4d5cedd70140dfa9f7fe623ad3d104b6"
+metafile = true
+
+[[files]]
 file = "mods/reforged-accurate-block-placement.pw.toml"
 hash = "480e8e885c737f0f0f8be377f02e113c9ed9d34d8aa0eaf527eede799482239c"
 metafile = true
@@ -1952,11 +1962,6 @@ hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
-file = "moonlight-global-datapacks/dragon-movement-fix.pw.toml"
-hash = "8bb8dfcca17941a6da7b297ac175649a653eee9b5d822e1f12c1c266454234f5"
-metafile = true
-
-[[files]]
 file = "moonlight-global-datapacks/free-the-end.pw.toml"
 hash = "37700ad37b83252ccb8b8518f6a8a893e4e51529c3ad6e6403c6c9c5cb1b2c76"
 metafile = true
@@ -1974,11 +1979,6 @@ metafile = true
 [[files]]
 file = "moonlight-global-datapacks/purpurpack-breed-axolotl-with-tropical-fish-item.pw.toml"
 hash = "f1424c9a7a883604cbc3c4d0b092c66d33ff6d38761a4d6c45c9cd0b56b1b083"
-metafile = true
-
-[[files]]
-file = "moonlight-global-datapacks/purpurpacks-infinity-on-crossbows.pw.toml"
-hash = "639d2d0a14c9166d1c36d2d931dc1601b65072a54c297a1dfec7e94e031bde04"
 metafile = true
 
 [[files]]
