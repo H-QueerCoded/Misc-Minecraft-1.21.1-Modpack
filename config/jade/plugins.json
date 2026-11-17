@@ -66,6 +66,9 @@
     "grid_node_state": true,
     "power_storage": true
   },
+  "enchantlib": {
+    "enchantment_power": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -99,6 +102,10 @@
     "gorged_cap": true,
     "thrall_owner": true
   },
+  "extendedae": {
+    "jade_chamber": true,
+    "jade_wireless": true
+  },
   "balm": {
     "jade": true
   },
@@ -125,6 +132,7 @@
     "energy_converter": true,
     "osmosis_filter": true,
     "laser_junction": true,
+    "bacterial_enrichment_catalyst": true,
     "laser_crafting_matrix": true,
     "beam_speed": true,
     "prismarine_crystal": true,
@@ -142,5 +150,9 @@
   },
   "quark": {
     "oretoise_eating_cooldown": true
+  },
+  "item_descriptions": {
+    "block_descriptions": false,
+    "entity_descriptions": false
   }
 }

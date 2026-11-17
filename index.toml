@@ -105,6 +105,10 @@ file = "config/azurelib.json"
 hash = "9f136b36f13fb0f7d0de277ecf6d933914c7dcc3f646136cd09a68e904659109"
 
 [[files]]
+file = "config/bathymetry.json5"
+hash = "dbc79d95f1237de95b0eb1c0d32c993bd6d766d20e967a0992d1f3c7de6427ea"
+
+[[files]]
 file = "config/bedrockoid-config.toml"
 hash = "6cf4617296b254a76e84d533ff4f922f8ee48669f351fafcff5eab8821622c2d"
 
@@ -431,7 +435,7 @@ hash = "9f501d9f611c172640b53b0c4cce52271b2ee501eaab021e0026f5fa859798a4"
 
 [[files]]
 file = "config/item_descriptions.toml"
-hash = "8cb4f0a1845d231024672f9dd5c7de7aec85d711c042f2fedf5df15f14ce9427"
+hash = "b951f6e04f2b4960fec60e486cd40bfb0b3d4096082b6981d880b601952d9591"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -447,7 +451,7 @@ hash = "f70bfe5665de7c58d1f55ff824d4ffdb429b33c32c345361e2c68ec2fff2211b"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "b1e48d6d37060d79deb980959966a235853ec4727aaf7ab2a1081982b9422eef"
+hash = "7d4085dcd65f337f1e23dd6d6c9352e10f0a71d548941659534ca43cdf00e5d1"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -574,6 +578,10 @@ file = "config/reachbehind-server.toml"
 hash = "6eb82ddff4f940703b4c9a6d65ab226ccfefb92f108cd4d1c4b06faf10b0681c"
 
 [[files]]
+file = "config/rearm/config.toml"
+hash = "2907dbb6e9d7d9c094427e47f9ff3d731b2313d59a68fd5bf4415c6b69964bdb"
+
+[[files]]
 file = "config/reliable_advancements.json"
 hash = "8246147b9a38490fb34f4dc1e6ebe82b07d5bb49707294afcbe79e389a70eabd"
 
@@ -595,7 +603,7 @@ hash = "38ad6465608dd577493c081be47417a9d491be67cfd1e8cfeaa0ac4694d533bd"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "05d6db7e7377ae5cf303229cb54cc596a050b75e8b41b5d1cd98d55036e14b22"
+hash = "e4ca43fca9f33c458b1495b7c85022d308a46d9ee1bfd6436ee4ed7341be592a"
 
 [[files]]
 file = "config/sawmill-common.toml"
@@ -1293,7 +1301,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "b902e2a8d9a070dec6136632ea901f2bcb7185c41554d08128f377a1825ed495"
+hash = "e5347f876614ddeaff10c2e7417f946ac5ef56c56acf7838d166d1cd5a8d9d1c"
 metafile = true
 
 [[files]]

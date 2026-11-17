@@ -10,9 +10,7 @@
     "file/NoWoodenIEPlusSound.zip",
     "file/Mutant_Creeper_Overhaul.zip",
     "highlight:highlight_extended",
-    "file/Bare Bones Boss Bars (v 1.0.1).zip",
-    "file/AL's Mob Weapons 1.3.zip",
-    "file/mod-descriptions-v12.0.zip"
+    "file/Bare Bones Boss Bars (v 1.0.1).zip"
   ],
   "default_overrides": {
     "force_compatible": true
@@ -36,6 +34,10 @@
       "mod/cathedral:resourcepacks/fusion_connected_textures",
       "applewoodrebarked:resourcepacks/vinery_overrides"
     ],
+    "file/mod-descriptions-v12.0.zip": {
+      "required": true,
+      "hidden": true
+    },
     "mod_resources": {
       "hidden": true
     },
