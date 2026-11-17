@@ -170,7 +170,7 @@
 		"Item Render Scale" = 1.5
 
 	[building.gold_bars]
-		"Generate In Nether Fortress" = true
+		"Generate In Nether Fortress" = false
 
 	[building.hollow_logs]
 		"Enable Auto Crawl" = true
@@ -1891,7 +1891,6 @@
 	"Matrix Enchanting" = true
 	Pipes = false
 	"Tiny Potato" = true
-	"Totem Of Holding" = false
 
 	[oddities.backpack]
 		#Set this to true to allow the backpacks to be unequipped even with items in them
