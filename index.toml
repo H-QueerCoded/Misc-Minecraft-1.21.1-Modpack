@@ -430,6 +430,10 @@ file = "config/immersiverailroading_sound.cfg"
 hash = "9f501d9f611c172640b53b0c4cce52271b2ee501eaab021e0026f5fa859798a4"
 
 [[files]]
+file = "config/item_descriptions.toml"
+hash = "8cb4f0a1845d231024672f9dd5c7de7aec85d711c042f2fedf5df15f14ce9427"
+
+[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
@@ -1275,6 +1279,11 @@ metafile = true
 [[files]]
 file = "mods/industrially-plated.pw.toml"
 hash = "8f1622d82d6e14bf9086b39e68d4f6a6c1ec7e38ac8a1783e0a81bbb7c91de29"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "b902e2a8d9a070dec6136632ea901f2bcb7185c41554d08128f377a1825ed495"
 metafile = true
 
 [[files]]
@@ -2510,6 +2519,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/human-era-villagers-illagers.pw.toml"
 hash = "83d0136fa52a71e8b1036b5a76236bf28188101f11188fba155e2862de57b1db"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mod-descriptions.pw.toml"
+hash = "b53395f427a4b5f5719041db2d35cbd2052930e67801228b0c95ff69f70136f3"
 metafile = true
 
 [[files]]
