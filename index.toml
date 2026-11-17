@@ -2006,6 +2006,11 @@ hash = "5279e7f3bf3a3d027fffbdad8cc9a32248663ef1e2af1857412546a823545dfc"
 metafile = true
 
 [[files]]
+file = "moonlight-global-datapacks/global-trades.pw.toml"
+hash = "0b5d054bb1abc321a714f64285b1b0f55dcf6c5e6679c10641263f54a1461c6f"
+metafile = true
+
+[[files]]
 file = "moonlight-global-datapacks/how-to-make-a-new-dye.pw.toml"
 hash = "59fac373fca61b2f9b15fa3bdb8f1f35d2cb619028af488bf18dbf9e3afd745a"
 metafile = true
