@@ -1941,11 +1941,6 @@ hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "c2dc09f214e7c1cecca6cf434776c2616f6d36bd27c06a6b39f985da0453a4f5"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
 metafile = true
@@ -1978,6 +1973,11 @@ metafile = true
 [[files]]
 file = "moonlight-global-datapacks/better-end-cities-vanilla.pw.toml"
 hash = "2ff2d6f3da174f091458237889646eb35821a5d751c5a750eaf9b689671d722f"
+metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "af6f58dbe6ec8b7a19923d4da64619dde118bf591ada23745f76adb9b3b19eb8"
 metafile = true
 
 [[files]]
