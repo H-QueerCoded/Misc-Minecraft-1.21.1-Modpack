@@ -30,7 +30,7 @@ hash = "8e2501f9f160157581a0f35d81cad22f9bb0ecb484bdeba7f6a27b2082ddf009"
 
 [[files]]
 file = "config/advancementdisable.toml"
-hash = "af5aac77234ef8163b5da49faad56b6b2dd14bbb805e6cbd1db051811fa35492"
+hash = "e49cac6e18084e342cffcedab3a56af9d7131bba801e4923493a81c7ec194891"
 
 [[files]]
 file = "config/ae2-common.toml"
@@ -391,10 +391,6 @@ hash = "d6b136dcad61384652d24a8c0cd932976ba6453034e8e646a0da6b406849e3e5"
 [[files]]
 file = "config/immersiverailroading.cfg"
 hash = "e63090f14e0afbce9beb47a2830f12422507161dffdbe9afd4a00d1f0ecfee29"
-
-[[files]]
-file = "config/immersiverailroading/Heavy_Industrial_1.6.3.0.zip"
-hash = "2df1a731aa9b13fda78566f6daf9d451284e472a4ddb92d94a5c4b22edca290d"
 
 [[files]]
 file = "config/immersiverailroading/ir-deket-train-pack.pw.toml"
@@ -917,11 +913,6 @@ metafile = true
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "a4c595c147f06581211b021f46fa1eb6c6388ddca2647c824036eacc8fd6367a"
-metafile = true
-
-[[files]]
-file = "mods/better-tridents.pw.toml"
-hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
 metafile = true
 
 [[files]]
@@ -1957,11 +1948,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "50c1731148d91a4ef05cfc47f759ca8fb3dad254e15ce4ecc5732d6fbfa68637"
 metafile = true
 
 [[files]]
