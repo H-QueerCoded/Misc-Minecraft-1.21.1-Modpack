@@ -1,5 +1,5 @@
 {
-  "enableBeekeeperVillagerProfession": true,
+  "enableBeekeeperVillagerProfession": false,
   "generateBeekeeperAreaStructureInVillages": true,
   "beekeeperAreaStructureWeight": 2,
   "enableBarnacle": false,
