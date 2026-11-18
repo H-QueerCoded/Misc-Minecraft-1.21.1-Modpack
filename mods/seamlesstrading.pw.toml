@@ -1,0 +1,13 @@
+name = "Seamless Trading"
+filename = "seamlesstrading-neoforge-1.21.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eo0oheIy/versions/LWt4256d/seamlesstrading-neoforge-1.21.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "11163620242bd8844f6296b790e63826ac396edb273f7b93ce7ca7986a89e3a157bd388aba2119358de297412e20e009af5b57c6a1a9ba4cd589ad4b6ee8d846"
+
+[update]
+[update.modrinth]
+mod-id = "eo0oheIy"
+version = "LWt4256d"

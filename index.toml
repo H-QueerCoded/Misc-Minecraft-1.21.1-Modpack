@@ -1768,6 +1768,11 @@ hash = "ec21e1fe6e90c54e66a995a9920eb13d9b2b9fb51757fa4807a2b7fe57ca3bb2"
 metafile = true
 
 [[files]]
+file = "mods/seamlesstrading.pw.toml"
+hash = "dec889942bdb87a8ace4019dfde24ad0430c29ab0ffff930e7a3a0f73ab29a59"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
