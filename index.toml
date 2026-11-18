@@ -454,6 +454,10 @@ file = "config/jade/sort-order.json"
 hash = "05311413ae370d9fe6b2b4c9cfe11c4934a1cad2a7e30842d72849b0ea81e7db"
 
 [[files]]
+file = "config/kiwi-client.yaml"
+hash = "ef0405b95c043db1b7adb7c457f12ce4d1a85c4f043cfa1ab1f4cca0bbac11aa"
+
+[[files]]
 file = "config/lambdynlights.toml"
 hash = "f5594f107cc37a50cd83d7371d3fb417366e50a2827e20ab0635a4676c924c18"
 
@@ -1962,11 +1966,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
-metafile = true
-
-[[files]]
-file = "mods/yeetus-experimentus.pw.toml"
-hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
 
 [[files]]
