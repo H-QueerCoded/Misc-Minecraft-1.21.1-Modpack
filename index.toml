@@ -769,7 +769,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "2a46cd68d765cd40d560f9d5934c313cd394a317d6c68eee4476ab10b5a75851"
+hash = "e5a4c0315e40bab4b2ba410dd5d2dd8b7662eaea525c1b2e6bebfa35fe3e71c7"
 metafile = true
 
 [[files]]
@@ -874,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "bd51fee38e89b9f22f556bab69377da7ca7ef90f7417276755be8747fef217f7"
+hash = "b86c701c96d16e44ac012f932ff3e1ff281248a9c4c5a0dc8d9b27804c982d77"
 metafile = true
 
 [[files]]
