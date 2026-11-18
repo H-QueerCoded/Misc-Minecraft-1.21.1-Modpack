@@ -1,0 +1,13 @@
+name = "Improved Enchanting"
+filename = "Improved Enchanting - Definitive Eddition V 1.1 (1.21.0-1).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yXPAlL6L/versions/LGIzpzHP/Improved%20Enchanting%20-%20Definitive%20Eddition%20V%201.1%20%281.21.0-1%29.zip"
+hash-format = "sha512"
+hash = "3925c7c8bdbe35a8a1b22978b6b726dbc4e85c45a430e0647ad72268b9a62a4ec4f088bc72a8a127450573095d596713b3942c130d952d0a2b000f6aa60f74f7"
+
+[update]
+[update.modrinth]
+mod-id = "yXPAlL6L"
+version = "LGIzpzHP"

@@ -277,6 +277,10 @@ file = "config/emi.css"
 hash = "a857b379eeb0c61e4f6205f5ed1e7ccd6eac7f7ea4d6799c4433cd7eea461599"
 
 [[files]]
+file = "config/enchantmentdisabler/config.toml"
+hash = "587be66a5137971d4e0b6f1bf5ae20e79df82afb18559e9f46d2d40b83123bbd"
+
+[[files]]
 file = "config/enchdesc.json"
 hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
 
@@ -1120,6 +1124,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "88b9e727611f06350c407aeb4ccb41207b5058fef127abe0ff24c13505618aaf"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-disabler.pw.toml"
+hash = "d2627635443f2f8609f35cc773a79faf7c237c8717c8059bc60360c904c150ce"
 metafile = true
 
 [[files]]
@@ -2055,6 +2064,11 @@ metafile = true
 [[files]]
 file = "moonlight-global-datapacks/how-to-make-a-new-dye.pw.toml"
 hash = "59fac373fca61b2f9b15fa3bdb8f1f35d2cb619028af488bf18dbf9e3afd745a"
+metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/improved-enchanting.pw.toml"
+hash = "30a411fb153337d10258c8824577e0c416e0a68782168f6ec9b420f4af7b7dd7"
 metafile = true
 
 [[files]]

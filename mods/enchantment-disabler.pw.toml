@@ -1,0 +1,13 @@
+name = "Enchantment Disabler"
+filename = "enchantmentdisabler-neoforge-3.4.10+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kd03i2oU/versions/OeBjec3P/enchantmentdisabler-neoforge-3.4.10%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "c8357ded31b4c0530d0f1175d305da09a84f0e2f31a28a205afac93e16b84a5176d5c674de2fe0c3b72c6cf77af338000a68d12af7aef0fdb005c891739d8e9a"
+
+[update]
+[update.modrinth]
+mod-id = "Kd03i2oU"
+version = "OeBjec3P"
