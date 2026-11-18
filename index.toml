@@ -2575,14 +2575,6 @@ file = "moonlight-global-datapacks/recipe-edits/pack.mcmeta"
 hash = "7d0c96703b1fc235bd13a392fa66a9de42fb45027268a97936a0d59de8124694"
 
 [[files]]
-file = "resourcepacks/HEVI Copper Golem Remover.zip"
-hash = "ceaadfe1d7ecda7e7eeb1334f7de7037f6d89eca317f7cb839ea3c92c1ca163e"
-
-[[files]]
-file = "resourcepacks/HEVI Iron Golem Remover.zip"
-hash = "7adf311d0e05ed40ae2e9db4084384ff96c4131108c8b120e4a9d4775b56fbfd"
-
-[[files]]
 file = "resourcepacks/bare-bones-boss-bars.pw.toml"
 hash = "2b18fc542d23ef604a37a4822ed4a218a6abf800ca0a4485bec49d1900094e47"
 metafile = true
@@ -2595,11 +2587,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fusion-connected-glass.pw.toml"
 hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/human-era-villagers-illagers.pw.toml"
-hash = "83d0136fa52a71e8b1036b5a76236bf28188101f11188fba155e2862de57b1db"
 metafile = true
 
 [[files]]
