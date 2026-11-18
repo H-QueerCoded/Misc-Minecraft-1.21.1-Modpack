@@ -1,0 +1,13 @@
+name = "Been There"
+filename = "beenthere-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K7sZirZq/versions/oppVkg8w/beenthere-1.0.2.jar"
+hash-format = "sha512"
+hash = "a584b1c22b09904a2eb4443b1955464cb40eecfcda23238fd11645d01227f68098e7497927bac0870b2776625c5f04612a01276bd13dfd814536130aaa01343e"
+
+[update]
+[update.modrinth]
+mod-id = "K7sZirZq"
+version = "oppVkg8w"
