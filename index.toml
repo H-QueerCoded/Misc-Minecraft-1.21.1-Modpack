@@ -607,7 +607,7 @@ hash = "38ad6465608dd577493c081be47417a9d491be67cfd1e8cfeaa0ac4694d533bd"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "e4ca43fca9f33c458b1495b7c85022d308a46d9ee1bfd6436ee4ed7341be592a"
+hash = "a0dfe6d35d70e7f3375f167234f1e0cf78df4a46d2daeb794774193ee335dc4a"
 
 [[files]]
 file = "config/sawmill-common.toml"
@@ -2602,6 +2602,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/no-wooden-slots-for-immersive-engineering.pw.toml"
 hash = "3e5dda711668d17b90682ed97de17bb6b5dfd7039b360103199c38a1463ab184"
+metafile = true
+
+[[files]]
+file = "resourcepacks/realistic_villagers.pw.toml"
+hash = "901f058610542712dafc808bc9c9566e516acbef172fd01a5a4e51b2c287f34a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Realistic Villagers"
+filename = "realistic_villagers.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xnj9t90n/versions/BWOojxEH/realistic_villagers.zip"
+hash-format = "sha512"
+hash = "0f7c11f3cb02ecfed123cd5755ed4aef16477ff8ae809000ca6d1fdada9e093144d44c59cb661f0dc4cda6ac22df16d38763470075333afcf03233a576f37b1e"
+
+[update]
+[update.modrinth]
+mod-id = "xnj9t90n"
+version = "BWOojxEH"

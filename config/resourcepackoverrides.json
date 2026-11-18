@@ -1,9 +1,7 @@
 {
   "schema_version": "2",
   "default_packs": [
-    "file/HumanEraVillagersIllagers[3.91.5].zip",
-    "file/HEVI Iron Golem Remover.zip",
-    "file/HEVI Copper Golem Remover.zip",
+    "file/realistic_villagers.zip",
     "file/Updated Mobs 1.21.5 v.2.5.zip",
     "file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
     "file/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip",
@@ -35,8 +33,7 @@
       "applewoodrebarked:resourcepacks/vinery_overrides"
     ],
     "file/mod-descriptions-v12.0.zip": {
-      "required": true,
-      "hidden": true
+      "required": true
     },
     "mod_resources": {
       "hidden": true
