@@ -614,6 +614,10 @@ file = "config/sawmill-common.toml"
 hash = "44f128e2055022e7a49e38c2496161fc34b2f6804738d5cccad2fd40a40c148e"
 
 [[files]]
+file = "config/serilum/collective.json"
+hash = "132c89a87a55670d33e4d60dd5c22a7ab0d15a3470ebc717a2a816d5f25fd0e3"
+
+[[files]]
 file = "config/simple_snowy_fix_common.json"
 hash = "df2f5f82cd136174167bf1febeaddfd2bf86ccf60c61d90afa56f81abe04d2cc"
 
