@@ -1,0 +1,13 @@
+name = "Reimagined Trims"
+filename = "reimagined-trims-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Go9Vr0TE/versions/WLJ98EQI/reimagined-trims-1.1.1.jar"
+hash-format = "sha512"
+hash = "53521e4adbd181b886e24dedda9904bd78961687cc4bc2f894ae1b88e32bbff7884e49c4573a1071dbed6a1de573de9586e98c164d64ab1e8ccc65430e65dbc4"
+
+[update]
+[update.modrinth]
+mod-id = "Go9Vr0TE"
+version = "WLJ98EQI"

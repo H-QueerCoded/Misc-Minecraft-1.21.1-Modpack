@@ -935,6 +935,11 @@ hash = "573acf7bca6da7a522178c3f3e8a1739a4cf74015c05552cb878b06281c34455"
 metafile = true
 
 [[files]]
+file = "mods/blocks-previewer.pw.toml"
+hash = "e9c3b686c80d2d3833f86eb351295e54dbe4ee7b7806875c173f4f86f481369f"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "932b1f0df544525e277b4f75fc47dc9c01d0481d773f026082f1cae5c4afdb69"
 metafile = true
@@ -987,6 +992,11 @@ metafile = true
 [[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "c7d7ee14a057fc2c5b1e36af8da13f4e702f15109d5bc247daa4246ca8302dc3"
+metafile = true
+
+[[files]]
+file = "mods/craft-config.pw.toml"
+hash = "9849c97a0d287156f7ac78ef8b8cfdac1e8eb4638a0b391be205418b49b0aed2"
 metafile = true
 
 [[files]]
@@ -1680,6 +1690,11 @@ hash = "480e8e885c737f0f0f8be377f02e113c9ed9d34d8aa0eaf527eede799482239c"
 metafile = true
 
 [[files]]
+file = "mods/reimagined-trims.pw.toml"
+hash = "f05a09c3f9c0245888c5ebddc87e334943004d78973eb6bbc3146e97a6234f32"
+metafile = true
+
+[[files]]
 file = "mods/reliable-advancements.pw.toml"
 hash = "6ae8b8fc7855d5a2ed97e32eb1e9ee25226f0b63ff02d842a948d0f52ed1e31b"
 metafile = true
@@ -1912,6 +1927,11 @@ metafile = true
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "e5b94ac5c57f1a24993ae92a5b918db31eaf0c25009bd7db516f39b67f44c48a"
+metafile = true
+
+[[files]]
+file = "mods/visiting-villagers.pw.toml"
+hash = "21f86554ab42e20833befcf9c262759b9c0bd18259d2b04d72e38919c15724b4"
 metafile = true
 
 [[files]]
