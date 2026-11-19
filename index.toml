@@ -1332,11 +1332,6 @@ hash = "8e5e9fe677e809b3a75330da078641370c702b8365c0b6e9bbd7f21c1c462f4d"
 metafile = true
 
 [[files]]
-file = "mods/industrially-plated.pw.toml"
-hash = "8f1622d82d6e14bf9086b39e68d4f6a6c1ec7e38ac8a1783e0a81bbb7c91de29"
-metafile = true
-
-[[files]]
 file = "mods/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
