@@ -1503,7 +1503,7 @@ metafile = true
 
 [[files]]
 file = "mods/modulation.pw.toml"
-hash = "b7ec553200d1db7f7c5e2d6b9c7639969e0b90308f393db546791a05a32e25c8"
+hash = "ba6a52a274fb5080ed01502460e61ae4f71e2b8d210f75c25ea23030e2f8e269"
 metafile = true
 
 [[files]]
