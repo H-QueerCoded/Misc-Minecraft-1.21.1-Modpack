@@ -1093,7 +1093,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-mob-spawn-control.pw.toml"
-hash = "33f758a7b7ab5a3fc57a1e04677e3e32a27471d3ebacc8c98a4baf5dd0c6a658"
+hash = "1ff7e0e60b3d89e3d85c78201c495174ce2db14278a6eb5bbd04be9b12691ed8"
 metafile = true
 
 [[files]]
@@ -1293,12 +1293,12 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus-forge.pw.toml"
-hash = "b27e8dd552fd5dc2cc4ace6462029bb9da7e49c01c56962349eae7d8661e0314"
+hash = "c6dcf96eb55425709a1590ae649259ccc05cca10f74c037c4fe9468fa1d9fb65"
 metafile = true
 
 [[files]]
 file = "mods/hephaestus-tools.pw.toml"
-hash = "02b47896268d4529397096e9db97d26481947251d6b9fcfdb4e3a5073a5db9d5"
+hash = "20f4b243b62ff65b616ec4ce35508538a4d21008b4586fba2bb9ad30449bd533"
 metafile = true
 
 [[files]]
