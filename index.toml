@@ -1047,6 +1047,11 @@ hash = "08ffcb4a00bfbdddaf9e0ac174a5f6915103429ee62777fa894c3d55e26abed3"
 metafile = true
 
 [[files]]
+file = "mods/dashpanels.pw.toml"
+hash = "ddf0cd016b63954828035c8d0d104e01a90ea8cec9e7d4c45cfbdf4fcc222b69"
+metafile = true
+
+[[files]]
 file = "mods/data-essence.pw.toml"
 hash = "4f303a872b0d742cb2e5801238938655e5dc65b2597a6293e7251a298b3a4774"
 metafile = true
