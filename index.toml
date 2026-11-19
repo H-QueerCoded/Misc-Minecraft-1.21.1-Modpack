@@ -2710,7 +2710,7 @@ hash = "55695e5775f47de10ceb2e3e0742edd27f55fc51de4cac8c33e7aa50fd60f58c"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/pack.mcmeta"
-hash = "cf5b9b55ede96f272b97b5495ce00adac688a041908da858a4999ed631574f9d"
+hash = "d32b7722bb0cb10462e8ae32ad4833d7b6f427c57a5a5b25a8d3e107bb8b6ff2"
 
 [[files]]
 file = "resourcepacks/bare-bones-boss-bars.pw.toml"
