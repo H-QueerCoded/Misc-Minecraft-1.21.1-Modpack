@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:crimson_slab"
+    },
+    "S": {
+      "item": "immersiveposts:stick_gold"
+    }
+  },
+  "pattern": [
+    "S S",
+    " A ",
+    "S S"
+  ],
+  "result": {
+    "count": 8,
+    "id": "railways:track_crimson_narrow"
+  }
+}

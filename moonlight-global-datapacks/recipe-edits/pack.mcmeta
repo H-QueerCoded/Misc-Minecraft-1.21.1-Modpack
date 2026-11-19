@@ -1,22 +1,42 @@
 {
-	"pack": {
-		"description": "Removes recipes",
-		"pack_format": 48
-	},
-	"filter": {
-		"block": [
-			{
-				"namespace": "crossroads",
-				"path": "recipe/base_materials/bronze_alloy_ingot.json"
-			},
-			{
-				"namespace": "oritech",
-				"path": "recipe/crafting/alloy/(steel|electrum|adamant).json"
-			},
-			{
-				"namespace": "minecraft",
-				"path": "recipe/netherite_ingot.json"
-			}
-		]
-	}
+  "pack": {
+    "description": "Edits for the modpack",
+    "pack_format": 48
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "crossroads",
+        "path": "recipe/base_materials/bronze_alloy_ingot.json"
+      },
+      {
+        "namespace": "oritech",
+        "path": "recipe/crafting/alloy/(steel|electrum|adamant).json"
+      },
+      {
+        "namespace": "oritech",
+        "path": "recipe/foundry/alloy/compat/create/brass.json"
+      },
+      {
+        "namespace": "oritech",
+        "path": "recipe/foundry/alloy/(steel|netherite).json"
+      },
+      {
+        "namespace": "oritech",
+        "path": "recipe/compat/immersiveengineering/(arc)?alloying/electrum.json"
+      },
+      {
+        "namespace": "oritech",
+        "path": "recipe/mixing/compat/create/[a-z]*.json"
+      },
+      {
+        "namespace": "hephaestus",
+        "path": "recipe/smeltery/alloying/steel.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/netherite_ingot.json"
+      }
+    ]
+  }
 }

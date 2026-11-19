@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "create:sleepers"
+    },
+    "S": {
+      "item": "immersiveengineering:stick_steel"
+    }
+  },
+  "pattern": [
+    "S S",
+    " A ",
+    "S S"
+  ],
+  "result": {
+    "count": 8,
+    "id": "railways:track_create_andesite_narrow"
+  }
+}

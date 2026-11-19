@@ -1,0 +1,18 @@
+{
+  "type": "hephaestus:alloying",
+  "inputs": [
+    {
+      "amount": 270,
+      "id": "hephaestus:molten_copper"
+    },
+    {
+      "amount": 90,
+      "id": "hephaestus:molten_zinc"
+    }
+  ],
+  "output": {
+    "amount": 360,
+    "id": "hephaestus:molten_brass"
+  },
+  "temperature": 650
+}

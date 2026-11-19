@@ -1,0 +1,18 @@
+{
+  "type": "oritech:foundry",
+  "ingredients": [
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "tag": "c:ingots/silver"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "immersiveengineering:ingot_electrum"
+    }
+  ],
+  "time": 80
+}

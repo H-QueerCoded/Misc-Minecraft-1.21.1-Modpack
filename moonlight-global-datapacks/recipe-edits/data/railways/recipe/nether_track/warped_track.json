@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:warped_slab"
+    },
+    "S": {
+      "item": "immersiveposts:stick_gold"
+    }
+  },
+  "pattern": [
+    "SAS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "railways:track_warped"
+  }
+}

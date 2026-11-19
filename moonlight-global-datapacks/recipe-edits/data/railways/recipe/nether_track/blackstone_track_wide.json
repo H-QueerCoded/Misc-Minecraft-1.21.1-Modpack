@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:blackstone_slab"
+    },
+    "S": {
+      "item": "immersiveposts:stick_gold"
+    }
+  },
+  "pattern": [
+    "S  ",
+    "A  ",
+    " AS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "railways:track_blackstone_wide"
+  }
+}

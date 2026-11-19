@@ -1,6 +1,3 @@
-		[types.wood_type.expandeddelight]
-			cinnamon = true
-
 		[types.wood_type.thaumon]
 			greatwood = true
 			silverwood = true
@@ -11,9 +8,6 @@
 
 		[types.wood_type.vinery]
 			dark_cherry = true
-
-		[types.wood_type.snifferplus]
-			stone_pine = true
 
 		[types.wood_type.resonantend]
 			chorus = true
@@ -29,9 +23,6 @@
 			ancient = true
 			blossom = false
 
-		[types.leaves_type.expandeddelight]
-			cinnamon = true
-
 		[types.leaves_type.thaumon]
 			greatwood = true
 			silverwood = true
@@ -44,11 +35,8 @@
 			dark_cherry = true
 			apple = true
 
-		[types.leaves_type.snifferplus]
-			stone_pine = true
-
 		[types.leaves_type.resonantend]
-			yellow_chorus = true
+			yellow_chorus = false
 			chorus_blossom = true
 
 		[types.leaves_type.windswept]
@@ -78,7 +66,7 @@
 			jasper = true
 			shale = false
 			myalite = true
-			permafrost = true
+			permafrost = false
 
 		[types.stone_type.thaumon]
 			amber = true
@@ -87,18 +75,88 @@
 			ancient_stone = true
 
 		[types.stone_type.upgrade_aquatic]
-			tooth = true
-
-		[types.stone_type.wandrous]
-			chert = true
+			tooth = false
 
 		[types.stone_type.windswept]
 			shale = true
 			arkose = true
-			gingerbread = true
+			gingerbread = false
 
 		[types.stone_type.modestmasonry]
 			cement = true
+
+		[types.stone_type.create]
+			limestone = true
+			asurine = true
+			crimsite = true
+			ochrum = true
+			veridium = true
+			scoria = true
+			scorchia = true
+
+		[types.crystal_type.ae2]
+			quartz = true
+
+		[types.dust_type.ae2]
+			fluix = true
+
+		[types.metal_type.create]
+			zinc = true
+			brass = true
+
+		[types.metal_type.e2s2]
+			asterite = false
+			voidmetal = false
+			sunbeam = false
+			godsoul = false
+			platinum = false
+			tungsten = false
+			tungsten_carbide = false
+
+		[types.metal_type.extendedae]
+			entro = true
+
+		[types.metal_type.halcyon]
+			ecliptrum = false
+
+		[types.metal_type.hephaestus]
+			cobalt = false
+			steel = false
+
+		[types.metal_type.lingua_mundi]
+			infused_iron = true
+
+		[types.metal_type.nautec]
+			aquarine_steel = true
+			cast_iron = true
+			aquarine_copper = true
+
+		[types.metal_type.neoecoae]
+			aluminum = false
+			tungsten = true
+			aluminum_alloy = false
+			black_tungsten_alloy = false
+			energized_superconductive = false
+
+		[types.metal_type.oritech]
+			steel = false
+			energite = false
+			nickel = false
+			biosteel = false
+			platinum = true
+			adamant = false
+			electrum = false
+			duratium = false
+
+		[types.cake.vanilladelight]
+			carrot_cake = true
+			honey_cake = true
+
+		[types.lantern.unusualfishmod]
+			nautical_lamp = true
+
+		[types.lantern.windswept]
+			ice_lantern = true
 
 		[entries.wood_type.copperagebackport]
 			shelf = true
@@ -136,6 +194,10 @@
 			chiseled_planks = true
 			board_slab = true
 
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
 		[entries.leaves_type.quark]
 			hedge = true
 			leaf_carpet = false
@@ -165,7 +227,131 @@
 			shingle_slab = true
 			paver_slab = true
 
+		[entries.stone_type.create]
+			table_cloth = false
+			cut_wall = false
+			small_bricks = true
+			scaffolding = false
+			layered = true
+			cut_brick_wall = false
+			pillar = true
+			cut_brick_stairs = false
+			alloy = false
+			encased_large_cogwheel = false
+			cut_brick_slab = false
+			polished_cut_slab = false
+			polished_cut_wall = false
+			cut_slab = false
+			small_brick_wall = false
+			ladder = false
+			encased_shaft = false
+			belt_funnel = false
+			cut = true
+			polished_cut = true
+			small_brick_slab = false
+			cut_stairs = false
+			door = false
+			small_brick_stairs = false
+			cut_bricks = true
+			polished_cut_stairs = false
+			encased_cogwheel = false
+			bars = false
+			funnel = false
+			casing = false
+
 		[entries.mud_type.quark]
 			carved_bricks = true
 			pillar = true
 			brick_lattice = true
+
+		[entries.crystal_type.lapidarist]
+			polished = true
+			pillar = true
+			brick_stairs = true
+			bricks = true
+			brick_slab = true
+			chiseled = true
+
+		[entries.dust_type.lapidarist]
+			cut = true
+			tiles = true
+			brick_stairs = true
+			pillar = true
+			tile_stairs = true
+			bricks = true
+			cut_slab = true
+			tile_slab = true
+			brick_slab = true
+			cut_stairs = true
+			chiseled = true
+
+		[entries.metal_type.create]
+			table_cloth = false
+			tile_slab = false
+			ornate_window = false
+			ladder = false
+			ornate_window_pane = false
+			scaffolding = false
+			encased_shaft = false
+			belt_funnel = false
+			tiles = false
+			shingles = false
+			tile_stairs = false
+			encased_large_cogwheel = false
+			door = false
+			sheet = false
+			valve_handle = false
+			shingle_slab = false
+			shingle_stairs = false
+			encased_cogwheel = false
+			funnel = false
+			casing = false
+
+		[entries.metal_type.lapidarist]
+			cut = true
+			tiles = true
+			tile_stairs = true
+			bricks = true
+			cut_slab = true
+			cut_stairs = true
+			brick_stairs = true
+			pillar = true
+			tile_slab = true
+			brick_slab = true
+			chiseled = true
+
+		[entries.metal_type.minecraft]
+			nugget = false
+			bars = false
+
+		[entries.metal_type.createdeco]
+			catwalk = false
+			mesh_fence = false
+			blue_lamp = false
+			ladder = false
+			yellow_lamp = false
+			catwalk_stairs = false
+			sheet_metal = false
+			support_wedge = false
+			window = false
+			red_lamp = false
+			catwalk_railing = false
+			green_lamp = false
+			window_pane = false
+			hull = false
+			bars_overlay = false
+			support = false
+			bars = false
+
+		[entries.gem_type.lapidarist]
+			cut = true
+			tiles = true
+			brick_stairs = true
+			pillar = true
+			tile_stairs = true
+			bricks = true
+			cut_slab = true
+			tile_slab = true
+			brick_slab = true
+			cut_stairs = true
+			chiseled = true

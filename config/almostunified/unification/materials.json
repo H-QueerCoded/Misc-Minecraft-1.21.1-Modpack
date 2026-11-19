@@ -3,10 +3,11 @@
     "minecraft",
     "immersiveengineering",
     "oritech",
-    "crossroads"
+    "crossroads",
+    "e2s2",
+    "createl"
   ],
-  "priority_overrides": {
-  },
+  "priority_overrides": {},
   "stone_variants": [
     "stone",
     "andesite",
@@ -31,7 +32,7 @@
     "c:wires/{material}"
   ],
   "ignored_tags": [],
-  "ignored_items": [],
+  "ignored_items": ["oritech:biosteel_ingot"],
   "ignored_recipe_types": [
     "cucumber:shaped_tag"
   ],

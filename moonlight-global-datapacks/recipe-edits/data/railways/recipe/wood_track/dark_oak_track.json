@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:dark_oak_slab"
+    },
+    "S": {
+      "item": "immersiveengineering:stick_steel"
+    }
+  },
+  "pattern": [
+    "SAS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "railways:track_dark_oak"
+  }
+}

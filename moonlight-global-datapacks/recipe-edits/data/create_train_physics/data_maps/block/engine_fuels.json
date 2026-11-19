@@ -1,0 +1,13 @@
+{
+  "values": {
+    "immersiveengineering:generator": {
+      "fluids": [
+        "#c:diesel",
+        "#c:biodiesel",
+        "#c:high_power_biodiesel"
+      ],
+      "items": [],
+      "priority": 100
+    }
+  }
+}

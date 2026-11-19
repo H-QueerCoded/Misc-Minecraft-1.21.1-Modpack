@@ -66,7 +66,7 @@ hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "c2e0f309e660d5691db3d6bb82313a45306b147a9df0e03aa88c1f2b49d0691b"
+hash = "b97f5d353576a63e5249379bfecdf6770d2b8fd1e42c9b4ab9b9c664eaace4cf"
 
 [[files]]
 file = "config/alternatingflux-server.toml"
@@ -91,10 +91,6 @@ hash = "41c2d74a7500883010e4ccf1b03082031888377fa83b0e35064fae62bf0a9cba"
 [[files]]
 file = "config/applieddelight-server.toml"
 hash = "2e51875fd8ff9ea82cf510d28faf5d016f18f7201d14ba33ad3ed84e0ce2c4a4"
-
-[[files]]
-file = "config/appliedenhancements-common-1.toml.bak"
-hash = "9ef4bb1f75350402c281e5f1d0f3d7ea328dce70ff83fb11c1472a0c35a9ba60"
 
 [[files]]
 file = "config/appliedenhancements-common.toml"
@@ -193,14 +189,6 @@ file = "config/betterstrongholds/neoforge-1_21/rareblocks.json"
 hash = "5c5a6e7ff7b71daecefaaec96e78c323102771201090be3ebd34156ef99ab80d"
 
 [[files]]
-file = "config/bettertridents-common.toml"
-hash = "e58352c94b592ffb7384f797bb78b4f8c0f0ad588b2c0d43c0d0deddaece4c0b"
-
-[[files]]
-file = "config/bettertridents-server.toml"
-hash = "ba2b124c4e7d573c5e5018b626ea9008c1cf17bb78bbdc83dff7fa38040a11f8"
-
-[[files]]
 file = "config/betterwitchhuts-neoforge-1_21.toml"
 hash = "b78cccad5e036fc43fcf0fc3f17da81b993c3985cbff54dad2053f6ebe007de5"
 
@@ -221,10 +209,6 @@ file = "config/chickensshed.json"
 hash = "892908fc9a7cb390cb7937574cb3ef31bdf405988f552bac75bbbcbdccbda7fe"
 
 [[files]]
-file = "config/colorfulhearts.toml"
-hash = "6ff8724c389a15ab21f9de6db244c2a7b1a0961f61600b774df9124e0b37ec9f"
-
-[[files]]
 file = "config/copperagebackport.json"
 hash = "f71a73454fe686b435acf2028e5490de884980a13c7a298df38231c9e94b9998"
 
@@ -239,6 +223,14 @@ hash = "f8e26cfe44eb0e6d4d084b9a2af90f5028da034becee64b6ddfd50cdfd5c7fe1"
 [[files]]
 file = "config/craftingtweaks/grids/ie.json"
 hash = "19f314d04fe55f3b70762ea616f0b19e484ae5fe27c8e0152932008ab57f3dfe"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "a59ba702fe2ebe52da83222032cb62d1e82aca616c95660f19bfbe57a5229099"
+
+[[files]]
+file = "config/create_train_physics-common.toml"
+hash = "85095b0f29a6601f41a568675f890e1854862871a4c39d4dbb6ae6893b92520a"
 
 [[files]]
 file = "config/crossroads-server.toml"
@@ -310,7 +302,7 @@ hash = "0c9e53beefd9e8f6e081ee7f7283c66a870e0c41e5c4512cd508ae5aa01e5362"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "318e1194adc4e529c75bb1c0d86b052f7fd4e366b83360007a7eb2fbcb91170f"
+hash = "402a27067ee1add36b1d2f00af7ca8cf9d01b38d1a1f755383cf98a8099e9876"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -391,47 +383,6 @@ hash = "b11a9f55084cb97ae43c5906bd1a96f01a4dfea512480461be2560ce679ff093"
 [[files]]
 file = "config/immersiveposts-server.toml"
 hash = "d6b136dcad61384652d24a8c0cd932976ba6453034e8e646a0da6b406849e3e5"
-
-[[files]]
-file = "config/immersiverailroading.cfg"
-hash = "e63090f14e0afbce9beb47a2830f12422507161dffdbe9afd4a00d1f0ecfee29"
-
-[[files]]
-file = "config/immersiverailroading/ir-deket-train-pack.pw.toml"
-hash = "d3850fa0146d086e45eaffd8690a15381d9149edd2b45a1b9dcbf9a3c7f6bb4a"
-metafile = true
-
-[[files]]
-file = "config/immersiverailroading/trains-of-ruun-community-addon.pw.toml"
-hash = "f253b913c831bd8a98bc81ef8cf107daeaecad26722a0b4022a38f73c026b643"
-metafile = true
-
-[[files]]
-file = "config/immersiverailroading/trains-of-ruun.pw.toml"
-hash = "aa9aafb51bebf5032738a0bbcc9f78e992c96768cbc2e498706d608f226c846a"
-metafile = true
-
-[[files]]
-file = "config/immersiverailroading/welsh-highland-railway-liveries.pw.toml"
-hash = "f21ddc0539646049cf1d06ba2209f4689a84672f5e521448da2bb1c1a3c59fa7"
-metafile = true
-
-[[files]]
-file = "config/immersiverailroading/welsh-highland-railway.pw.toml"
-hash = "651b9ea4707fc65a7ee515c431571734871679601efcfb9c19af2edf8348585f"
-metafile = true
-
-[[files]]
-file = "config/immersiverailroading_graphics.cfg"
-hash = "ddcb636b907a040def7a858adccf125e03a646600f5ba8aa1c18754a3c8cb46e"
-
-[[files]]
-file = "config/immersiverailroading_permissions.cfg"
-hash = "5f8644271ccc99183610089aa0a89af8fd05a01ceb40ab72042dcc444a9c54c1"
-
-[[files]]
-file = "config/immersiverailroading_sound.cfg"
-hash = "9f501d9f611c172640b53b0c4cce52271b2ee501eaab021e0026f5fa859798a4"
 
 [[files]]
 file = "config/item_descriptions.toml"
@@ -520,6 +471,10 @@ hash = "8ebe141e01d7b6fb7a405a1d72c0d5727d5037280c58c8206ea2bc549c0557b7"
 [[files]]
 file = "config/mysterious_mountain_lib-common.toml"
 hash = "ac7e6050eb8acfbb88c7f0d638bb071e75cc58e9a4b0143846a12b255c3267f9"
+
+[[files]]
+file = "config/naturalwaters-client.toml"
+hash = "dd8d9d937eeb8555db18e7faeeec0ddba9072e8e49caec21cfce048c7943dc92"
 
 [[files]]
 file = "config/nautec-common.toml"
@@ -937,6 +892,11 @@ hash = "6757c1cebdbcef2aa9f8c8864bdeab45d5155aeb669f9cd065ba09942407eef0"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "a4c595c147f06581211b021f46fa1eb6c6388ddca2647c824036eacc8fd6367a"
 metafile = true
@@ -944,6 +904,11 @@ metafile = true
 [[files]]
 file = "mods/biome-music.pw.toml"
 hash = "573acf7bca6da7a522178c3f3e8a1739a4cf74015c05552cb878b06281c34455"
+metafile = true
+
+[[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
 metafile = true
 
 [[files]]
@@ -1002,6 +967,11 @@ hash = "7c5d1fb47ffd309dc332ad2011e2e392b54d74dc49607872af01222a1df24186"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "b6b702e432d0a9089ab5ccbf0c83951f6afe1315822c668659b8b04e4f3b99f7"
+metafile = true
+
+[[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "c7d7ee14a057fc2c5b1e36af8da13f4e702f15109d5bc247daa4246ca8302dc3"
 metafile = true
@@ -1014,6 +984,31 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "b63999aa63a273098f42e22d8d5018c8617b8e2babdffc752d9aad3eefaaa76d"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
+file = "mods/create-electro-energetics.pw.toml"
+hash = "d9da6eb607351b0667e98eca68ff3fe3e5106cded14cb9c089147528d2fc35bb"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
+metafile = true
+
+[[files]]
+file = "mods/create-train-physics-reloaded.pw.toml"
+hash = "a6c9f0830b21181fd9e2815a998dbd09b88ebff1d38172a21ef060a1dc35032e"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -1307,11 +1302,6 @@ hash = "09dddbf3278e3fa31b202f1b442994afdfe9dc430a9892bed6da7418fbb728bc"
 metafile = true
 
 [[files]]
-file = "mods/immersive-railroading.pw.toml"
-hash = "e2b7e53e779f49d2bef906030dd0be5af5d98d4215d93ad36e55dee6200f2097"
-metafile = true
-
-[[files]]
 file = "mods/immersive-trims.pw.toml"
 hash = "0c71c5565114d3996e5f6ac2d54036950e3e21f1e2906cea6e6ee9cb0cebc7a6"
 metafile = true
@@ -1334,6 +1324,11 @@ metafile = true
 [[files]]
 file = "mods/industrially-plated.pw.toml"
 hash = "8f1622d82d6e14bf9086b39e68d4f6a6c1ec7e38ac8a1783e0a81bbb7c91de29"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
@@ -1857,11 +1852,6 @@ hash = "79c500952f474fcba455c37f9ec62f4ed2f8222de607c8269c0fef50f4b54ad6"
 metafile = true
 
 [[files]]
-file = "mods/thefletchingtable.pw.toml"
-hash = "b65f36ab222598f99e5daabc0523864dcdd0067b3bf458a1f5f2c749fe21ff9f"
-metafile = true
-
-[[files]]
 file = "mods/theurgy.pw.toml"
 hash = "71dd325fbed498d6f9d0530582beb62e1187c3c2f8e82ef5a5356899e44f55f3"
 metafile = true
@@ -1892,11 +1882,6 @@ hash = "fa20fcc5ccc407316719932b62a59b7caa6829c28c28b7fd149ea82aa838b68f"
 metafile = true
 
 [[files]]
-file = "mods/track-api.pw.toml"
-hash = "48a53e4a0b0cbbe286cc2395733d3205b30d63994c76784da234727dcfa5a629"
-metafile = true
-
-[[files]]
 file = "mods/trample-no-more.pw.toml"
 hash = "29befa93c082c808be39f4152f72d2f7c5c7f54072d2282baac45301b818879a"
 metafile = true
@@ -1909,11 +1894,6 @@ metafile = true
 [[files]]
 file = "mods/traveler-tool-belt.pw.toml"
 hash = "0021a91da4e647dbad281ac71b9da02ce25e69b97a9aa66b5e117d4425c6425e"
-metafile = true
-
-[[files]]
-file = "mods/universal-mod-core.pw.toml"
-hash = "d384513c590e62d450aa154f2dd7941f3b04b7e4f2a2bf2f7b769284579d7e2e"
 metafile = true
 
 [[files]]
@@ -2083,6 +2063,58 @@ hash = "bfab17d418624640eb4da49485d392c14481616e45bd0595af8051d6929629a5"
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/c/tags/item/mushrooms.json"
 hash = "1c3cffe2aebf23d6034625c683c5bda6edacde42a6a04d4c363fb4ad7e7b2484"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/andesite_casing.json"
+hash = "b029e8e3c42dfea5f911fb3c1df8a6f41e8f1e99147e62bb87f3f6d17271fe5c"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/brass_casing.json"
+hash = "b58ebb954b593ced86f290b33fe744cb28c1502a3505e0048466fdc0fd40b470"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/controller_rail.json"
+hash = "d74cf379f7f342e5e7e1d57e4ad90c9b2de53183cc753c35eb9f1351e4180c4f"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/copper_casing.json"
+hash = "9180740fdbed2d84ade4dc7639bb12570a34e74986f73cc2d0e46585514a1094"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/mixing/brass_ingot.json"
+hash = "3ed49a23df1e49a582c5478e6ef68faf622c59598b94729cda7bbd79ec64cd77"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/railway_casing.json"
+hash = "e8349e63a4af1f066c6655de1255271c572247bba592475586ff28f2aca6fef0"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/track.json"
+hash = "63f8f8d0a1ccdfb8fd57f989646db451dbf21e04877965378888384ab43be17c"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/train_controls.json"
+hash = "ab770866fd1e51953c330425f5a871fcbf4cea092cf8797ea9a1b61cf11caea0"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/train_signal.json"
+hash = "e282fed7b3baac5c5e39386ecaee14b6ce2216556413e98874ca983723579076"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/tags/item/sleepers.json"
+hash = "04fd356b430f0d918588f7a31182b2565744dcfa85b1c01acdce16d76f88c8ca"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create_train_physics/data_maps/block/engine_fuels.json"
+hash = "5e89b7bda8571abeeacb5beadbc8391ea191c00594efb27c608e936a77b711e0"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create_train_physics/tags/block/train_motor.json"
+hash = "a25373dd03f64b3337e219c057a400a394549612bfbfbb1e1abccc9486574318"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/alloying/brass.json"
+hash = "0a0f860d9acaeaf0e0b144a853b19b6057dc255e8837ebb1c55e6e75907dc94d"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/alloying/netherite.json"
@@ -2537,8 +2569,100 @@ file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/
 hash = "8a406e105b4c5277fc170d980101a309d066a8393f993e3b5f7693b022751ab9"
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/alloysmelter/brass.json"
+hash = "4f9750ef86a364b7cd234d9d62268b85880d0ad42ef4f3c176736b1737e2dc90"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/alloysmelter/netherite.json"
 hash = "b370b9b41f279756c4735c48ba9b08eb202a08731c86e74eda2b8fd495f000f3"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/arcfurnace/alloy_brass.json"
+hash = "d9b26ef6477462c76024744c38a087d26940fe72a1815214c97223bda8acc8d4"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/oritech/recipe/foundry/alloy/electrum.json"
+hash = "65b9aae20029bbc299b2b6c620f990ef00b5a5cf5e7686d0cb12b83814ce1a47"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/railways_liquid_fuel/biodiesel.json"
+hash = "0241d3ad0c55da65b2d270f009823d375273e94a05b6b0cbe24e9b99ea9cfe8d"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/railways_liquid_fuel/biodiesel_high.json"
+hash = "126241a78a1cd1093919b2a0e3464464f4a73552838665ddfccefc194abeb58c"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/railways_liquid_fuel/diesel.json"
+hash = "c83b856ed12985e5d4df699bd229d756964cf87dae9bc92327fcd5c85116c316"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/fuel_tank.json"
+hash = "d84258f9c54691657cc3d0fa8d5f5e7d74ca7c2d2e984e4cae1c54a07b5ff375"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/nether_track/blackstone_track.json"
+hash = "ea826014b76d85ef65485f77a809e835f0f935755b38f089e7d8440def5e7720"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/nether_track/blackstone_track_narrow.json"
+hash = "b3cd81190e5e693fb0268fd2cad9e7cd86047529eb60a17b95bef7e8cb6b4bdd"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/nether_track/blackstone_track_wide.json"
+hash = "0e02a718ec1fd1dd76e5ee19237389af9a74475779e6c61f569d3c04f8b28996"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/nether_track/crimson_track.json"
+hash = "5cb39016d12dc8ee06d068c3cff9fd78e4ff811ddaa32d88647147109c35a876"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/nether_track/crimson_track_narrow.json"
+hash = "e29abc3ff1925cb38f5fd8cf6659fdf2b7ada4b586378a076ad2fdf78512eedc"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/nether_track/crimson_track_wide.json"
+hash = "9a1693854445a1ab085bf4d1c82f3e6da3eb04482c223f4e63a8ab0ef8f1808d"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/nether_track/warped_track.json"
+hash = "329b1443910ba853400723572e4ff6276e5187b7668df7b09eb3be5bf1587e30"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/nether_track/warped_track_narrow.json"
+hash = "268a651a8e5af8690addc6b0895a0b76bc80c0a5c508c50491dcb28328b58314"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/nether_track/warped_track_wide.json"
+hash = "08ef7bf99d040dc4677663427ae281347531f7165081e58a65a6730dc2999205"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/semaphore.json"
+hash = "44a1b2f9f85dc64e175e30d81dd83f1f6889efd3cb3c9c443a9c402b5ffbe621"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/track_narrow.json"
+hash = "918b8b803f98073f2b8c2c354b52956a0e95482d69ecc015961f3508c73b8642"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/track_switch_brass.json"
+hash = "1a061c907e9ad34188718d2e247d516768a5fd1d91317e0e24ea5423577c8bf4"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/track_wide.json"
+hash = "5a6d627fa98214e75b6fbed5ce0948315fcfc70d2c7efd23fbe203e80d3c6af3"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/wood_track/dark_oak_track.json"
+hash = "6e64ddf745e1d28b643319be94a41268d288c9162f1734f94e1a454fb864ac55"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/wood_track/dark_oak_track_narrow.json"
+hash = "c81695a69fa18f2c60849b049bbb63fc0efe6aad5a09b2cc4956fdd7bd95de7a"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/railways/recipe/wood_track/dark_oak_track_wide.json"
+hash = "ddcc850a1a112828ac7b613897bd8955c9ea3032ad7a52191b7dcf66cfd905d8"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_fence.json"
@@ -2586,7 +2710,7 @@ hash = "55695e5775f47de10ceb2e3e0742edd27f55fc51de4cac8c33e7aa50fd60f58c"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/pack.mcmeta"
-hash = "7d0c96703b1fc235bd13a392fa66a9de42fb45027268a97936a0d59de8124694"
+hash = "cf5b9b55ede96f272b97b5495ce00adac688a041908da858a4999ed631574f9d"
 
 [[files]]
 file = "resourcepacks/bare-bones-boss-bars.pw.toml"
