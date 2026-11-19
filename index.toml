@@ -1187,6 +1187,11 @@ hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
 
 [[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "741ad359354fce814f9e1cbff6fb0b6eea09f4bb905efef94a32be56b1f64680"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "632f283dcdbb6a5011c03fa1d3e2fa84b1686e8f718550ccaae427b5b9880403"
 metafile = true
