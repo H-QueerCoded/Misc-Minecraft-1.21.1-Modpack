@@ -1532,6 +1532,11 @@ hash = "6a64bcb0c79672e279439912aa126edf76ca436910eea2b916299b823eccf667"
 metafile = true
 
 [[files]]
+file = "mods/more-railgun-projectiles.pw.toml"
+hash = "282d0f030995d8e534e2805e95e45fb79382b4222333a10504466856faf89fc2"
+metafile = true
+
+[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "b8a046a7b5873a1f26101e0195e3f3c0dc8561b9c80ce52c9194e65b91eedb9f"
 metafile = true

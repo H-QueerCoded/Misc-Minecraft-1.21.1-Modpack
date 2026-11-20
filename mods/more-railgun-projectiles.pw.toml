@@ -1,0 +1,13 @@
+name = "More Railgun Projectiles"
+filename = "more_railgun_projectiles-0.2.0-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "265ba647125cfa4a4edd214bc1ff2fc68937e67e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8101451
+project-id = 1477652
