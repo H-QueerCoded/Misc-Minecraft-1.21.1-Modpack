@@ -673,6 +673,10 @@ file = "config/vinery-common.toml"
 hash = "654dfe38970c2ed51667504674ad7dda71a4073055db3d1d3bb04913cf198301"
 
 [[files]]
+file = "config/visiting-villagers-common.toml"
+hash = "1bff8bf377e26657e8950b0c4865ed0547979fc519794f5acac26a7e0c67514b"
+
+[[files]]
 file = "config/wandrous-server.toml"
 hash = "d79d02d87ec742b4e64c974b20b497aafac8e22108cd4724140aa9e3d27b100e"
 
