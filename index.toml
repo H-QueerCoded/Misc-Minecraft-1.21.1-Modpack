@@ -1617,6 +1617,11 @@ hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
 
 [[files]]
+file = "mods/oooh-pinky-porty.pw.toml"
+hash = "bedbb3e23d2ebf3e35f8c4425767df4bdaa5b8895c91c17d37f57353cddf8897"
+metafile = true
+
+[[files]]
 file = "mods/oracle-index.pw.toml"
 hash = "98b082169cc2369af0741a40278c1861600315503fcb2422bc135cad226a136e"
 metafile = true
