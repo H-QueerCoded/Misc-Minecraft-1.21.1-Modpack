@@ -962,6 +962,11 @@ hash = "a9fd327bb8855bdf68fbe88e17936ba866ea608bf2def5154fc52e0c1fe9514b"
 metafile = true
 
 [[files]]
+file = "mods/contraption-lights.pw.toml"
+hash = "43776164891cfe7206bbb2a2d67afd80c22127b649c05e9642a4ad56a097b8fc"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
