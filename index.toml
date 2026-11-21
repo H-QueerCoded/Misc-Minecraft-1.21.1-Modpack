@@ -1467,7 +1467,7 @@ metafile = true
 
 [[files]]
 file = "mods/merequester.pw.toml"
-hash = "8d38a1e7ef9fdd40670916a816191f4350ed53963b9e41b677bb914268a3f814"
+hash = "b93a8c2cb2ec7515207f9ad906cb9a500744f7d270c6409ddbf2dd1a02640daa"
 metafile = true
 
 [[files]]
