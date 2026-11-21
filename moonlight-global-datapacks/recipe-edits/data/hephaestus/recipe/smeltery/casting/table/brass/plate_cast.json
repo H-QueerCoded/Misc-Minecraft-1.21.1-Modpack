@@ -9,5 +9,5 @@
     "amount": 90,
     "id": "hephaestus:molten_brass"
   },
-  "result": "create:brass_plate"
+  "result": "create:brass_sheet"
 }

@@ -2228,7 +2228,7 @@ hash = "c4d1bc2ee404273bfbd22a49995c14a5ca5b328bf98d304f4429053789a78eda"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/brass/plate_cast.json"
-hash = "94f9380e4266f43180a09567d361c433cb09098a7ce2c4d2dbc16a1751adb667"
+hash = "10d3b8483cf3a5d2014033d4a8d474d2c1f71543cc48c118c1f33d91511bd2f2"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/casting/table/bronze/ingot_cast.json"
