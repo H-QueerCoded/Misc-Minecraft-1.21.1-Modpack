@@ -1727,7 +1727,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "0f164f1c656e9f21011b794d2d984f1c4d5cedd70140dfa9f7fe623ad3d104b6"
+hash = "0252f074c9b8a9ef31b60ea5cc2535433cc69a06214e4e7aeaaffe2144d5d803"
 metafile = true
 
 [[files]]
