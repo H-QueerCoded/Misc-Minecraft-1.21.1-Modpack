@@ -9,4 +9,4 @@ enginePower = 200
 # Range: > 0
 fueledEnginePower = 200
 #Brake unattended trains and hold automatic trains at a requested stop
-automaticHandbrake = true
+automaticHandbrake = false
