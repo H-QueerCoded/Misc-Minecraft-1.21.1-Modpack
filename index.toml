@@ -1197,7 +1197,7 @@ metafile = true
 
 [[files]]
 file = "mods/experience-obliterator.pw.toml"
-hash = "f35b1ab14783111b1aa3ec54cfd3ab3ef01be361612f7073322bed7e0eec7a5a"
+hash = "f41405dee0eb24d09c1770e29003685b0b466ecdd9d99ba4d49e296070c64ab3"
 metafile = true
 
 [[files]]
