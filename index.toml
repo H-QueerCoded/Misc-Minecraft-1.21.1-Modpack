@@ -2611,8 +2611,16 @@ file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe
 hash = "b370b9b41f279756c4735c48ba9b08eb202a08731c86e74eda2b8fd495f000f3"
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/alloysmelter/rose_gold.json"
+hash = "03c7c86d0c8a9a6dd1b900c56a35c03b4b76155130a156a2ae31092dca7cbf39"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/arcfurnace/alloy_brass.json"
 hash = "d9b26ef6477462c76024744c38a087d26940fe72a1815214c97223bda8acc8d4"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/arcfurnace/alloy_rose_gold.json"
+hash = "d7e428844e128ea1856f2886d65c69f522ec10a66e9e018525ecf0c29c426113"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/oritech/recipe/foundry/alloy/electrum.json"
@@ -2744,7 +2752,7 @@ hash = "55695e5775f47de10ceb2e3e0742edd27f55fc51de4cac8c33e7aa50fd60f58c"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/pack.mcmeta"
-hash = "d32b7722bb0cb10462e8ae32ad4833d7b6f427c57a5a5b25a8d3e107bb8b6ff2"
+hash = "53ed3e88324f0dfd3553ee03adbad0d11a3f914766ecae2af19ecd64754b4778"
 
 [[files]]
 file = "resourcepacks/bare-bones-boss-bars.pw.toml"

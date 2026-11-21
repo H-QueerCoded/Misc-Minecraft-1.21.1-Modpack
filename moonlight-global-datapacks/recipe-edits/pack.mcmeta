@@ -34,6 +34,10 @@
         "path": "recipe/smeltery/alloying/steel.json"
       },
       {
+      	"namespace": "oooh_pinky",
+      	"path": "recipe/rose_gold_ingot_manual_only"
+      },
+      {
         "namespace": "minecraft",
         "path": "recipe/netherite_ingot.json"
       }
