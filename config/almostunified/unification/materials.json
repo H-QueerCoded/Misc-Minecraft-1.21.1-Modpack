@@ -5,7 +5,7 @@
     "oritech",
     "crossroads",
     "e2s2",
-    "createl"
+    "create"
   ],
   "priority_overrides": {},
   "stone_variants": [
@@ -32,7 +32,7 @@
     "c:wires/{material}"
   ],
   "ignored_tags": [],
-  "ignored_items": ["oritech:biosteel_ingot"],
+  "ignored_items": ["oritech:biosteel_ingot","e2s2:chilled_iron","e2s2:crushed_chilled_iron"],
   "ignored_recipe_types": [
     "cucumber:shaped_tag"
   ],

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "item": "e2s2:slush"
+  },
+  "result": {
+    "count": 2,
+    "id": "e2s2:crushed_chilled_iron"
+  },
+  "secondaries": [
+    {
+      "chance": 0.25,
+      "output": {
+        "item": "e2s2:crushed_chilled_iron"
+      }
+    }
+  ]
+}

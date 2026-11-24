@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "item": "minecraft:wheat"
+  },
+  "result": {
+    "count": 1,
+    "id": "create:wheat_flour"
+  },
+  "secondaries": [
+    {
+      "chance": 0.25,
+      "output": {
+        "count": 2,
+        "item": "create:wheat_flour"
+      }
+    }
+  ]
+}

@@ -66,7 +66,7 @@ hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "b97f5d353576a63e5249379bfecdf6770d2b8fd1e42c9b4ab9b9c664eaace4cf"
+hash = "af9f5d8a6ccf1a47820f80d837a9184adc5afaec8c47510b0c701b9876aa60ca"
 
 [[files]]
 file = "config/alternatingflux-server.toml"
@@ -2691,6 +2691,14 @@ file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe
 hash = "d7e428844e128ea1856f2886d65c69f522ec10a66e9e018525ecf0c29c426113"
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/crusher/slush.json"
+hash = "646da885f9c90f138a1a0713d38ac687c0dcf08f1afa836ea8489c7b4c5b3d7a"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/crusher/wheat.json"
+hash = "6aae01411943751a8822fa541a9be1e0e227cd68b011d8a2ea8a24248bb94b45"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/oritech/recipe/foundry/alloy/electrum.json"
 hash = "65b9aae20029bbc299b2b6c620f990ef00b5a5cf5e7686d0cb12b83814ce1a47"
 
@@ -2820,7 +2828,7 @@ hash = "55695e5775f47de10ceb2e3e0742edd27f55fc51de4cac8c33e7aa50fd60f58c"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/pack.mcmeta"
-hash = "53ed3e88324f0dfd3553ee03adbad0d11a3f914766ecae2af19ecd64754b4778"
+hash = "2247b51b8f513d8d40ae4de16dc41b1663fc549dd48ad023c4b76cf5f03e0ac3"
 
 [[files]]
 file = "resourcepacks/bare-bones-boss-bars.pw.toml"

@@ -38,8 +38,16 @@
       	"path": "recipe/rose_gold_ingot_manual_only"
       },
       {
+        "namespace": "farmersdelight",
+        "path": "recipe/wheat_dough_from_water.json"
+      },
+      {
         "namespace": "minecraft",
         "path": "recipe/netherite_ingot.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/bread.json"
       }
     ]
   }
