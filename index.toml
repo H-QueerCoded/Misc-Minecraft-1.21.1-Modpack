@@ -1312,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus-tools.pw.toml"
-hash = "20f4b243b62ff65b616ec4ce35508538a4d21008b4586fba2bb9ad30449bd533"
+hash = "1b605abf745da2aed19919acedb35f2d53f219527be28f6f4383d5a567b91d8d"
 metafile = true
 
 [[files]]
