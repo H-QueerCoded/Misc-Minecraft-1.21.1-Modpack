@@ -13,7 +13,8 @@
 	"Print Screen Classnames" = false
 	#A list of screens that can accept quark's buttons. Use "Print Screen Classnames" to find the names of any others you'd want to add.
 	"Allowed Screens" = [
-		"com.breakinblocks.nautec.client.screen.CrateScreen"
+		"com.breakinblocks.nautec.client.screen.CrateScreen",
+		"com.cotyn.mycomancy.client.screen.GeastrumScreen"
 	]
 	#If set to true, the 'Allowed Screens' option will work as a Blacklist rather than a Whitelist. WARNING: Use at your own risk as some mods may not support this.
 	"Use Screen List Blacklist" = false
