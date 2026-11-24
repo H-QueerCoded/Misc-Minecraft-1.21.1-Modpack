@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/e2s2.pw.toml"
-hash = "02d86b92668cd0cf64d85fbfa3cd2691a10e70ac9a0e93ee154e87b9cc5db573"
+hash = "02108e486442ddadbecc15151bb83f98cb8228833266cccb27152d13fdec54eb"
 metafile = true
 
 [[files]]
