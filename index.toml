@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "d6c2790cc195eb3620ef71248c0f30b747eb654b24e55ada7eb35af531594c5e"
+hash = "63c2ddce7adb7f31fcda50529006fc590be0ce973385242add2a141e30bd18f4"
 metafile = true
 
 [[files]]
@@ -1192,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "1d219a061f5f85f6a33f009f8095cc4ac2db7cf92cd3be7e1b8bd75e613d82f9"
+hash = "11dd46d884d1f835c5be86e343c26b5d2d514557c5a7ea0e34816c1364798f7d"
 metafile = true
 
 [[files]]
@@ -1522,7 +1522,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b14b3d7f88512f23bccca8e2f133e52e84307679b6eba4e818ce13e8f87e503d"
+hash = "f1bfac09f701fe8ac07b10bfc3c811e951611c770cd62b4d8b60eb4ead939ef6"
 metafile = true
 
 [[files]]
@@ -1932,7 +1932,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
-hash = "8197c6c0e390369d3e5374692dfa8d2ced62d033538df534ab9d6d08ab5eb82c"
+hash = "374f727e655fba152a24f3904559b5bb5d4b24221e6556e54092fb64aaf1a8dc"
 metafile = true
 
 [[files]]
