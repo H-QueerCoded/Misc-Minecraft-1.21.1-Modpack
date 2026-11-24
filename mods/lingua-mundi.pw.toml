@@ -1,13 +1,13 @@
 name = "Lingua Mundi"
-filename = "lingua_mundi_1.2.0-neoforge_1.21.1.jar"
+filename = "lingua-mundi-1.2.1_neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2uCEiJ7z/versions/PFlfSclf/lingua_mundi_1.2.0-neoforge_1.21.1.jar"
+url = "https://cdn.modrinth.com/data/2uCEiJ7z/versions/aoaELFLT/lingua-mundi-1.2.1_neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "b8e5d6f72289ee2dfd62f74b0ba77f79b81deb50adb778c9e2d3c45076181c2a1dea24312068a065be53e390697a8c9228c54f0086ab04f2a66d0240b490d79f"
+hash = "1ef734d3104c072b2c3c30b26a7e045c43cb9e8e2d4bbede61c1bac416f17fb45f645df285378dd005f02ee2c2fa9193f980cb5f13baf8ab221c569c13a50312"
 
 [update]
 [update.modrinth]
 mod-id = "2uCEiJ7z"
-version = "PFlfSclf"
+version = "aoaELFLT"
