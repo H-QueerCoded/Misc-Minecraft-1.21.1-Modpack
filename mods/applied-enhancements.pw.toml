@@ -1,13 +1,13 @@
 name = "Applied Enhancements"
-filename = "appliedenhancements-1.1.6.jar"
+filename = "appliedenhancements-1.1.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4e3f56e2ac8727f3afb0fcacabc5e4b75fc25ef0"
+hash = "bb1fa95a7573675c3713f2f12f5b574fc626473c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9437521
+file-id = 9732878
 project-id = 1665696

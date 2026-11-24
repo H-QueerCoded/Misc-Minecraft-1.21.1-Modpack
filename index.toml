@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-enhancements.pw.toml"
-hash = "095ebe3cf808b4d52016165794d594d62ea252d1d616999939bf546ab1958599"
+hash = "92afd78b219775b9c13b63eab41102a187b818344942b74bc66503c6b7791f78"
 metafile = true
 
 [[files]]
