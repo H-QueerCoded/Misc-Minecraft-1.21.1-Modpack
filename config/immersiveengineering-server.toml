@@ -544,7 +544,7 @@
 		# Range: > 0
 		attempts_per_chunk = 7
 		#Set this to true to allow retro-generation of nickel Ore.
-		retrogen_enable = true
+		retrogen_enable = false
 
 	#Ore generation config - deep_nickel
 	[ores.deep_nickel]
@@ -572,7 +572,7 @@
 		# Range: > 0
 		attempts_per_chunk = 11
 		#Set this to true to allow retro-generation of deep_nickel Ore.
-		retrogen_enable = true
+		retrogen_enable = false
 
 	#Ore generation config - uranium
 	[ores.uranium]
