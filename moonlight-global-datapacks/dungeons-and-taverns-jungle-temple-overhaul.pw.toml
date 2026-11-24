@@ -1,6 +1,7 @@
 name = "Dungeons and Taverns Jungle Temple Overhaul"
 filename = "DnT Jungle Temple Replacement.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/oHjYCS0f/versions/LIS9KkXT/DnT%20Jungle%20Temple%20Replacement.zip"

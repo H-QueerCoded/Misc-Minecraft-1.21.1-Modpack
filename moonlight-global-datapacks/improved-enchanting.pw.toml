@@ -1,6 +1,7 @@
 name = "Improved Enchanting"
 filename = "Improved Enchanting - Definitive Eddition V 1.1 (1.21.0-1).zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/yXPAlL6L/versions/LGIzpzHP/Improved%20Enchanting%20-%20Definitive%20Eddition%20V%201.1%20%281.21.0-1%29.zip"

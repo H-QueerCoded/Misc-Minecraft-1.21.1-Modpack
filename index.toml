@@ -1602,12 +1602,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-trials-mod-integrations.pw.toml"
-hash = "dd5663873f3d1b34d4442048289b100c1cf2534e52e3968f0dae6cf7c12f0b4f"
+hash = "39b7a21ef119ed48fd9d478b4604494483425a8119cb071352f86e848f4dec22"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-trials.pw.toml"
-hash = "dd5f609b21c44691e9dcd1a072223e2cd0990b9f07ec80b37516640bfe6426c5"
+hash = "8e4e964c6bf3d49f19f775a933ac623f8a1a59b48aa58b0cef62cc0a79c438d7"
 metafile = true
 
 [[files]]
@@ -1847,7 +1847,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "92363483e4e1c76454eca8a7d6ac84103295676211e0d1100a949551e72d1003"
+hash = "33a96471dc112e444ca36799108db230419293dfe5096e113d4a9afab3052cdd"
 metafile = true
 
 [[files]]
@@ -2052,12 +2052,12 @@ metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
-hash = "af6f58dbe6ec8b7a19923d4da64619dde118bf591ada23745f76adb9b3b19eb8"
+hash = "d34426e551f0c8bc91fe68f871ddf685c227ada7c2120904b9f64ca95f816148"
 metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
-hash = "6d200086781bc160a088b6806f058d04971911329555aa4b281f399722172f07"
+hash = "21cd9f8e05721e490f9b8c0cd630efe1a0f98888f6533f0e0d94c452f0b9b028"
 metafile = true
 
 [[files]]
@@ -2082,7 +2082,7 @@ metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/improved-enchanting.pw.toml"
-hash = "30a411fb153337d10258c8824577e0c416e0a68782168f6ec9b420f4af7b7dd7"
+hash = "bfc0861b63087a366f29af89b699806110ed53a42b09cf558997a703e1f83e6b"
 metafile = true
 
 [[files]]

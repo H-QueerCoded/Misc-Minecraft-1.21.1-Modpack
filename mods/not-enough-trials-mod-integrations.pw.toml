@@ -1,6 +1,7 @@
 name = "Not Enough Trials Mod Integrations"
 filename = "QuarkXNET-1.21-v1.0.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/WlHHWwWT/versions/TxTNPUez/QuarkXNET-1.21-v1.0.jar"

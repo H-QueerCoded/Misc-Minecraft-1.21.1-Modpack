@@ -1,6 +1,7 @@
 name = "Dungeons and Taverns Nether Fortress Overhaul"
 filename = "DnT Nether Fortress Overhaul 2.5.1.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/8Dbnvm77/versions/5s2dO9Bi/DnT%20Nether%20Fortress%20Overhaul%202.5.1.zip"
