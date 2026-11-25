@@ -1651,6 +1651,11 @@ hash = "6514f98b34602b789fc2dbcafe7a67468d1c94d74965a0142a79b7ab23628a9a"
 metafile = true
 
 [[files]]
+file = "mods/paintersinc.pw.toml"
+hash = "b8b26a570f9ae36c11f5cf159eb236579adcd441047a2c8708a2e86f8ce9099a"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "5a91a3d12946bd88686920cfaa7fb202c5f0c4bb034e39a280b2f1657e9630e6"
 metafile = true
