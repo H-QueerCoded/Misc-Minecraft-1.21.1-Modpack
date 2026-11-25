@@ -1056,11 +1056,6 @@ hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
-file = "mods/cycle-paintings.pw.toml"
-hash = "08ffcb4a00bfbdddaf9e0ac174a5f6915103429ee62777fa894c3d55e26abed3"
-metafile = true
-
-[[files]]
 file = "mods/dashpanels.pw.toml"
 hash = "ddf0cd016b63954828035c8d0d104e01a90ea8cec9e7d4c45cfbdf4fcc222b69"
 metafile = true
@@ -1261,6 +1256,11 @@ hash = "f2849c357f9c82d017ff71c6d5e91ac8e51d6b0f2de9e7ae8d95bfb81759cd63"
 metafile = true
 
 [[files]]
+file = "mods/gallery.pw.toml"
+hash = "b98c428b3eaca3332047b113673235526418fcc1d2b55e660dc4308d73b85ae5"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -1358,6 +1358,11 @@ metafile = true
 [[files]]
 file = "mods/item-descriptions.pw.toml"
 hash = "e5347f876614ddeaff10c2e7417f946ac5ef56c56acf7838d166d1cd5a8d9d1c"
+metafile = true
+
+[[files]]
+file = "mods/jack-black-steve-zetterstrand-painting.pw.toml"
+hash = "726db7188e981261a180bf82cc5b94d9dc93ccbdc0a5866ecb9092b57fbf4725"
 metafile = true
 
 [[files]]
