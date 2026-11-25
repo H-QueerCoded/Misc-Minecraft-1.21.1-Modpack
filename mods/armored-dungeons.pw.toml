@@ -1,0 +1,13 @@
+name = "Armored Dungeons (illagers, piglins and mobs!)"
+filename = "ArmoredDungeons-1.7.1-McNeoForge1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ddc4d4958ba9f36d0ed3ebda0e2bac701bcc085"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9777154
+project-id = 1640048

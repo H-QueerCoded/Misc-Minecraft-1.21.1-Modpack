@@ -1,0 +1,67 @@
+[general]
+	#Enable armor kits for eligible mobs.
+	enabled = true
+
+[difficulty]
+	#Multiply base chances by the current difficulty multiplier.
+	scaleWithDifficulty = true
+	# Default: 0.5
+	# Range: 0.0 ~ 1000.0
+	easyMultiplier = 0.5
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	normalMultiplier = 1.0
+	# Default: 1.5
+	# Range: 0.0 ~ 1000.0
+	hardMultiplier = 1.5
+
+#Base chances; kit 1 takes priority if the combined chance exceeds 1.0.
+[probabilities]
+
+	[probabilities.zombie]
+		# Default: 0.06
+		# Range: 0.0 ~ 1.0
+		kit1 = 0.06
+		# Default: 0.02
+		# Range: 0.0 ~ 1.0
+		kit2 = 0.02
+
+	[probabilities.skeleton]
+		# Default: 0.06
+		# Range: 0.0 ~ 1.0
+		kit1 = 0.06
+		# Default: 0.02
+		# Range: 0.0 ~ 1.0
+		kit2 = 0.02
+
+[exceptions]
+	#Entity IDs excluded from kit 1.
+	kit1 = ["minecraft:drowned", "minecraft:zombified_piglin", "minecraft:wither_skeleton"]
+	#Entity IDs excluded from kit 2.
+	kit2 = ["minecraft:drowned", "minecraft:zombified_piglin", "minecraft:wither_skeleton"]
+
+	[armor_values.reinforced_chainmail_helmet]
+		#Armor points provided by the helmet.
+		# Default: 2
+		# Range: 0 ~ 30
+		defense = 2
+		#Armor toughness provided by the helmet.
+		# Default: 1.0
+		# Range: 0.0 ~ 20.0
+		toughness = 1.0
+
+	[armor_values.reinforced_chainmail_chestplate]
+		# Default: 7
+		# Range: 0 ~ 30
+		defense = 7
+		# Default: 1.0
+		# Range: 0.0 ~ 20.0
+		toughness = 1.0
+
+	[armor_values.scale_mail_chestplate]
+		# Default: 6
+		# Range: 0 ~ 30
+		defense = 6
+		# Default: 1.0
+		# Range: 0.0 ~ 20.0
+		toughness = 1.0

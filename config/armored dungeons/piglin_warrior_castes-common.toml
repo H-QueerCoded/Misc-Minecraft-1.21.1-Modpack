@@ -1,0 +1,114 @@
+[general]
+	#Enable piglin caste assignment for new entities. Existing variants remain active.
+	enabled = true
+
+[exceptions]
+	#Entity IDs excluded from new piglin caste and equipment assignment.
+	entities = []
+
+[difficulty]
+	#Multiply base chances by the current difficulty multiplier.
+	scaleWithDifficulty = true
+	# Default: 0.5
+	# Range: 0.0 ~ 1000.0
+	easyMultiplier = 0.5
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	normalMultiplier = 1.0
+	# Default: 1.5
+	# Range: 0.0 ~ 1000.0
+	hardMultiplier = 1.5
+
+#Base chances. Caste and helmet are independent rolls; higher tiers take priority if totals exceed 1.0.
+[probabilities]
+
+	[probabilities.piglin]
+		# Default: 0.3
+		# Range: 0.0 ~ 1.0
+		blackChance = 0.3
+		# Default: 0.2
+		# Range: 0.0 ~ 1.0
+		blueChance = 0.2
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		redChance = 0.1
+		# Default: 0.22
+		# Range: 0.0 ~ 1.0
+		goldHelmetChance = 0.22
+		# Default: 0.08
+		# Range: 0.0 ~ 1.0
+		netheriteHelmetChance = 0.08
+
+	[probabilities.zombified_piglin]
+		# Default: 0.15
+		# Range: 0.0 ~ 1.0
+		blackChance = 0.15
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		blueChance = 0.1
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		redChance = 0.05
+		# Default: 0.15
+		# Range: 0.0 ~ 1.0
+		goldHelmetChance = 0.15
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		netheriteHelmetChance = 0.05
+
+	[probabilities.piglin_brute]
+		# Default: 0.2
+		# Range: 0.0 ~ 1.0
+		brownChance = 0.2
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		purpleChance = 0.1
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		goldHelmetChance = 0.25
+		# Default: 0.15
+		# Range: 0.0 ~ 1.0
+		netheriteHelmetChance = 0.15
+
+#Configuration for Piglin Caste Health Multipliers
+[piglin_castes_health]
+	#Health multiplier for Black Piglin variant (min: 1.0). e.g. 1.25 = 1.25x base health (+25%).
+	# Default: 1.25
+	# Range: 1.0 ~ 1000.0
+	blackHealthMultiplier = 1.0
+	#Health multiplier for Blue Piglin variant (min: 1.0). e.g. 1.75 = 1.75x base health (+75%).
+	# Default: 1.75
+	# Range: 1.0 ~ 1000.0
+	blueHealthMultiplier = 1.0
+	#Health multiplier for Red Piglin variant (min: 1.0). e.g. 2.25 = 2.25x base health (+125%).
+	# Default: 2.25
+	# Range: 1.0 ~ 1000.0
+	redHealthMultiplier = 1.0
+	#Health multiplier for Brown Piglin Brute variant (min: 1.0). e.g. 1.25 = 1.25x base health (+25%).
+	# Default: 1.25
+	# Range: 1.0 ~ 1000.0
+	bruteBrownHealthMultiplier = 1.0
+	#Health multiplier for Purple Piglin Brute variant (min: 1.0). e.g. 1.50 = 1.50x base health (+50%).
+	# Default: 1.5
+	# Range: 1.0 ~ 1000.0
+	brutePurpleHealthMultiplier = 1.0
+	#Chance for a Piglin Brute to spawn with a Pillager Gun (if pillagers_gun is loaded). e.g. 0.30 = 30%.
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	bruteGunChance = 0.3
+
+#Configuration for Piglin Helmet Tier Armor Bonuses
+[piglin_helmet_armor]
+	#Armor points bonus added to Piglins with Gold Helmet Tier (min: 0.0).
+	# Default: 5.0
+	# Range: 0.0 ~ 1000.0
+	goldArmorBonus = 5.0
+	#Armor points bonus added to Piglins with Netherite Helmet Tier (min: 0.0).
+	# Default: 8.0
+	# Range: 0.0 ~ 1000.0
+	netheriteArmorBonus = 8.0
+
+#Configuration for Mod Compatibility
+[compatibility]
+	#If true, ranged Piglins (with crossbows) have a chance to spawn with shields when 'mobsuseshields' is loaded.
+	rangedPiglinsUseShields = false

@@ -97,6 +97,18 @@ file = "config/appliedenhancements-common.toml"
 hash = "962c18273bbb7b91b38a1c7f6620b533ebd30c5add5e0f0d737eeef108f6f5c3"
 
 [[files]]
+file = "config/armored dungeons/armor_kit_mobs-common.toml"
+hash = "6403febad709e84e941bc20fcac10112e4bfb376b8dd8da88dbaee31723c775e"
+
+[[files]]
+file = "config/armored dungeons/armored_illagers-common.toml"
+hash = "0c6b3adb654a8e3e201f4ec41408bd8b6ea331bccf353442213984cf4cc85d26"
+
+[[files]]
+file = "config/armored dungeons/piglin_warrior_castes-common.toml"
+hash = "c0a94860ead0a6117e962a93b6c22e873b5a7e3c590b36871d3d27d1eecad820"
+
+[[files]]
 file = "config/azurelib.json"
 hash = "9f136b36f13fb0f7d0de277ecf6d933914c7dcc3f646136cd09a68e904659109"
 
@@ -828,6 +840,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
+file = "mods/armored-dungeons.pw.toml"
+hash = "354bd575330e533a4d446d4512b31029cb26b6a9233e8990f35751cf268643ae"
 metafile = true
 
 [[files]]

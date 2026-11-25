@@ -1,0 +1,136 @@
+[general]
+	#Enable the illager module: variants, equipment, captain bonuses and Royal Guard replacements. Existing entities are not removed.
+	enabled = false
+
+[difficulty]
+	#Multiply base chances by the current difficulty multiplier.
+	scaleWithDifficulty = true
+	# Default: 0.5
+	# Range: 0.0 ~ 1000.0
+	easyMultiplier = 0.5
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	normalMultiplier = 1.0
+	# Default: 1.5
+	# Range: 0.0 ~ 1000.0
+	hardMultiplier = 1.5
+
+#Base chances; diamond is selected first if combined chances exceed 1.0.
+[pillager]
+	# Default: 0.22
+	# Range: 0.0 ~ 1.0
+	goldChance = 0.22
+	# Default: 0.08
+	# Range: 0.0 ~ 1.0
+	diamondChance = 0.08
+
+#Base chances; Royal Guard replacement is a separate roll.
+[vindicator]
+	# Default: 0.22
+	# Range: 0.0 ~ 1.0
+	goldChance = 0.22
+	# Default: 0.08
+	# Range: 0.0 ~ 1.0
+	diamondChance = 0.08
+	#Base Royal Guard replacement chance; its difficulty multipliers are configured below.
+	# Default: 0.04
+	# Range: 0.0 ~ 1.0
+	royalGuardChance = 0.0
+	#Royal Guard replacement multiplier in Easy when difficulty scaling is enabled.
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	royalGuardEasyMultiplier = 1.0
+	#Royal Guard replacement multiplier in Normal when difficulty scaling is enabled.
+	# Default: 1.5
+	# Range: 0.0 ~ 1000.0
+	royalGuardNormalMultiplier = 1.5
+	#Royal Guard replacement multiplier in Hard when difficulty scaling is enabled.
+	# Default: 2.0
+	# Range: 0.0 ~ 1000.0
+	royalGuardHardMultiplier = 2.0
+
+#Variant chances rolled after a Royal Guard spawns.
+[royal_guard_variants]
+	# Default: 0.22
+	# Range: 0.0 ~ 1.0
+	goldChance = 0.22
+	# Default: 0.08
+	# Range: 0.0 ~ 1.0
+	diamondChance = 0.08
+
+#Configuration for Pillager Variants Stats
+[pillager_variants]
+	#Health multiplier for Gold Pillager variant. Base health is multiplied by this value (min: 1.0). e.g. 1.5 = 1.5x base health.
+	# Default: 1.5
+	# Range: 1.0 ~ 1000.0
+	goldHealthMultiplier = 1.0
+	#Armor points bonus added to Gold Pillager variant (min: 0.0).
+	# Default: 9.0
+	# Range: 0.0 ~ 1000.0
+	goldArmorBonus = 9.0
+	#Health multiplier for Diamond Pillager variant. Base health is multiplied by this value (min: 1.0). e.g. 2.0 = 2.0x base health.
+	# Default: 2.0
+	# Range: 1.0 ~ 1000.0
+	diamondHealthMultiplier = 1.0
+	#Armor points bonus added to Diamond Pillager variant (min: 0.0).
+	# Default: 18.0
+	# Range: 0.0 ~ 1000.0
+	diamondArmorBonus = 18.0
+
+#Configuration for Vindicator Variants Stats
+[vindicator_variants]
+	#Health multiplier for Gold Vindicator variant. Base health is multiplied by this value (min: 1.0).
+	# Default: 1.5
+	# Range: 1.0 ~ 1000.0
+	goldHealthMultiplier = 1.0
+	#Armor points bonus added to Gold Vindicator variant (min: 0.0).
+	# Default: 9.0
+	# Range: 0.0 ~ 1000.0
+	goldArmorBonus = 9.0
+	#Health multiplier for Diamond Vindicator variant. Base health is multiplied by this value (min: 1.0).
+	# Default: 2.0
+	# Range: 1.0 ~ 1000.0
+	diamondHealthMultiplier = 1.0
+	#Armor points bonus added to Diamond Vindicator variant (min: 0.0).
+	# Default: 18.0
+	# Range: 0.0 ~ 1000.0
+	diamondArmorBonus = 18.0
+
+#Configuration for Royal Guard attribute bonuses
+[royal_guard]
+	#Maximum health points for the Royal Guard. Default is 50.
+	# Default: 50.0
+	# Range: 1.0 ~ 10000.0
+	health = 40.0
+	#Armor points for the Royal Guard.
+	# Default: 20.0
+	# Range: 0.0 ~ 1000.0
+	armor = 20.0
+	#Armor toughness points for the Royal Guard.
+	# Default: 12.0
+	# Range: 0.0 ~ 1000.0
+	armorToughness = 12.0
+	#Knockback resistance percentage for the Royal Guard. 10.0 means 10%.
+	# Default: 10.0
+	# Range: 0.0 ~ 100.0
+	knockbackResistance = 10.0
+	#Cooldown in seconds between Royal Guard provocation activations.
+	# Default: 18.0
+	# Range: 0.0 ~ 3600.0
+	provocationCooldownSeconds = 18.0
+
+#Render-only outfit chances for Gold and Diamond Mountaineer Vindicators.
+[mountaineer_armor]
+	#Chance (0.0 - 1.0) for a Gold or Diamond Mountaineer to render a chest appearance. If selected, one of the three chest styles is chosen uniformly.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	chestChance = 0.5
+	#Chance (0.0 - 1.0) for a Gold or Diamond Mountaineer to render boots. This roll is independent from the chest appearance.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	bootsChance = 0.5
+
+#Configuration for Mod Compatibility
+[compatibility]
+	#If true, ranged Illagers (Pillagers) have a chance to spawn with shields when 'mobsuseshields' is loaded.
+	rangedIllagersUseShields = false
