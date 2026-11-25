@@ -1,0 +1,14 @@
+{
+  "type": "immersiveengineering:metal_press",
+  "energy": 2400,
+  "input": {
+    "item": "nautec:cast_iron_ingot"
+  },
+  "mold": "immersiveengineering:mold_rod",
+  "result": {
+    "basePredicate": {
+      "item": "nautec:cast_iron_rod"
+    },
+    "count": 2
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nautec:cast_iron_block"
+  },
+  "result": {
+    "id": "create:industrial_iron_block"
+  }
+}

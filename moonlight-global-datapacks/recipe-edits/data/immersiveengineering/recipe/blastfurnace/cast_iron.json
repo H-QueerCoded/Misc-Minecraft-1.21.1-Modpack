@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:blast_furnace",
+  "input": {
+    "tag": "c:raw_materials/iron"
+  },
+  "result": {
+    "item": "nautec:cast_iron_ingot"
+  },
+  "slag": {
+    "tag": "c:slag"
+  },
+  "time": 1200
+}

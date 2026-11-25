@@ -2118,6 +2118,10 @@ hash = "f1424c9a7a883604cbc3c4d0b092c66d33ff6d38761a4d6c45c9cd0b56b1b083"
 metafile = true
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/abnoramls_delight/recipe/silver_knife.json"
+hash = "d263784d413763fd1faa94d1311b116cbd83c36555c2a9ae04978f6ccfe0e6ea"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/animal_garden_narwhal/tags/worldgen/biome/mob.json"
 hash = "bfab17d418624640eb4da49485d392c14481616e45bd0595af8051d6929629a5"
 
@@ -2140,6 +2144,10 @@ hash = "d74cf379f7f342e5e7e1d57e4ad90c9b2de53183cc753c35eb9f1351e4180c4f"
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/copper_casing.json"
 hash = "9180740fdbed2d84ade4dc7639bb12570a34e74986f73cc2d0e46585514a1094"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/industrial_iron_block_from_ingots_iron_stonecutting.json"
+hash = "91b75fee2139dbd872b001d18539ff3f0d4af83e81bdcc6b40956d95f26f0a18"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/mixing/brass_ingot.json"
@@ -2172,6 +2180,10 @@ hash = "5e89b7bda8571abeeacb5beadbc8391ea191c00594efb27c608e936a77b711e0"
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/create_train_physics/tags/block/train_motor.json"
 hash = "a25373dd03f64b3337e219c057a400a394549612bfbfbb1e1abccc9486574318"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/e2s2/chests/dragon_treasure.json"
+hash = "6bd9a8df006c05cd6bbb1b3a095ba8d18f8613758afd25b2788f882ea8fc2e8d"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/alloying/brass.json"
@@ -2718,12 +2730,20 @@ file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe
 hash = "d7e428844e128ea1856f2886d65c69f522ec10a66e9e018525ecf0c29c426113"
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/blastfurnace/cast_iron.json"
+hash = "9bf4b3a6e1ca1c4cf3f41ad59a5f0d6c340154eff1b0669583f3b838c167240f"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/crusher/slush.json"
 hash = "646da885f9c90f138a1a0713d38ac687c0dcf08f1afa836ea8489c7b4c5b3d7a"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/crusher/wheat.json"
 hash = "6aae01411943751a8822fa541a9be1e0e227cd68b011d8a2ea8a24248bb94b45"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/metalpress/rod_cast_iron.json"
+hash = "c4c6f02d3ad485cbaa99b8f7e9f73e78e43d94d1209f7b428f5b956ceb716fbe"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/oritech/recipe/foundry/alloy/electrum.json"
