@@ -2126,6 +2126,10 @@ file = "moonlight-global-datapacks/recipe-edits/data/animal_garden_narwhal/tags/
 hash = "bfab17d418624640eb4da49485d392c14481616e45bd0595af8051d6929629a5"
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/c/tags/item/foods/edible_when_placed.json"
+hash = "339583783e0b1a723ddac7246430b5b01d279ba0211718217a05f9aeedbd1767"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/c/tags/item/mushrooms.json"
 hash = "1c3cffe2aebf23d6034625c683c5bda6edacde42a6a04d4c363fb4ad7e7b2484"
 
@@ -2184,6 +2188,10 @@ hash = "a25373dd03f64b3337e219c057a400a394549612bfbfbb1e1abccc9486574318"
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/e2s2/chests/dragon_treasure.json"
 hash = "6bd9a8df006c05cd6bbb1b3a095ba8d18f8613758afd25b2788f882ea8fc2e8d"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/farmersdelight/tags/item/pies.json"
+hash = "8fc628cdb713196a41a4cec866b6c0ce6750fad78d5f03c69ccad9154fddd963"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/hephaestus/recipe/smeltery/alloying/brass.json"
@@ -2872,6 +2880,14 @@ hash = "373f8178943f1f70ab12dcaa8bcb3ee097f89a2f8f64db3636c67036c1fb4a9f"
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/sawmill/recipe/treated_wood_stick.json"
 hash = "55695e5775f47de10ceb2e3e0742edd27f55fc51de4cac8c33e7aa50fd60f58c"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sol_valheim_reforged/tags/item/always_edible.json"
+hash = "5e246cf999f7d8e13e9923d7608ad9823af4855a1489f87af9f5c33e30addb06"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/sol_valheim_reforged/tags/item/not_food.json"
+hash = "b0df238f09c99a0fb9226038af2af1bf933096623f266e3b5edd90261753f9b3"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/pack.mcmeta"

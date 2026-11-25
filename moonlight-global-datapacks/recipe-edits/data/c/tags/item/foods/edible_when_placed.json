@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:pumpkin_pie",
+    "vanilladelight:melon_pie",
+    "vanilladelight:chorus_pie",
+    "ends_delight:chorus_fruit_pie"
+  ]
+}

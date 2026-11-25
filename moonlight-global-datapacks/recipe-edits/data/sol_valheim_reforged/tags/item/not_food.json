@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "nautec:air_bottle",
+    "#vinery:red_wine",
+    "#vinery:white_wine",
+    "applewoodrebarked:awoo_pie_moonshine",
+    "#farmersdelight:drinks",
+    "create:builders_tea"
+  ]
+}
