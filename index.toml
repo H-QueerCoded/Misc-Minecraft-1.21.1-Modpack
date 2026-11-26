@@ -1709,6 +1709,11 @@ hash = "9725b2ea073ef1a7a65260ac35393abb020596140382ce7a05eecc8ab8869a00"
 metafile = true
 
 [[files]]
+file = "mods/pro-placer.pw.toml"
+hash = "7fc653d77e2f6f083f95a1dc0b89645498684e9c721b6aad27d60b1ecafc870e"
+metafile = true
+
+[[files]]
 file = "mods/productivebees.pw.toml"
 hash = "7aa8bf129e51bda25386e18ebcd0db7eae278e95227406e8101a320cacf2f9b6"
 metafile = true
@@ -1746,11 +1751,6 @@ metafile = true
 [[files]]
 file = "mods/rearm.pw.toml"
 hash = "0252f074c9b8a9ef31b60ea5cc2535433cc69a06214e4e7aeaaffe2144d5d803"
-metafile = true
-
-[[files]]
-file = "mods/reforged-accurate-block-placement.pw.toml"
-hash = "480e8e885c737f0f0f8be377f02e113c9ed9d34d8aa0eaf527eede799482239c"
 metafile = true
 
 [[files]]
