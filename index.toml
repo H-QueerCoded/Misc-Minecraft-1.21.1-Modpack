@@ -1659,6 +1659,11 @@ hash = "b8b26a570f9ae36c11f5cf159eb236579adcd441047a2c8708a2e86f8ce9099a"
 metafile = true
 
 [[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "f0f705a89c898c2ce838675a33997c6c61fd69c152437518161266bb01e4b2c5"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "5a91a3d12946bd88686920cfaa7fb202c5f0c4bb034e39a280b2f1657e9630e6"
 metafile = true
