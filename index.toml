@@ -1439,7 +1439,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "3c703781ea00c9cf968e1051b57b9ee28380a0cd0f038d1087b91d884cc30fb7"
+hash = "2efee2f011af4d83740abe0d26212a7f9c68a794926d84d016d0f4545284a6b0"
 metafile = true
 
 [[files]]
@@ -1599,7 +1599,7 @@ metafile = true
 
 [[files]]
 file = "mods/neoecoae.pw.toml"
-hash = "033d18bfd38a871bef391980f8098d5bfa3e9a0d07f66a6d1c4fb09726dd2a46"
+hash = "f15d4d87b131f57207e434f67da78528a7ea0f001dfa8b8dc9a6c4245e19af27"
 metafile = true
 
 [[files]]
