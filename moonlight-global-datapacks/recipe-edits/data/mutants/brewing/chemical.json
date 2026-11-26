@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:ominous_bottle"
+  },
+  "output": {
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "mutantmonsters:chemical_x"
+      }
+    },
+    "id": "minecraft:potion"
+  },
+  "reagent": {
+    "item": "immersiveengineering:dust_uranium"
+  }
+}

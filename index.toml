@@ -739,6 +739,16 @@ hash = "897ed6b60a4d27591a3373b5cec0e355136b29f47f4b92c0c472c4fca5c61f61"
 metafile = true
 
 [[files]]
+file = "mods/ae2-fluid-crafting-terminal.pw.toml"
+hash = "ff37fc309857d2fcdbecd145580140a86e3bcdcecb0e62965d4b781d94eb5c2d"
+metafile = true
+
+[[files]]
+file = "mods/ae2-tangible-bookmarks.pw.toml"
+hash = "5d2040f9bfb57931fb8266e89dd911b4856519e853340b8cda595c562b4eaabb"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "e5a4c0315e40bab4b2ba410dd5d2dd8b7662eaea525c1b2e6bebfa35fe3e71c7"
 metafile = true
@@ -1131,11 +1141,6 @@ metafile = true
 [[files]]
 file = "mods/emi-hide-enchantment-books.pw.toml"
 hash = "2bca19682e66a03c726f9a9994f176338edf75e1ed9f0aff02838e71f7d53cab"
-metafile = true
-
-[[files]]
-file = "mods/emi-patternizer.pw.toml"
-hash = "d80e811774e8a7ce54650d2aaa68aee7588ef3ae746d3165f6c33e9e220a9138"
 metafile = true
 
 [[files]]
@@ -1576,6 +1581,11 @@ metafile = true
 [[files]]
 file = "mods/mycomancy.pw.toml"
 hash = "4fbe510876a13bf90b5276efec1ee83dd95955b17bdbc4389897541514eabb36"
+metafile = true
+
+[[files]]
+file = "mods/myotus-lib.pw.toml"
+hash = "99d2c0db4de0b9558307c2452b7c775db2c63a5a61c0487b5298fac254d2ecd7"
 metafile = true
 
 [[files]]
@@ -2144,7 +2154,7 @@ hash = "f1424c9a7a883604cbc3c4d0b092c66d33ff6d38761a4d6c45c9cd0b56b1b083"
 metafile = true
 
 [[files]]
-file = "moonlight-global-datapacks/recipe-edits/data/abnoramls_delight/recipe/silver_knife.json"
+file = "moonlight-global-datapacks/recipe-edits/data/abnormals_delight/recipe/silver_knife.json"
 hash = "d263784d413763fd1faa94d1311b116cbd83c36555c2a9ae04978f6ccfe0e6ea"
 
 [[files]]
@@ -2794,6 +2804,10 @@ hash = "6aae01411943751a8822fa541a9be1e0e227cd68b011d8a2ea8a24248bb94b45"
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/metalpress/rod_cast_iron.json"
 hash = "c4c6f02d3ad485cbaa99b8f7e9f73e78e43d94d1209f7b428f5b956ceb716fbe"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/mutants/brewing/chemical.json"
+hash = "034610fcc4c3559ada4ef89d238e9df7882115614fc7a9db057401bfe21897f6"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/oritech/recipe/foundry/alloy/electrum.json"
