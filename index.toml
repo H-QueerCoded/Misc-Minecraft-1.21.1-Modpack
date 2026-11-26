@@ -517,6 +517,10 @@ file = "config/oritech-startup.toml"
 hash = "eb5b17c2b17acc99383268c8a74a8c2601bd94fcbf60b6583104ab9e53b2950a"
 
 [[files]]
+file = "config/overflowingbars-client.toml"
+hash = "4c6394514049138c01d93ba56d3acc393bb4e19cd8308928f6e98a508d392b4e"
+
+[[files]]
 file = "config/particular-common.toml"
 hash = "744a0cf56c99a5c9c1adbb83eb88a57cb994648c9f85f7faf4ec458676156f54"
 
@@ -1637,6 +1641,11 @@ metafile = true
 [[files]]
 file = "mods/oritech.pw.toml"
 hash = "dbb2a2fc538df2577ac83d9eb0d7d4a67b15b3e2f1570ac380dacd79f8ddc0a4"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
