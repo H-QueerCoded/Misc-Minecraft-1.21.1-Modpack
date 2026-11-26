@@ -1804,6 +1804,11 @@ hash = "3e88d197a1ef48696cee4a7691155b50c27b8dd3bf14a1872780918e2362a4be"
 metafile = true
 
 [[files]]
+file = "mods/right-click-and-milk.pw.toml"
+hash = "73d08f8ff9736353b8dda9d80dd140273f5232768ac70e28115505033c2d0a36"
+metafile = true
+
+[[files]]
 file = "mods/savage-ender-dragon.pw.toml"
 hash = "8976e8d4e21594aee48e6a0205f7938ae05767704ecf98dd5fb884abd46a371f"
 metafile = true
@@ -2178,10 +2183,6 @@ hash = "5c8cb0a47e4062ed7d7de086ef152bc2f8bb2f96641f4fc3786afc5e0a3a6373"
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/rose_quartz_tiles.json"
 hash = "9f1be91ded67ad21a39e63c9ca04e445e96a10496a9e015ea9cde271d1b75726"
-
-[[files]]
-file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/small_rose_quartz_tiles.json"
-hash = "2212660688d8fa86809a1c575a05bc88e1c45e84cf5abb4f00a8b3a81320709e"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/track.json"
