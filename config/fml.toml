@@ -32,3 +32,5 @@ earlyWindowSquir = false
 [dependencyOverrides]
 	ldlib2 = ["-jei"]
 	polymorph = ["-jei"]
+	ae2fct = ["-jei"]
+	ae2tb = ["-jei"]

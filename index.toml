@@ -338,7 +338,7 @@ hash = "b6c85cb392f799ed932ffe8d6051f48a283a0df3f8674acf4f8d89341836e686"
 
 [[files]]
 file = "config/fml.toml"
-hash = "68e91a4c22194406ffba7006f0e24683909e72dba7a99a9a0ea53f82c1e61acd"
+hash = "ed186f0052e4d8565e8b5cecfe8fe0e7c6b22a4f4787fe60ca5d6fefe2f483ac"
 
 [[files]]
 file = "config/friendsandfoes.json"
@@ -2804,10 +2804,6 @@ hash = "6aae01411943751a8822fa541a9be1e0e227cd68b011d8a2ea8a24248bb94b45"
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/immersiveengineering/recipe/metalpress/rod_cast_iron.json"
 hash = "c4c6f02d3ad485cbaa99b8f7e9f73e78e43d94d1209f7b428f5b956ceb716fbe"
-
-[[files]]
-file = "moonlight-global-datapacks/recipe-edits/data/mutants/brewing/chemical.json"
-hash = "034610fcc4c3559ada4ef89d238e9df7882115614fc7a9db057401bfe21897f6"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/oritech/recipe/foundry/alloy/electrum.json"
