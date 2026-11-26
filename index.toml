@@ -281,14 +281,6 @@ file = "config/emi.css"
 hash = "a857b379eeb0c61e4f6205f5ed1e7ccd6eac7f7ea4d6799c4433cd7eea461599"
 
 [[files]]
-file = "config/enchantmentdisabler/config.toml"
-hash = "587be66a5137971d4e0b6f1bf5ae20e79df82afb18559e9f46d2d40b83123bbd"
-
-[[files]]
-file = "config/enchdesc.json"
-hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
-
-[[files]]
 file = "config/enderdrives-server.toml"
 hash = "2b713ef8e6c447e32b5deab4ef190ef9977b1e218aaf89397498e8cb44b92534"
 
@@ -546,7 +538,7 @@ hash = "8bddb5b165a483b32ae500bf42501474fd0084115664221c5fb578540b1155ae"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "93a2cdd5db30ea442fe6ac870bd28050439edad9d4f0fe56a149ad3d8f397c4b"
+hash = "b8be8cdac058c6d92f52f36cfb83363e2b856b46ca3bcf13c40e83423fe83311"
 
 [[files]]
 file = "config/reachbehind-server.toml"
@@ -1150,16 +1142,6 @@ metafile = true
 [[files]]
 file = "mods/enchantlib.pw.toml"
 hash = "a7acbc644662bbb04f51169006855dc42c802b3d28d15b5f6a433efc1df4ac76"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "88b9e727611f06350c407aeb4ccb41207b5058fef127abe0ff24c13505618aaf"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-disabler.pw.toml"
-hash = "d2627635443f2f8609f35cc773a79faf7c237c8717c8059bc60360c904c150ce"
 metafile = true
 
 [[files]]
@@ -2108,9 +2090,24 @@ hash = "59fac373fca61b2f9b15fa3bdb8f1f35d2cb619028af488bf18dbf9e3afd745a"
 metafile = true
 
 [[files]]
-file = "moonlight-global-datapacks/improved-enchanting.pw.toml"
-hash = "bfc0861b63087a366f29af89b699806110ed53a42b09cf558997a703e1f83e6b"
-metafile = true
+file = "moonlight-global-datapacks/improved-enchanting-lite/data/improvedenchanting/enchantment/cubism.json"
+hash = "5f16577258c9b84151737bbbda1b51392dd9555e7350d974ef220c31eb0678dd"
+
+[[files]]
+file = "moonlight-global-datapacks/improved-enchanting-lite/data/improvedenchanting/enchantment/illagers_bane.json"
+hash = "d557a085912087c2f37ba5a354e236132d56793cead11e3859e060337a7c1ca2"
+
+[[files]]
+file = "moonlight-global-datapacks/improved-enchanting-lite/data/improvedenchanting/tags/enchantment/in_enchanting_table.json"
+hash = "e45be0542e0177a1306e5d76777811179b016ac53341f27574d1ca3ea0cd3ee6"
+
+[[files]]
+file = "moonlight-global-datapacks/improved-enchanting-lite/data/improvedenchanting/tags/enchantment/non_treasure.json"
+hash = "83743f37c6fdf31bb72e4bc85e25c926d41e96ed90ea01ee254910f741544913"
+
+[[files]]
+file = "moonlight-global-datapacks/improved-enchanting-lite/pack.mcmeta"
+hash = "05e85711341a545f3c44630f4bdd68e7c16e9928a2bbd7220a2fc5fa30663349"
 
 [[files]]
 file = "moonlight-global-datapacks/purpurpack-breed-axolotl-with-tropical-fish-item.pw.toml"
