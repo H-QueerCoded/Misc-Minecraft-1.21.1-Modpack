@@ -1,0 +1,13 @@
+name = "Compact F3 Plus"
+filename = "compactf3plus-1.2.1-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/heeYEpPT/versions/KTgigDYK/compactf3plus-1.2.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "3ec2acdc7f6ba7bcdaea34d59c1982eb89e10da72a5289d2fa29549053508cb613910eeed6e1a17d80f795c5010b2476060fde8de4f6fbccbf87d72aefa4a2d5"
+
+[update]
+[update.modrinth]
+mod-id = "heeYEpPT"
+version = "KTgigDYK"

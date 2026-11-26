@@ -973,8 +973,8 @@ hash = "3f6e74711a0c2677548ec3a5ef36a3fbf79b5a9f2b406aab73b1ca678fc518f9"
 metafile = true
 
 [[files]]
-file = "mods/compact-f3.pw.toml"
-hash = "646355c22bd1765b4abb8a3b52fdef5af42674bc5f95ee8ea7e660980b91d8d6"
+file = "mods/compact-f3-plus.pw.toml"
+hash = "0b83e7b4bb05be5c251a58af68e70ca084e82ded8aa7459e043c38450d9ed046"
 metafile = true
 
 [[files]]
