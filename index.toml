@@ -1863,6 +1863,11 @@ hash = "2a1c96733de8dbafbb978e396d971b71d3a4d1068e2467b16275b6a91cf265a1"
 metafile = true
 
 [[files]]
+file = "mods/smithing-template-viewer.pw.toml"
+hash = "95a454ef64b7bf3f1e00bd346012389359b14f0ad11521cf76c869b586537495"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-life-valheim-reforged.pw.toml"
 hash = "c16e1be49014758e7f357283f803233903375ab94e36dd2f0d647901327524ec"
 metafile = true
