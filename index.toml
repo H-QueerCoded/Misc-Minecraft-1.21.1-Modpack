@@ -2100,11 +2100,11 @@ metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/improved-enchanting-lite/data/improvedenchanting/enchantment/cubism.json"
-hash = "5f16577258c9b84151737bbbda1b51392dd9555e7350d974ef220c31eb0678dd"
+hash = "6dab85cac863c7a25cd305c007e4ea494baf616430cfeab9fe1d69692d29f077"
 
 [[files]]
 file = "moonlight-global-datapacks/improved-enchanting-lite/data/improvedenchanting/enchantment/illagers_bane.json"
-hash = "d557a085912087c2f37ba5a354e236132d56793cead11e3859e060337a7c1ca2"
+hash = "ad3c0c06bd98162f0b9f14353bb213ec26ada854885aba462b6eacf80e2d172d"
 
 [[files]]
 file = "moonlight-global-datapacks/improved-enchanting-lite/data/improvedenchanting/tags/enchantment/in_enchanting_table.json"

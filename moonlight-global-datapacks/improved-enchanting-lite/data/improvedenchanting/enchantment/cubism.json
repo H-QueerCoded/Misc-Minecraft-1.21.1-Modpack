@@ -30,7 +30,9 @@
   },
   "exclusive_set": [
     "improvedenchanting:illagers_bane",
-    "minecraft:bane_of_arthropods"
+    "minecraft:bane_of_arthropods",
+    "minecraft:smite",
+    "minecraft:sharpness"
   ],
   "max_cost": {
     "base": 25,

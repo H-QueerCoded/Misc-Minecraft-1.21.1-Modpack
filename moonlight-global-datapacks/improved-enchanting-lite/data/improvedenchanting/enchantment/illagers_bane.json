@@ -25,7 +25,9 @@
   },
   "exclusive_set": [
     "improvedenchanting:cubism",
-    "minecraft:bane_of_arthropods"
+    "minecraft:bane_of_arthropods",
+    "minecraft:smite",
+    "minecraft:sharpness"
   ],
   "max_cost": {
     "base": 25,
