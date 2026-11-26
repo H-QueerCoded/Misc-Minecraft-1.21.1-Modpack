@@ -10,6 +10,10 @@
         "path": "recipe/base_materials/bronze_alloy_ingot.json"
       },
       {
+      	"namespace": "create",
+      	"path": "recipe/(small_)?rose_quartz([a-z]|_)*stonecutting.json"
+      },
+      {
         "namespace": "oritech",
         "path": "recipe/crafting/alloy/(steel|electrum|adamant).json"
       },

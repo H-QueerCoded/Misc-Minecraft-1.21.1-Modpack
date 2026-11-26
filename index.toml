@@ -2148,6 +2148,10 @@ file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/brass_casing.
 hash = "b58ebb954b593ced86f290b33fe744cb28c1502a3505e0048466fdc0fd40b470"
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/contraption_controls.json"
+hash = "ddc019ae42dd6011cd311e16c2f231e9f5585f696bbe6ca4705e4677fa4c6ba7"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/controller_rail.json"
 hash = "d74cf379f7f342e5e7e1d57e4ad90c9b2de53183cc753c35eb9f1351e4180c4f"
 
@@ -2168,6 +2172,18 @@ file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/railway_casin
 hash = "e8349e63a4af1f066c6655de1255271c572247bba592475586ff28f2aca6fef0"
 
 [[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/rose_quartz_block.json"
+hash = "5c8cb0a47e4062ed7d7de086ef152bc2f8bb2f96641f4fc3786afc5e0a3a6373"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/rose_quartz_tiles.json"
+hash = "9f1be91ded67ad21a39e63c9ca04e445e96a10496a9e015ea9cde271d1b75726"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/small_rose_quartz_tiles.json"
+hash = "2212660688d8fa86809a1c575a05bc88e1c45e84cf5abb4f00a8b3a81320709e"
+
+[[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/track.json"
 hash = "63f8f8d0a1ccdfb8fd57f989646db451dbf21e04877965378888384ab43be17c"
 
@@ -2178,6 +2194,10 @@ hash = "ab770866fd1e51953c330425f5a871fcbf4cea092cf8797ea9a1b61cf11caea0"
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/train_signal.json"
 hash = "e282fed7b3baac5c5e39386ecaee14b6ce2216556413e98874ca983723579076"
+
+[[files]]
+file = "moonlight-global-datapacks/recipe-edits/data/create/recipe/weathered_iron_block_from_ingots_iron_stonecutting.json"
+hash = "1e3b9f2852a439ec751db4abcdfe2993efbf93f2f1a06b2b06e359c38dc66843"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/data/create/tags/item/sleepers.json"
@@ -2897,7 +2917,7 @@ hash = "b0df238f09c99a0fb9226038af2af1bf933096623f266e3b5edd90261753f9b3"
 
 [[files]]
 file = "moonlight-global-datapacks/recipe-edits/pack.mcmeta"
-hash = "2247b51b8f513d8d40ae4de16dc41b1663fc549dd48ad023c4b76cf5f03e0ac3"
+hash = "0368aec74687383e235e5c2f3e316419c865dcd7f1630538748717ea5b9766f4"
 
 [[files]]
 file = "resourcepacks/bare-bones-boss-bars.pw.toml"
