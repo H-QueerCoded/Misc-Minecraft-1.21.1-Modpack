@@ -1819,6 +1819,11 @@ hash = "32d6432934e1db8ba0f8d3212b42fe8cf11651c0cc9872ca2e8f8ac96d6559c0"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
@@ -1916,6 +1921,11 @@ metafile = true
 [[files]]
 file = "mods/stormies-spiders.pw.toml"
 hash = "7eb4975c58555111a7ddbc2d01b5d55a51585bf55b0145a6de1b6d90ef1a056c"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "a84f7b320926970b11a158f1eb734d9b4127188883d20945ed4d33ffe13da7a1"
 metafile = true
 
 [[files]]
