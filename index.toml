@@ -1294,6 +1294,11 @@ hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
 metafile = true
 
 [[files]]
+file = "mods/goety.pw.toml"
+hash = "e41fde783f2f9c53e3b4f887cd05f5063c758810a07e97f1710aa679874a9cc6"
+metafile = true
+
+[[files]]
 file = "mods/golemsarefriends.pw.toml"
 hash = "ee2a1787a14e5e0e748b8801daede1722c4bf01d99582541c3ea603ed0e429ba"
 metafile = true
