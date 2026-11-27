@@ -1174,6 +1174,11 @@ hash = "b87fc85aeba034f880cd7f175a1e31b06b7e740e1f981fd1c89068298191fb61"
 metafile = true
 
 [[files]]
+file = "mods/enderscape.pw.toml"
+hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "03a2f273597c1d2bef87eaa60af9287d7d54ec68cc0a0d4b5b79e1497b16ad3e"
 metafile = true
@@ -1799,11 +1804,6 @@ hash = "6332130dba21e2ee04b9fae4ecc88a652a5bb39fc7423f14723362969badece5"
 metafile = true
 
 [[files]]
-file = "mods/resonant-end.pw.toml"
-hash = "4f4459a84a214fe6591b14abb009759377b544da1b0895560df9b322f67c14a6"
-metafile = true
-
-[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
 metafile = true
@@ -1979,6 +1979,11 @@ hash = "0021a91da4e647dbad281ac71b9da02ce25e69b97a9aa66b5e117d4425c6425e"
 metafile = true
 
 [[files]]
+file = "mods/trimmed.pw.toml"
+hash = "28db7535fae8c33b5547fefefdd88ead89c7edd7c1f330a5f370dca76e6706c9"
+metafile = true
+
+[[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "374f727e655fba152a24f3904559b5bb5d4b24221e6556e54092fb64aaf1a8dc"
 metafile = true
@@ -2094,6 +2099,11 @@ hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
+file = "moonlight-global-datapacks/dungeons-and-taverns-end-castle-standalone.pw.toml"
+hash = "cbb0aff510eba78a64b7606588efcfac657e4c3e7f31a41045a5d528d72b10a5"
+metafile = true
+
+[[files]]
 file = "moonlight-global-datapacks/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
 hash = "d34426e551f0c8bc91fe68f871ddf685c227ada7c2120904b9f64ca95f816148"
 metafile = true
@@ -2142,6 +2152,11 @@ hash = "83743f37c6fdf31bb72e4bc85e25c926d41e96ed90ea01ee254910f741544913"
 [[files]]
 file = "moonlight-global-datapacks/improved-enchanting-lite/pack.mcmeta"
 hash = "05e85711341a545f3c44630f4bdd68e7c16e9928a2bbd7220a2fc5fa30663349"
+
+[[files]]
+file = "moonlight-global-datapacks/nofun-dnt.pw.toml"
+hash = "1c8cd670d095628aa2db2dea154145278981ee5efce8a044d965538915a1898c"
+metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/purpurpack-breed-axolotl-with-tropical-fish-item.pw.toml"

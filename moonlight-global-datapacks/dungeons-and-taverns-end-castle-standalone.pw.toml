@@ -1,0 +1,13 @@
+name = "[RETIRED] Dungeons and Taverns End Castle Standalone"
+filename = "DnT End Castle Standalone v1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WIs8E6hv/versions/3pVvREin/DnT%20End%20Castle%20Standalone%20v1.1.zip"
+hash-format = "sha512"
+hash = "19af44e0f5d7724c3727a85cb28969c81950abe774eeb2e4c093b44f3a1472ba0087b989abf2f966f3c413537ee26c5089cfc6fc2759a1ef0a58f9c23dac176b"
+
+[update]
+[update.modrinth]
+mod-id = "WIs8E6hv"
+version = "3pVvREin"
