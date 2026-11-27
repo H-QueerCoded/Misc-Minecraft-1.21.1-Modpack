@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-mob-spawn-control.pw.toml"
-hash = "99d611fbe6941f2c145048dbb828881b1534dec9da9d001441c3ee541830e172"
+hash = "5235405c8c3ff128cd48a950b2d2e87bf017cb1397b601831dd79b2081dd2352"
 metafile = true
 
 [[files]]
@@ -1755,7 +1755,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-optimization.pw.toml"
-hash = "dde64255de517834081a9089ce3373e37ee9f2f55dc990890e3dd048dfb313c7"
+hash = "2cb5bc20f389afae0634d0c0e24a3a30d84f73aab8f518bb504edbc55cf191d1"
 metafile = true
 
 [[files]]
