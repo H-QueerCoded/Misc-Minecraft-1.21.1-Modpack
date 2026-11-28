@@ -266,7 +266,7 @@ hash = "16bc1f998738810cae793b1dc272122dde8b246bffa408f227357803e16ba692"
 
 [[files]]
 file = "config/dragonfight.json"
-hash = "b43505f2bd11c17f5a23eebd8947a5e0ee73630162c1aeca732b51040b5fe4e6"
+hash = "b1e8ced244a5921c426c84f55e23df20190c94dad56c8235772b0f002f7e7314"
 
 [[files]]
 file = "config/easyanvils-common.toml"
